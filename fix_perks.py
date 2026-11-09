@@ -32,6 +32,9 @@ fixes = {
     },
     "Tableau for Students (Tableau Desktop & Prep)": {
         "fund": "100% gratis (precio comercial ~$840 USD/año)"
+    },
+    "Google AI Pro / Gemini Advanced & NotebookLM Plus for Students": {
+        "fund": "100% Gratuito por 12 meses para estudiantes universitarios verificados (ahorro ~$240 USD/año)"
     }
 }
 

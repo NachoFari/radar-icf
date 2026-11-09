@@ -3324,42 +3324,6 @@
   },
   {
     "kind": [
-      "desc"
-    ],
-    "name": "Altium Designer — Licencia Estudiantil Gratuita para Diseño Electrónico y PCB",
-    "org": "Altium Education",
-    "area": "Deep Tech y Hardware",
-    "scope": "Internacional",
-    "city": "Online / Global",
-    "desc": "Licencia educacional gratuita de 6 meses (renovable mientras dure la carrera) del estándar de la industria mundial para diseño de circuitos impresos (PCB) y sistemas electrónicos embebidos. Incluye captura esquemática profesional, enrutamiento de alta velocidad para señales de alta frecuencia, simulación SPICE, análisis de integridad de señal y modelamiento 3D MCAD/ECAD.",
-    "fund": "Licencia comercial valorada en más de $3.000 USD/año totalmente gratuita para estudiantes de ingeniería.",
-    "req": "Ser estudiante regular de educación superior y verificar condición mediante correo institucional @usm.cl o certificado de alumno regular.",
-    "deadline": null,
-    "status": "permanente",
-    "apply": "https://www.altium.com/education/student-licenses",
-    "src": "https://www.altium.com",
-    "note": "Crucial para proyectos de instrumentación física, desarrollo de sensores, hardware de laboratorio, robótica y memorias en física experimental o electrónica aplicada."
-  },
-  {
-    "kind": [
-      "desc"
-    ],
-    "name": "Deepnote Education Plan & Perplexity Pro para Investigación Científica",
-    "org": "Deepnote / Perplexity AI",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
-    "city": "Online / Global",
-    "desc": "Entornos de vanguardia para investigación computacional y ciencia de datos. Deepnote provee notebooks Jupyter colaborativos en la nube con GPUs y CPUs sin configuración local, control de versiones interactivo y paneles compartidos para equipos científicos. Se complementa con los programas educativos de Perplexity AI para búsqueda y síntesis de literatura científica indexada con citas bibliográficas verificables.",
-    "fund": "Plan Deepnote Education/Team 100% gratuito (valor comercial $20 USD/mes/usuario) + acceso académico a herramientas de búsqueda con IA.",
-    "req": "Crear y validar cuenta con correo institucional @usm.cl.",
-    "deadline": null,
-    "status": "permanente",
-    "apply": "https://deepnote.com/education",
-    "src": "https://deepnote.com",
-    "note": "Plataforma ideal para laboratorios de simulación numérica, econofísica, astrofísica y proyectos de titulación en grupo sin fricciones de configuración de librerías."
-  },
-  {
-    "kind": [
       "ind",
       "prof"
     ],
@@ -3806,5 +3770,41 @@
     "apply": "https://www.centroimpact.cl",
     "src": "https://www.centroimpact.cl",
     "note": "Ideal para estudiantes interesados en física médica, imágenes por resonancia y bioingeniería."
+  },
+  {
+    "name": "Google AI Pro / Gemini Advanced & NotebookLM Plus for Students",
+    "org": "Google · Google One AI Premium Student Offer",
+    "kind": [
+      "desc"
+    ],
+    "area": "Software Científico & Descuentos Estudiantiles",
+    "scope": "Online / Global",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plan estudiantil de inteligencia artificial de Google: incluye acceso a Gemini Advanced (modelos de frontera con ventana de contexto extendida para programación científica, LaTeX y análisis de papers), NotebookLM Plus con límites ampliados para estudio e investigación, integración de Gemini en Docs/Drive y almacenamiento de Google One.",
+    "fund": "100% Gratuito por 12 meses para estudiantes universitarios verificados (ahorro ~$240 USD/año)",
+    "req": "Ser estudiante universitario activo con correo institucional (@usm.cl) y verificar matrícula mediante SheerID.",
+    "note": "Actívalo desde tu cuenta Google personal vinculando la verificación estudiantil con tu correo universitario.",
+    "apply": "https://gemini.google/students/",
+    "src": "https://one.google.com/ai-student"
+  },
+  {
+    "name": "Google Cloud for Students & Vertex AI Skills Boost",
+    "org": "Google Cloud Education",
+    "kind": [
+      "desc"
+    ],
+    "area": "Software Científico & Descuentos Estudiantiles",
+    "scope": "Online / Global",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Acceso estudiantil a la infraestructura de aprendizaje de Google Cloud y Vertex AI. Incluye 200 créditos gratuitos en Google Cloud Skills Boost para laboratorios prácticos de Machine Learning, IA Generativa, BigQuery y Kubernetes, además de certificaciones digitales y nivel gratuito de GCP.",
+    "fund": "100% Gratuito con correo universitario (200 créditos de laboratorio Cloud + insignias oficiales)",
+    "req": "Correo electrónico universitario institucional activo (@usm.cl).",
+    "note": "Ideal para entrenar modelos y aprender arquitectura cloud e IA aplicada a ciencia de datos.",
+    "apply": "https://cloud.google.com/edu/students",
+    "src": "https://www.cloudskillsboost.google/"
   }
 ]
