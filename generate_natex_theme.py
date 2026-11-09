@@ -740,7 +740,6 @@ html_content = f"""<!doctype html>
       <p class="sub" id="viewSubtitle">Directorio de prácticas industriales, prácticas profesionales, becas y beneficios estudiantiles para Ingeniería Civil Física / Ingeniería Física.</p>
     </div>
     <div class="top-actions">
-      <button class="btn-top" id="btnModal">📋 Guía de Prácticas</button>
       <button class="btn-top btn-accent" id="btnExport">📥 Exportar Favoritos</button>
     </div>
   </div>
@@ -909,36 +908,6 @@ html_content = f"""<!doctype html>
     </a>
   </div>
 </footer>
-</div>
-
-<!-- Modal Guía de Prácticas Universal -->
-<div class="modal-overlay" id="modalOverlay">
-  <div class="modal">
-    <button class="modal-close" id="modalClose">&times;</button>
-    <h2>Guía de Prácticas para Estudiantes de Física e Ingeniería</h2>
-    <p>Para convalidar tus prácticas en carreras de física e ingeniería en universidades chilenas, las pautas académicas estándar se dividen en dos niveles:</p>
-    
-    <h3>1. Práctica Industrial (I) — Operativa y de Procesos</h3>
-    <ul>
-      <li><b>Propósito:</b> Conocer el funcionamiento de plantas productivas, faenas, industrias o empresas en terreno.</li>
-      <li><b>Duración típica:</b> Entre 160 y 320 horas cronológicas (4 a 8 semanas de jornada completa).</li>
-      <li><b>Lugares recomendados:</b> Refinerías (ENAP), faenas mineras (Codelco, BHP, Anglo American, SQM), empresas de ensayos no destructivos (SGS, TÜV Rheinland), manufactura y plantas de energía.</li>
-    </ul>
-
-    <h3>2. Práctica Profesional (II) — Nivel Ingeniería e I+D</h3>
-    <ul>
-      <li><b>Propósito:</b> Resolver problemas de alto impacto utilizando modelamiento físico-matemático, análisis cuantitativo, instrumentación o desarrollo de tecnología.</li>
-      <li><b>Duración típica:</b> ~320 horas cronológicas (8 semanas completas), previa a la memoria/tesis.</li>
-      <li><b>Lugares recomendados:</b> Empresas Deep Tech (SeQure Quantum, Synopsys, CoreDevX), observatorios astronómicos (ALMA, ESO, Rubin), finanzas cuantitativas (Banco Central, mesas de dinero), biofísica (CINV, FALP), centros de investigación (CCTVal, AC3E, CCHEN) o pasantías en el extranjero (Max Planck, CERN).</li>
-    </ul>
-
-    <h3>Checklist Administrativo Relevante:</h3>
-    <ul>
-      <li><b>Validación previa:</b> Presenta el plan de trabajo a la Jefatura de Carrera o Comisión de Prácticas de tu universidad antes de comenzar.</li>
-      <li><b>Seguro Escolar (Ley 16.744):</b> Es obligatorio tramitar el certificado de seguro contra accidentes universitarios con tu oficina de asuntos estudiantiles antes del primer día laboral.</li>
-      <li><b>Evaluación e Informe:</b> Al terminar, tu supervisor en la empresa debe completar la pauta confidencial de evaluación y tú debes entregar el informe técnico final.</li>
-    </ul>
-  </div>
 </div>
 
 <script>
@@ -1218,11 +1187,6 @@ function render(){{
   document.getElementById("grid").innerHTML = list.map(card).join("");
   document.getElementById("empty").style.display = list.length ? "none" : "block";
 }}
-
-const modalOverlay = document.getElementById("modalOverlay");
-document.getElementById("btnModal").addEventListener("click", ()=>modalOverlay.classList.add("open"));
-document.getElementById("modalClose").addEventListener("click", ()=>modalOverlay.classList.remove("open"));
-modalOverlay.addEventListener("click", e=>{{ if(e.target===modalOverlay) modalOverlay.classList.remove("open"); }});
 
 document.getElementById("btnExport").addEventListener("click", ()=>{{
   if(favs.size===0){{
