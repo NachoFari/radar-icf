@@ -5,8 +5,8 @@
     ],
     "name": "NaTex — Editor LaTeX Visual y Colaborativo (Proyecto Destacado)",
     "org": "NachoFari / Ecosistema NaTex",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Open Source",
     "desc": "Entorno de edición LaTeX colaborativo en tiempo real diseñado para estudiantes de ciencias e ingeniería. Permite colaborar con quien quieras sin límites simultáneos, incluye teclado integrado para fórmulas matemáticas complejas y 21 temas visuales personalizables.",
     "fund": "100% Gratuito y Open Source (Alternativa moderna a Overleaf)",
@@ -1651,8 +1651,8 @@
     ],
     "name": "GitHub Student Developer Pack (Copilot, JetBrains, Azure y más)",
     "org": "GitHub Education",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Acceso 100% gratuito a GitHub Copilot (asistente IA), licencias Pro de JetBrains, $200 USD en DigitalOcean, dominios .me gratis en Namecheap, Stripe, Termius y más de 80 herramientas líderes de desarrollo.",
     "fund": "Herramientas valoradas en más de $200.000 USD gratuitas",
@@ -1669,8 +1669,8 @@
     ],
     "name": "JetBrains All Products Pack (CLion, PyCharm Pro, DataSpell)",
     "org": "JetBrains",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Suite completa de los mejores IDEs profesionales: CLion (C/C++ para simulación y hardware), PyCharm Professional (Python científico y web), DataSpell (Data Science), IntelliJ IDEA Ultimate y RustRover.",
     "fund": "100% gratis (precio regular ~$289 USD/año)",
@@ -1687,7 +1687,7 @@
     ],
     "name": "Wolfram Mathematica & Wolfram|Alpha Pro (Campus License)",
     "org": "Wolfram Research / UTFSM",
-    "area": "Software & Cloud",
+    "area": "💻 Software, IA & Ciencia",
     "scope": "Chile",
     "city": "Valparaíso / Santiago (Online)",
     "desc": "Licencia completa del software estándar para cálculo simbólico, álgebra computacional, física matemática y ecuaciones diferenciales. Incluye acceso ilimitado a Wolfram Cloud y Wolfram|Alpha Pro.",
@@ -1705,7 +1705,7 @@
     ],
     "name": "MATLAB & Simulink Campus-Wide License",
     "org": "MathWorks / UTFSM",
-    "area": "Software & Cloud",
+    "area": "💻 Software, IA & Ciencia",
     "scope": "Chile",
     "city": "Valparaíso / Santiago (Online)",
     "desc": "Acceso ilimitado y gratuito a MATLAB, Simulink y más de 100 toolboxes especializadas (Optimization, Signal Processing, Partial Differential Equations, Deep Learning, Image Processing).",
@@ -1723,8 +1723,8 @@
     ],
     "name": "Autodesk Education Plan (Fusion 360, AutoCAD, Inventor)",
     "org": "Autodesk",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Acceso educacional completo a software de modelado 3D, diseño mecánico asistido por computadora (CAD/CAM/CAE), simulación de esfuerzos y preparación para manufactura e impresión 3D.",
     "fund": "100% gratis por 1 año (renovable anualmente)",
@@ -1741,8 +1741,8 @@
     ],
     "name": "Microsoft Azure for Students & Office 365 Education",
     "org": "Microsoft",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "$100 USD en créditos de Azure Cloud renovables anualmente sin necesidad de tarjeta de crédito, acceso gratuito a máquinas virtuales Linux/Windows, bases de datos SQL y suite Office 365 (Word, Excel, PowerPoint, 1TB OneDrive).",
     "fund": "$100 USD en créditos cloud + Office 365 ProPlus gratis",
@@ -1759,8 +1759,8 @@
     ],
     "name": "Notion Plus para Estudiantes (Espacio Pro Gratuito)",
     "org": "Notion Labs",
-    "area": "Productividad & Estudio",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Actualización gratuita al plan Notion Plus con bloques ilimitados, subida de archivos sin límite de peso, historial de versiones de 30 días e invitación a colaboradores ilimitados.",
     "fund": "100% gratuito (ahorro de ~$120 USD/año)",
@@ -1777,8 +1777,8 @@
     ],
     "name": "Figma for Education (Figma Pro & FigJam Gratuito)",
     "org": "Figma",
-    "area": "Diseño & Presentación",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Acceso completo al plan Figma Professional y FigJam para diseño colaborativo en tiempo real, esquemas de sistemas físicos, arquitectura de software y diagramas para papers y presentaciones.",
     "fund": "100% gratis por 2 años renovables",
@@ -1795,7 +1795,7 @@
     ],
     "name": "Spotify Premium para Estudiantes Universitarios",
     "org": "Spotify Chile",
-    "area": "Lifestyle & Streaming",
+    "area": "🎬 Streaming, Cine & Prensa",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Plan Spotify Premium individual con 50% de descuento sobre el precio regular para escuchar música y podcasts sin anuncios y con descargas offline.",
@@ -1813,7 +1813,7 @@
     ],
     "name": "YouTube Premium para Estudiantes",
     "org": "Google / YouTube",
-    "area": "Lifestyle & Streaming",
+    "area": "🎬 Streaming, Cine & Prensa",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Descuento especial de casi 50% en suscripción mensual a YouTube Premium para ver conferencias, clases magistrales y contenido sin anuncios, con reproducción en segundo plano y YouTube Music incluido.",
@@ -1831,7 +1831,7 @@
     ],
     "name": "Apple Education Pricing & Apple Music Estudiantes",
     "org": "Apple Chile / MacOnline",
-    "area": "Hardware & Lifestyle",
+    "area": "👓 Hardware, Salud & Tarjetas",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Descuentos directos en compra de Mac (MacBook Air/Pro) y iPad para educación en tiendas oficiales, además de tarifa reducida en Apple Music (~$2.250 CLP/mes) que incluye suscripción a Apple TV+ sin costo adicional.",
@@ -1849,7 +1849,7 @@
     ],
     "name": "Samsung Portal Estudiantes Chile",
     "org": "Samsung Chile",
-    "area": "Hardware & Lifestyle",
+    "area": "👓 Hardware, Salud & Tarjetas",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Portal de compras con descuentos de entre 20% y 40% en tablets Galaxy Tab (con S-Pen incluido, muy populares para tomar apuntes y leer papers), laptops Galaxy Book, monitores y smartphones.",
@@ -1867,8 +1867,8 @@
     ],
     "name": "Ansys Student (Simulación Multifísica y Elementos Finitos)",
     "org": "Ansys, Inc.",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Versión académica gratuita del software estándar en ingeniería para análisis de mecánica estructural (FEA), fluidodinámica computacional (CFD), electromagnetismo y óptica de alta precisión.",
     "fund": "100% gratuito para fines académicos y de estudio",
@@ -1885,8 +1885,8 @@
     ],
     "name": "Tableau for Students (Tableau Desktop & Prep)",
     "org": "Tableau / Salesforce",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Licencia individual gratuita por 1 año renovable de Tableau Desktop y Tableau Prep Builder para visualización avanzada de datos, creación de dashboards interactivos y exploración analítica.",
     "fund": "100% gratis (precio comercial ~$840 USD/año)",
@@ -1903,8 +1903,8 @@
     ],
     "name": "Overleaf Pro / Community (Editor LaTeX Colaborativo)",
     "org": "Overleaf (Digital Science)",
-    "area": "Productividad & Estudio",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Editor de LaTeX en la nube líder en física y matemáticas. Permite redactar informes, tesis y papers en equipo, con vista previa inmediata en PDF, integración con Git y exportación directa a arXiv.",
     "fund": "Versión estándar gratuita + descuentos educativos o convenios institucionales",
@@ -1921,8 +1921,8 @@
     ],
     "name": "Canva Pro for Students (Vía GitHub Student Pack)",
     "org": "Canva Education",
-    "area": "Diseño & Presentación",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Suscripción gratuita a Canva Pro con acceso a millones de plantillas premium, gráficos vectoriales, removedor de fondos con IA y herramientas para diseñar afiches y presentaciones de alto impacto.",
     "fund": "1 año 100% gratis a través del GitHub Student Developer Pack",
@@ -1939,8 +1939,8 @@
     ],
     "name": "1Password for Students (Gestor de Contraseñas)",
     "org": "1Password",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "1 año gratuito de suscripción al gestor de contraseñas y llaves de acceso líder, para proteger credenciales de servidores SSH, cuentas de correo, tokens de API y servicios de investigación.",
     "fund": "1 año 100% gratuito (vía GitHub Student Pack)",
@@ -2870,8 +2870,8 @@
     ],
     "name": "Altium Designer Student Lab License - Diseño de PCBs y Electrónica",
     "org": "Altium LLC",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Licencia profesional completa de Altium Designer otorgada a estudiantes de ingeniería y ciencias. Proporciona herramientas avanzadas de captura de esquemáticos, ruteo interactivo de circuitos impresos (PCB) de múltiples capas, simulación de circuitos SPICE integrada, visualización 3D en tiempo real con integración ECAD/MCAD, y gestión colaborativa de proyectos en la nube mediante la plataforma Altium 365.",
     "fund": "Licencia estudiantil 100% gratuita por 6 meses con renovación continua durante todo el periodo de estudios universitarios. Incluye acceso sin costo a cursos de certificación de Altium Education y almacenamiento colaborativo en la nube en Altium 365.",
@@ -2888,8 +2888,8 @@
     ],
     "name": "NI LabVIEW Student Edition & Multisim Academic Access",
     "org": "National Instruments (NI / Emerson)",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Acceso estudiantil al entorno insignia de programación gráfica NI LabVIEW y al simulador de circuitos SPICE NI Multisim. Permite el diseño de sistemas de instrumentación virtual, automatización de bancos de pruebas, adquisición de datos (DAQ), procesamiento digital de señales experimentales y control de instrumentos de medición en laboratorios de física e ingeniería.",
     "fund": "Acceso gratuito y licencias educativas para estudiantes y cursos universitarios, incluyendo suites de instrumentación virtual, librerías de análisis matemático de señales y simulación de circuitos analógicos y digitales.",
@@ -2906,8 +2906,8 @@
     ],
     "name": "OriginPro Learning Edition - Análisis Gráfico y Ajuste de Curvas para Estudiantes",
     "org": "OriginLab Corporation",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Licencia de OriginPro para estudiantes, el paquete líder de análisis de datos científicos, ajuste de curvas no lineal (peak analysis / curve fitting), procesamiento de señales y generación de gráficos 2D y 3D con estándar de publicación editorial. Incluye integración con Python y R, herramientas estadísticas avanzadas y algoritmos de deconvolución espectral.",
     "fund": "Licencia de OriginPro 100% gratuita por 6 meses (Learning Edition) con renovación periódica disponible durante los estudios universitarios para estudiantes con correo institucional.",
@@ -2924,8 +2924,8 @@
     ],
     "name": "Deepnote Education Plan — Notebooks Colaborativos de Python y Ciencia de Datos en la Nube",
     "org": "Deepnote",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Entorno colaborativo en la nube para Jupyter notebooks en Python, R y SQL con ejecución en hardware dedicado. El plan educativo ofrece de forma gratuita para estudiantes y docentes el plan Team/Pro, que incluye máquinas virtuales con hasta 16 GB de RAM y 4 vCPUs, proyectos colaborativos ilimitados en tiempo real, integración nativa con GitHub, GitLab, Google Drive y almacenes S3, soporte de autocompletado inteligente con IA y visualizaciones interactivas listas para publicar análisis y modelos de física computacional o ciencia de datos.",
     "fund": "Plan Team/Pro 100% gratuito (valorado en $20-30 USD/mes por usuario), máquinas virtuales cloud con hasta 16 GB RAM y 4 vCPUs, horas de computación aumentadas y proyectos colaborativos ilimitados.",
@@ -2942,8 +2942,8 @@
     ],
     "name": "AWS Educate — Formación Cloud y Créditos de Computación para Estudiantes",
     "org": "Amazon Web Services (AWS)",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Programa global de formación y experimentación en la nube de Amazon Web Services para estudiantes sin requerir tarjeta de crédito. Proporciona acceso a rutas de aprendizaje especializadas (computación en la nube, machine learning, DevOps, análisis de datos masivos), insignias digitales verificables (AWS Badges), acceso a laboratorios prácticos en consolas reales de AWS Sandbox para desplegar instancias EC2, almacenamiento S3 y bases de datos RDS, además de acceso a la bolsa de trabajo global AWS Educate Job Board.",
     "fund": "Acceso 100% gratuito a laboratorios prácticos guiados con créditos y entornos sandbox en AWS sin necesidad de registrar tarjeta de crédito, más cursos oficiales, insignias de certificación y bolsa laboral de empleabilidad tech.",
@@ -2960,8 +2960,8 @@
     ],
     "name": "MongoDB Atlas for Students — Créditos Cloud y Certificación Oficial Gratuita",
     "org": "MongoDB",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Paquete de beneficios del programa MongoDB for Academia para estudiantes universitarios. Incluye $50 USD en créditos para despliegue de clusters dedicados y sin expiración en MongoDB Atlas (la plataforma de base de datos multicloud líder NoSQL orientada a documentos), acceso irrestricto a todos los cursos avanzados en MongoDB University, y un voucher de examen 100% bonificado para rendir la certificación profesional oficial MongoDB Certified Associate Developer o DBA (valorada en $150 USD).",
     "fund": "$50 USD en créditos para MongoDB Atlas + 1 voucher 100% gratuito para certificación oficial MongoDB Certified Associate ($150 USD de valor comercial) + acceso a MongoDB University y herramientas premium.",
@@ -2978,7 +2978,7 @@
     ],
     "name": "Lenovo Educación Chile - Descuento Estudiantil en Laptops y Tecnología",
     "org": "Lenovo Chile",
-    "area": "Hardware & Lifestyle",
+    "area": "👓 Hardware, Salud & Tarjetas",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Tienda educativa oficial de Lenovo en Chile con precios rebajados exclusivos en computadores portátiles ThinkPad, IdeaPad, Legion y Yoga, además de accesorios y monitores.",
@@ -2996,7 +2996,7 @@
     ],
     "name": "Adobe Creative Cloud para Estudiantes y Profesores",
     "org": "Adobe Systems",
-    "area": "Hardware & Lifestyle",
+    "area": "💻 Software, IA & Ciencia",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Acceso preferencial para estudiantes a la suite completa de Adobe Creative Cloud con más de 20 aplicaciones profesionales, incluyendo Photoshop, Illustrator, Premiere Pro y Acrobat Pro.",
@@ -3014,7 +3014,7 @@
     ],
     "name": "ISIC Chile - Tarjeta Internacional de Identidad Estudiantil",
     "org": "ISIC Chile / ISIC Association",
-    "area": "Hardware & Lifestyle",
+    "area": "👓 Hardware, Salud & Tarjetas",
     "scope": "Chile",
     "city": "Nacional",
     "desc": "Acreditación internacional única reconocida por la UNESCO que entrega miles de beneficios y descuentos directos en Chile y el extranjero en marcas de tecnología, librerías, aerolíneas, buses y cursos.",
@@ -3310,8 +3310,8 @@
     ],
     "name": "Cursor Pro / AI Coding — Editor de Código Inteligente para Estudiantes e Investigadores",
     "org": "Anysphere / Cursor",
-    "area": "Software & Cloud",
-    "scope": "Internacional",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
     "city": "Online / Global",
     "desc": "Entorno de desarrollo integrado asistido por modelos de lenguaje de vanguardia (Claude 3.5 Sonnet, GPT-4o) con comprensión profunda de repositorios completos. Permite autocompletado contextual rápido, generación de código para simulaciones numéricas, refactorización de scripts en Python/C++/Rust y depuración de modelos matemáticos complejos.",
     "fund": "Plan gratuito con acceso generoso mensual + créditos y tarifas preferenciales para cuentas institucionales universitarias.",
@@ -3777,7 +3777,7 @@
     "kind": [
       "desc"
     ],
-    "area": "Software Científico & Descuentos Estudiantiles",
+    "area": "💻 Software, IA & Ciencia",
     "scope": "Online / Global",
     "city": "Acceso Remoto (@usm.cl)",
     "status": "permanente",
@@ -3795,7 +3795,7 @@
     "kind": [
       "desc"
     ],
-    "area": "Software Científico & Descuentos Estudiantiles",
+    "area": "👓 Hardware, Salud & Tarjetas",
     "scope": "Online / Global",
     "city": "Acceso Remoto (@usm.cl)",
     "status": "permanente",
@@ -3806,5 +3806,1229 @@
     "note": "Ideal para entrenar modelos y aprender arquitectura cloud e IA aplicada a ciencia de datos.",
     "apply": "https://cloud.google.com/edu/students",
     "src": "https://www.cloudskillsboost.google/"
+  },
+  {
+    "name": "PUMA Chile — Descuento Estudiantil Oficial Online",
+    "org": "PUMA Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "PUMA Chile dispone de un programa oficial y permanente de descuento para estudiantes de educación superior en su tienda online oficial (cl.puma.com). Otorga una rebaja directa en zapatillas, ropa deportiva de running/training y colecciones de streetwear urbano, validando la condición de estudiante en su portal dedicado.",
+    "fund": "20% de descuento en compras online",
+    "req": "Ser estudiante universitario o de educación superior en Chile con acreditación académica vigente.",
+    "note": "Ingresa a la sección de Descuento Estudiantes en cl.puma.com/descuento-estudiantes, regístrate y valida tu estatus para recibir tu cupón promocional único en tu correo. Aplica a productos a precio regular y no es acumulable con otras ofertas o lanzamientos exclusivos limitados.",
+    "apply": "https://cl.puma.com/descuento-estudiantes",
+    "src": "https://cl.puma.com"
+  },
+  {
+    "name": "Under Armour Chile — Descuento Estudiantil Convenio ISIC",
+    "org": "Under Armour Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenio formal entre la marca deportiva Under Armour y la International Student Identity Card (ISIC Chile). Permite a los estudiantes universitarios acreditados obtener un código de descuento de un solo uso para adquirir indumentaria deportiva, zapatillas de alto rendimiento y accesorios en la tienda virtual oficial de la marca.",
+    "fund": "15% de descuento en productos de precio regular",
+    "req": "Credencial universitaria internacional ISIC Chile (digital o física) vigente (disponible para estudiantes regulares de universidades chilenas como USM).",
+    "note": "Inicia sesión con tu número de credencial ISIC en la plataforma de beneficios de ISIC Chile, genera tu código único para Under Armour y aplícalo en el carrito de compras de underarmour.cl. Quedan excluidos artículos en outlet/rebajas y líneas especiales como Curry Signature.",
+    "apply": "https://isic.cl/beneficios-internacionales?providerId=261789",
+    "src": "https://www.underarmour.cl"
+  },
+  {
+    "name": "Mawi Chile — Descuento Estudiantil en Zapatillas & Streetwear",
+    "org": "Mawi Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tienda chilena multimarca especializada en calzado urbano, streetwear y zapatillas de marcas globales (Nike, Adidas, New Balance, Converse, Vans, Puma). Dispone de un beneficio permanente para estudiantes universitarios y de institutos técnicos en Chile mediante validación de correo institucional.",
+    "fund": "10% de descuento (tope de $7.000 por compra)",
+    "req": "Cuenta registrada en el sitio web de Mawi con correo institucional universitario (como @usm.cl u otra institución acreditada en Chile).",
+    "note": "Crea tu cuenta en mawi.cl con tu correo institucional (@usm.cl), completa el formulario de registro de estudiante en su página oficial y utiliza el cupón 'ESTUDIANTE' al momento del checkout. No aplica a lanzamientos nuevos ni marcas Crep Protect y Oakley.",
+    "apply": "https://mawi.cl/pages/descuentos-estudiantes",
+    "src": "https://mawi.cl"
+  },
+  {
+    "name": "Bonzer Chile — Descuento Universitario en Streetwear & Calzado Urbano",
+    "org": "Bonzer",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tienda chilena de streetwear, polerones, gorros y calzado urbano de marcas internacionales (Champion, Converse, Vans, Fila, etc.). Cuenta con un programa oficial de descuento para la comunidad estudiantil de educación superior en todo el país.",
+    "fund": "10% de descuento (tope de $7.000 por compra)",
+    "req": "Registro con correo institucional universitario (ej. @usm.cl) y ser alumno regular de educación superior en Chile.",
+    "note": "Regístrate en bonzer.cl con tu mail institucional (@usm.cl), ingresa a la sección de descuentos para estudiantes y escribe el código promocional 'ESTUDIANTE' al finalizar tu compra. Válido para todo el catálogo regular.",
+    "apply": "https://www.bonzer.cl/pages/descuentos-estudiantes",
+    "src": "https://www.bonzer.cl"
+  },
+  {
+    "name": "Adidas Chile — Descuento Estudiantil / Beneficio Comunidad adiClub & Convenios",
+    "org": "Adidas Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "En Chile, Adidas no cuenta con integración directa de UNiDAYS en el portal local como en Europa o Norteamérica, por lo que canaliza sus beneficios para estudiantes y jóvenes a través de su programa de membresía adiClub, convenios estacionales universitarios y alianzas ISIC. Permite sumar puntos canjeables por cupones de rebaja permanente y acceso anticipado a drops de zapatillas.",
+    "fund": "15% de bienvenida + cupones de 20% a 30% OFF acumulando puntos adiClub",
+    "req": "Registro gratuito en adiClub con correo universitario (@usm.cl) o personal en adidas.cl o la App oficial de Adidas.",
+    "note": "Al crear tu cuenta en adiClub recibes de inmediato un cupón de 15% OFF de bienvenida para tu primera compra online o en la app de Adidas Chile. Además, al acumular puntos mediante compras y participación en eventos puedes canjear cupones de descuento permanentes en indumentaria y calzado.",
+    "apply": "https://www.adidas.cl/adiclub",
+    "src": "https://www.adidas.cl"
+  },
+  {
+    "name": "UNiDAYS Chile — Red Oficial de Descuentos Estudiantiles en Moda y Streetwear",
+    "org": "UNiDAYS Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Online / Global",
+    "city": "Tiendas y Online (Chile)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma global líder de verificación de identidad estudiantil activa en Chile. Permite a los estudiantes universitarios con correo institucional chileno (como @usm.cl) o certificado de alumno regular acceder a cupones y beneficios exclusivos en marcas internacionales de streetwear, calzado y moda que realizan envíos a Chile (como ASOS y tiendas internacionales asociadas).",
+    "fund": "10% al 20% de descuento en marcas de vestuario asociadas",
+    "req": "Ser estudiante universitario activo en Chile y verificar la cuenta con correo institucional (ej. @usm.cl) o credencial de estudiante.",
+    "note": "Regístrate de forma gratuita en myunidays.com/CL/es-CL seleccionando tu universidad chilena (como Universidad Técnica Federico Santa María), valida tu correo @usm.cl y desbloquea códigos promocionales exclusivos para compras online en las tiendas de moda adheridas.",
+    "apply": "https://www.myunidays.com/CL/es-CL",
+    "src": "https://www.myunidays.com"
+  },
+  {
+    "name": "Tarjeta Joven INJUV — Club de Beneficios Comunidad Joven",
+    "org": "Instituto Nacional de la Juventud (INJUV) · Ministerio de Desarrollo Social y Familia",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma y credencial digital gratuita del Instituto Nacional de la Juventud que otorga acceso a cientos de convenios y rebajas exclusivas en todo Chile. Incluye descuentos en cadenas de comida rápida y gastronomía (Papa John's, Dunkin', Melt, Doggis, Tommy Beans), vestuario y calzado, librerías y textos de estudio (Antártica, librerías asociadas), centros de salud física y dental, salud mental, pasajes en buses interurbanos, hostales y entradas rebajadas a parques nacionales y reservas CONAF.",
+    "fund": "100% gratuita y digital (ahorro continuo en alimentación, salud, transporte y recreación)",
+    "req": "Tener entre 15 y 29 años y contar con RUN chileno (chilenos o extranjeros residentes). Activación digital con ClaveÚnica o registro en la plataforma.",
+    "note": "Reemplazó el antiguo plástico físico por una credencial 100% digital accesible desde el smartphone o portal web. Los convenios y porcentajes de descuento por región y comuna se consultan en el buscador oficial de convenios INJUV.",
+    "apply": "https://comunidadjoven.injuv.gob.cl",
+    "src": "https://www.injuv.gob.cl"
+  },
+  {
+    "name": "TUI Santander Universidades — Cuenta Vista & Plan Universitario Joven",
+    "org": "Banco Santander Chile · Santander Universidades",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "La Tarjeta Universitaria Inteligente (TUI) de Santander opera como credencial universitaria oficial (en UTFSM y múltiples casas de estudio) y tarjeta de débito vinculada a una Cuenta Vista o Plan Universitario con costo $0 de mantención mensual para estudiantes de educación superior. Brinda acceso al programa de beneficios Santander: 20% a 40% de descuento en restaurantes y cafeterías seleccionadas, promociones en comida rápida (Burger King, Starbucks, Doggis), rebajas en cines (Cinépolis/Cinemark), delivery y preventas preferenciales.",
+    "fund": "Costo $0 de mantención para universitarios + mallas de descuentos semanales del 20% al 40% en gastronomía y entretención",
+    "req": "Ser estudiante universitario regular en una institución en convenio (como USM), mayor de 18 años y cédula de identidad chilena vigente.",
+    "note": "Permite compras físicas, online e internacionales con débito. Los descuentos gastronómicos aplican según el calendario semanal de 'Sabores Santander' pagando presencialmente con la tarjeta o en plataformas asociadas.",
+    "apply": "https://banco.santander.cl/personas/estudiantes",
+    "src": "https://banco.santander.cl/beneficios"
+  },
+  {
+    "name": "Banco de Chile Cuenta FAN & Plan Joven Universitario",
+    "org": "Banco de Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Cuenta vista 100% digital y sin costo de apertura ni mantención mensual, acompañada de tarjeta de débito física y virtual Visa. Desbloquea todo el ecosistema de beneficios y alianzas del Banco de Chile: descuentos de hasta 30%-40% en gastronomía y fast food (McDonald's, KFC, Starbucks, Papa John's, Melt Pizzas, PedidosYa), entradas al cine en Cinépolis con hasta 25% de rebaja, y acceso prioritario o sorteos de entradas para grandes conciertos y festivales en Chile (como Lollapalooza).",
+    "fund": "Costo de apertura y mantención mensual $0 + descuentos permanentes semanales en alimentación, cine y entretenimiento",
+    "req": "Ser mayor de 18 años, contar con cédula de identidad chilena vigente y smartphone para verificación biométrica.",
+    "note": "Apertura 100% online en pocos minutos mediante la app Mi FAN o el sitio web del banco. No exige liquidaciones de sueldo ni historial crediticio, ideal para estudiantes universitarios.",
+    "apply": "https://portales.bancochile.cl/personas/cuenta-fan",
+    "src": "https://portales.bancochile.cl/personas/beneficios"
+  },
+  {
+    "name": "Billeteras Digitales Estudiantiles (Tenpo, MACH & Mercado Pago) — Cashback, Transporte & Comida",
+    "org": "Tenpo · MACH (Bci) · Mercado Pago Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Ecosistema de cuentas y tarjetas prepago/débito digitales gratuitas (costo $0) preferidas por la comunidad universitaria en Chile. Ofrecen promociones activas de cashback y cupones de descuento en recargas de transporte público (Bip! física, pasajes con Bip!QR y pase escolar TNE), rebajas semanales en comida rápida y delivery (PedidosYa, Uber Eats, McDonald's, Burger King, Pronto Copec), meses de prueba en streaming/delivery (RappiPro) y división instantánea de gastos compartidos entre compañeros.",
+    "fund": "Cuentas y tarjetas gratuitas ($0 mantención) con cashback directo en dinero real y cupones de hasta $5.000-$10.000 CLP mensuales",
+    "req": "Cédula de identidad chilena vigente, número de teléfono móvil nacional y descarga de las respectivas aplicaciones.",
+    "note": "Se pueden combinar las 3 billeteras para maximizar el ahorro mensual: Tenpo para misiones con devolución de dinero y bencina/servicios; MACH para promociones de transporte Bip! y PedidosYa; Mercado Pago para pagos QR en comercios y RappiPro.",
+    "apply": "https://www.tenpo.cl",
+    "src": "https://www.somosmach.com"
+  },
+  {
+    "name": "UNiDAYS & Student Beans Chile — Descuentos Universitarios en Ropa y Tecnología",
+    "org": "UNiDAYS · Student Beans",
+    "kind": [
+      "desc"
+    ],
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Principales plataformas globales de acreditación estudiantil con presencia activa en Chile. Al validar la condición de estudiante mediante el correo institucional (ej. @usm.cl, @sansano.usm.cl) o certificado de alumno regular, desbloquean precios educacionales y cupones exclusivos del 10% al 30% en marcas globales de tecnología y hardware (Apple Education Store para Mac y iPad, Samsung Estudiantes, Lenovo, HP) y marcas internacionales de moda, vestuario y deportes (Nike, Adidas, Puma, ASOS, Shein).",
+    "fund": "Registro 100% gratuito que habilita ahorros de hasta $180.000 CLP en computadores/tablets y 10%-25% en calzado y vestuario oficial",
+    "req": "Ser estudiante regular activo de educación superior (universidad, IP o CFT) con correo institucional universitario activo (@usm.cl o equivalente) o certificado de matrícula vigente.",
+    "note": "UNiDAYS es el validador oficial utilizado por Apple en Chile para verificar compras con precio universitario en iPads y computadores Mac. Student Beans y UNiDAYS también habilitan promociones para compras online directas con envío a Chile.",
+    "apply": "https://www.myunidays.com/CL/es-CL",
+    "src": "https://www.studentbeans.com"
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "INSOMNIA Teatro Condell — Tarifa Estudiante Cine Arte Valparaíso",
+    "org": "INSOMNIA Teatro Condell",
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Valparaíso",
+    "desc": "Espacio cultural y cine arte patrimonial de Valparaíso (Condell 1585) con estrenos de cine independiente, ciclos temáticos y foros universitarios. Dispone de tarifa preferencial del 50% de descuento en boletería presencial y online para estudiantes que presenten su TNE o credencial universitaria.",
+    "fund": "50% de descuento en boletería ($2.000 CLP vs $4.000 CLP de entrada general)",
+    "req": "Presentar Tarjeta Nacional Estudiantil (TNE) física vigente o credencial universitaria al comprar en boletería o ingresar a la sala.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://insomniacine.cl",
+    "src": "https://insomniacine.cl",
+    "note": "Un clásico del circuito cultural para estudiantes de Valparaíso y Viña del Mar (USM Casa Central, PUCV y UV)."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Cine Arte Normandie — Entrada Estudiante con TNE en Santiago",
+    "org": "Cine Arte Normandie",
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Cine independiente y patrimonial emblemático de Santiago Centro (Tarapacá 1181) dedicado al cine clásico, de autor y estrenos latinoamericanos. Mantiene una tarifa rebajada para estudiantes escolares y de educación superior que acrediten su condición.",
+    "fund": "$3.500 CLP vs $6.000 CLP tarifa general (~42% de descuento directo en boletería)",
+    "req": "Exhibir TNE física o credencial universitaria regular en la boletería del cine.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://normandie.cl",
+    "src": "https://normandie.cl",
+    "note": "A pasos de Metro Universidad de Chile y Parque Almagro. Descuento aplicable en todas las funciones regulares."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Teatro Municipal de Santiago — Tarifa Estudiantes en Temporada Oficial y Visitas",
+    "org": "Teatro Municipal de Santiago",
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "El principal centro de artes escénicas, conciertos sinfónicos, ópera y ballet de Chile ofrece tarifas con descuento para estudiantes en su temporada artística oficial y en los recorridos guiados por sus salones patrimoniales.",
+    "fund": "Entrada preferencial rebajada para estudiantes en funciones seleccionadas y tarifa de $6.500 CLP en visitas guiadas",
+    "req": "Presentación obligatoria de cédula de identidad y Tarjeta Nacional Estudiantil (TNE) u otro documento oficial vigente de estudiante.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://municipal.cl",
+    "src": "https://municipal.cl",
+    "note": "La condición de estudiante es verificada rigurosamente al momento de acceder a la sala del teatro."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Centro Cultural GAM — Tarifas Rebajadas para Estudiantes en Teatro y Danza",
+    "org": "Centro GAM (Centro Cultural Gabriela Mistral)",
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Epicentro de la vida cultural en el barrio Lastarria / Alameda (Metro Universidad Católica). Cuenta con entradas de valor rebajado para estudiantes en todas sus temporadas de obras teatrales, espectáculos de danza y ciclos musicales.",
+    "fund": "Tarifas rebajadas para estudiantes (entre 30% y 40% de descuento respecto a la entrada general); acceso 100% gratuito a plazas, exposiciones y biblioteca",
+    "req": "Presentar credencial universitaria física o TNE al momento de ingresar a las salas.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://gam.cl",
+    "src": "https://gam.cl",
+    "note": "Las entradas con tarifa estudiante pueden comprarse directamente en la boletería física o por la ticketera oficial del GAM."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Museo Artequin Santiago — 50% de Descuento con Convenio Oficial TNE / Junaeb",
+    "org": "Museo Artequin Santiago",
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Museo interactivo de arte y patrimonio emplazado frente al Parque Quinta Normal. Mantiene un convenio oficial con Junaeb que garantiza un 50% de descuento en el acceso a estudiantes que muestren su TNE.",
+    "fund": "50% de rebaja en la entrada general (o tarifa preferencial de estudiante de $2.000 CLP de martes a viernes de 14:00 a 17:00 hrs)",
+    "req": "Presentar Tarjeta Nacional Estudiantil (TNE) física vigente en la boletería del museo.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://artequin.cl",
+    "src": "https://artequin.cl",
+    "note": "Los martes por la tarde además cuentan con acceso con aporte voluntario."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "MIM (Museo Interactivo Mirador) — Tarifa Estudiante en Museo y Planetario Interactivo",
+    "org": "Museo Interactivo Mirador (MIM)",
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "El mayor complejo de divulgación científica, física, astronomía y tecnología interactiva de Chile (Parque Brasil, La Granja). Otorga precio especial para estudiantes universitarios y escolares acreditados.",
+    "fund": "Tarifa preferencial de $7.500 CLP (frente a los $8.500 CLP de adulto general) con acceso integral a pabellones interactivos, laboratorios y exhibiciones",
+    "req": "Presentar TNE física o credencial de educación superior vigente al validar la entrada en accesos.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://mim.cl",
+    "src": "https://mim.cl",
+    "note": "Se recomienda reservar día y turno con anticipación a través de su boletería virtual."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "EFE Tren Valparaíso-Limache — 66% de Descuento Permanente con TNE",
+    "org": "EFE Trenes de Chile / EFE Valparaíso",
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Valparaíso / Viña del Mar",
+    "desc": "Servicio ferroviario metropolitano que une Valparaíso, Viña del Mar, Quilpué, Villa Alemana y Limache, arteria fundamental de conectividad para estudiantes de la UTFSM (Campus Casa Central y Sede Viña del Mar). Con TNE se accede a una rebaja permanente del 66% en todas las combinaciones zonales.",
+    "fund": "66% de descuento respecto a la tarifa general en todo horario, los 365 días del año",
+    "req": "Tarjeta Nacional Estudiantil (TNE) vigente con sello anual, activada en boleterías o tótems de EFE Valparaíso.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.efe.cl/planifica-tu-viaje/tren-valparaiso/tarifas/",
+    "src": "https://www.efe.cl",
+    "note": "Beneficio aplicable durante todo el año escolar y universitario sin restricciones de horario punta o valle."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Metro de Santiago & Red Movilidad — Tarifa Escolar Rebajada $250 CLP",
+    "org": "Metro de Santiago / DTPM",
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Red de metro y transporte de superficie que conecta el Gran Santiago y los campus universitarios metropolitanos (incluidos USM San Joaquín y Vitacura). La TNE de educación superior otorga tarifa plana subsidiada de $250 CLP en todas las líneas y horarios.",
+    "fund": "Tarifa fija de $250 CLP por viaje (~70% de ahorro frente a la tarifa adulta de $830 CLP en horario punta), con trasbordos integrados Metro-Bus",
+    "req": "TNE de educación superior activa con pase tecnológico validado en tótems Bip! anuales.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.metro.cl/el-viaje/tarifas",
+    "src": "https://www.metro.cl",
+    "note": "Válida de lunes a domingo, las 24 horas del día durante los 365 días del año según normativa del MTT."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Librería Nacional — Descuento Estudiantil y Convenios Universitarios en Papelería y Dibujo",
+    "org": "Librería Nacional Chile",
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Chile",
+    "city": "Nacional (Santiago, Valparaíso, Viña del Mar y regiones)",
+    "desc": "Cadena tradicional de materiales de arte, arquitectura, dibujo técnico, papelería y artículos de oficina en Chile. Mantiene convenios institucionales con universidades e institutos, ofreciendo rebajas en compras presenciales y tienda online.",
+    "fund": "15% a 20% de descuento en útiles, cuadernos, instrumentos de dibujo y papelería técnica",
+    "req": "Presentar credencial universitaria vigente (física o virtual) en mesón de tienda o ingresar el código de convenio institucional respectivo en la web.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.nacional.cl",
+    "src": "https://www.nacional.cl",
+    "note": "Ideal para estudiantes de ingeniería, diseño y ciencias que requieren insumos técnicos periódicos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Ok Panda y Foodlays — Bebida de Cortesía para Estudiantes con TNE en Tenedores Libres",
+    "org": "Restaurantes Ok Panda / Foodlays",
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Populares tenedores libres y buffets de Santiago Centro (Ismael Valdés Vergara 836) y Recoleta (Artesanos 681) con amplia variedad de platos calientes, sushi y comida asiática. Disponen de promociones dirigidas a la comunidad universitaria, otorgando bebestible de cortesía al mostrar la credencial o TNE.",
+    "fund": "Bebida / bebestible de cortesía sin costo adicional al consumir el servicio de tenedor libre",
+    "req": "Mostrar Tarjeta Nacional Estudiantil (TNE) física o credencial de estudiante regular en caja al momento de ingresar.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://lanacion.cl",
+    "src": "https://lanacion.cl",
+    "note": "Frecuentado por universitarios de campus céntricos de Santiago. Además, varios locales de la zona aceptan pago complementario con saldo BAES/Junaeb."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Perplexity AI — Education Pro (Búsqueda Avanzada e Inteligencia Artificial)",
+    "org": "Perplexity AI",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Acceso con 50% de descuento a Perplexity Pro mediante verificación académica con SheerID. Incluye consultas Pro ilimitadas con modelos de frontera (Claude 3.5 Sonnet, GPT-4o, Gemini 1.5 Pro), análisis avanzado de papers y documentos adjuntos, citas académicas enriquecidas, generación de imágenes y modo interactivo de estudio (Learn Mode).",
+    "fund": "50% de descuento en suscripción Pro ($10 USD/mes vs $20 USD/mes regular, ahorro anual de $120 USD)",
+    "req": "Estudiante regular universitario activo verificado con correo institucional (.cl / @usm.cl) o certificado de matrícula mediante SheerID.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.perplexity.ai/pro",
+    "src": "https://www.perplexity.ai",
+    "note": "La verificación se realiza en segundos a través de SheerID seleccionando el plan 'Education Pro'. Válido para universidades chilenas acreditadas."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "ElevenLabs for Students — Síntesis de Voz IA y Herramientas de Audio",
+    "org": "ElevenLabs",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Programa oficial de ElevenLabs para la comunidad académica y universitaria. Otorga 3 meses 100% gratuitos de acceso a tiers profesionales para generación y clonación de voz por IA (ElevenCreative / ElevenAPI / ElevenAgents), además de 1 año gratuito de ElevenReader Ultra para convertir apuntes, artículos científicos y libros en audio con voces hiperrealistas.",
+    "fund": "3 meses gratis de suscripción profesional de voz IA y API + 1 año gratis de ElevenReader Ultra",
+    "req": "Estudiante universitario mayor de 18 años registrado con correo institucional (@usm.cl u otro dominio académico chileno).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://elevenlabs.io/students",
+    "src": "https://elevenlabs.io",
+    "note": "Excelente recurso para desarrollo de proyectos con interfaces de voz, audiodescripción accesible de tesis y prototipos de agentes autónomos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Raycast Pro for Students — Launcher y Productividad con IA para macOS",
+    "org": "Raycast",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Descuento del 50% para estudiantes en Raycast Pro, el launcher y centro de comando extensible por excelencia para macOS. Incluye integración de Raycast AI en cualquier aplicación del sistema operativo, historial de portapapeles ilimitado y sincronizado, sincronización de snippets y extensiones en la nube, y personalización avanzada de temas.",
+    "fund": "50% de descuento en la suscripción Raycast Pro (~$4 USD/mes vs $8 USD/mes regular)",
+    "req": "Estudiantes regulares con correo institucional (@usm.cl u otro .cl) mediante formulario de solicitud de descuento educacional.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.raycast.com/pricing",
+    "src": "https://www.raycast.com",
+    "note": "La solicitud se procesa a través del enlace de soporte estudiantil de Raycast y tras la revisión envían un código de descuento directo para la cuenta."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Dashlane Premium for Students — Gestor de Contraseñas y Bóveda Segura",
+    "org": "Dashlane",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Suscripción anual 100% gratuita a Dashlane Premium para estudiantes universitarios. Permite almacenar contraseñas, claves de acceso Passkeys y notas seguras de forma ilimitada con cifrado de grado militar zero-knowledge, autocompletado en navegadores y móviles, generador de claves robustas y monitoreo continuo de la Dark Web para detectar credenciales vulneradas.",
+    "fund": "1 año 100% gratuito de Dashlane Premium (ahorro aproximado de $60 USD/año)",
+    "req": "Creación de cuenta con correo institucional universitario activo (@usm.cl u otro correo académico chileno).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.dashlane.com/students",
+    "src": "https://www.dashlane.com",
+    "note": "Al ingresar el correo institucional en la landing page de estudiantes, la suscripción Premium por 12 meses se activa automáticamente."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Setapp for Education — Suite Curada de más de 250 Apps para Mac e iOS",
+    "org": "MacPaw / Setapp",
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Tarifa educacional con 20% de descuento en la suscripción anual Setapp Mac + iOS. Ofrece acceso ilimitado a un catálogo de más de 250 aplicaciones prémium sin costos adicionales ni micropagos, incluyendo herramientas reconocidas para estudio y desarrollo como CleanMyMac, MindNode, Ulysses, Paste, TablePlus, MarginNote y Canary Mail.",
+    "fund": "20% de descuento en el plan anual ($107,88 USD/año con acceso a software cotizado en miles de dólares) + 7 días de prueba gratis",
+    "req": "Registro con correo institucional (.cl / .edu) o envío de comprobante de matrícula a soporte técnico.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://setapp.com/educational-discount",
+    "src": "https://setapp.com",
+    "note": "Si el dominio @usm.cl no aplica el descuento automáticamente en checkout, el equipo de soporte de MacPaw lo habilita al adjuntar el certificado de alumno regular."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Miro Education Plan — Pizarras Colaborativas y Mapeo de Proyectos",
+    "org": "Miro",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Plan educativo completo y gratuito por 2 años para estudiantes y profesores universitarios. Proporciona tableros visuales colaborativos infinitos, soporte para equipos de hasta 10 miembros para proyectos grupales, exportación en alta resolución sin marcas de agua, plantillas metodológicas (Scrum, Kanban, mapas conceptuales), temporizadores y herramientas de Miro AI.",
+    "fund": "100% gratuito por 2 años renovables (ahorro comercial de ~$192 USD por año)",
+    "req": "Correo electrónico institucional universitario y documento acreditativo (certificado de alumno regular o credencial estudiantil).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miro.com/education-whiteboard/",
+    "src": "https://miro.com",
+    "note": "Una vez aprobada la postulación (suele demorar pocos días hábiles), la cuenta se migra al espacio de trabajo Education sin límite de tableros."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Sketch for Education — Plataforma de Diseño UI/UX y Prototipado Vectorial",
+    "org": "Sketch B.V.",
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Licencia educacional 100% gratuita para estudiantes de carreras técnicas, ingeniería o diseño. Brinda acceso a la aplicación de diseño vectorial profesional para macOS, sincronización en la nube con 50 GB de almacenamiento Workspace, inspección de especificaciones y entrega colaborativa de código para desarrolladores, y prototipos interactivos.",
+    "fund": "100% gratis con renovación anual (ahorro de $120 USD/año)",
+    "req": "Estudiante activo matriculado en una institución universitaria con certificado de alumno regular o credencial vigente.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.sketch.com/education/",
+    "src": "https://www.sketch.com",
+    "note": "La licencia se aprueba anualmente y puede ser renovada sin costo durante toda la duración de los estudios universitarios."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "TIDAL HiFi para Estudiantes — Streaming de Música en Calidad Master y Lossless",
+    "org": "TIDAL",
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Tarifa estudiantil oficial con 50% de descuento en la plataforma de streaming de audio de alta fidelidad. Permite reproducir más de 110 millones de pistas en calidad Hi-Res FLAC sin pérdida (hasta 24-bit/192 kHz), audio inmersivo Dolby Atmos, escucha sin conexión a internet y reproducción completamente libre de anuncios.",
+    "fund": "50% de descuento en la suscripción mensual estándar (~$2.500 a $3.500 CLP/mes) con 30 días de prueba gratuita",
+    "req": "Estudiante de educación superior acreditado mediante validación en SheerID (con correo institucional o certificado de matrícula chileno).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://tidal.com/pricing",
+    "src": "https://tidal.com",
+    "note": "La verificación se hace con SheerID y se mantiene activa por 11 meses con proceso expedito de revalidación académica."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Babbel for Students — Plataforma de Aprendizaje de Idiomas Extranjeros",
+    "org": "Babbel GmbH",
+    "area": "👟 Ropa, Calzado & Librería",
+    "scope": "Online / Global",
+    "city": "Online / Global",
+    "desc": "Descuento de hasta 50% a 65% en planes de aprendizaje de idiomas (inglés, alemán, francés, italiano y más) para estudiantes universitarios verificados a través de UNiDAYS o Student Beans. Incluye cursos estructurados con diálogos realistas, tecnología de reconocimiento de voz para perfeccionar la pronunciación y repaso espaciado de vocabulario.",
+    "fund": "Hasta 50% a 65% de descuento en planes de suscripción semestrales y anuales",
+    "req": "Cuenta activa en UNiDAYS o Student Beans validada con correo institucional (@usm.cl u otro correo de universidad chilena).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.myunidays.com/",
+    "src": "https://www.babbel.com",
+    "note": "Al validar la condición de estudiante en el portal de UNiDAYS o Student Beans, se desbloquea el cupón con la tarifa reducida para la compra web."
+  },
+  {
+    "name": "Melt Pizzas — Descuento Estudiantil y Convenios Universitarios (40% OFF en Familiares Melting Hits)",
+    "org": "Melt Pizzas Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenio institucional y de beneficios estudiantiles de Melt Pizzas con instituciones de educación superior, colegios y redes de exalumnos en Chile. Otorga un 40% de descuento en pizzas de tamaño familiar de la categoría 'Melting Hits' en compras presenciales (para llevar o servir) en locales adheridos de Santiago y regiones.",
+    "fund": "40% de descuento directo en pizzas familiares de la categoría Melting Hits (precio preferencial para estudiantes frente a la tarifa regular de carta).",
+    "req": "Presentar de forma presencial la Tarjeta Nacional Estudiantil (TNE) vigente, credencial universitaria física o digital, o ingresar el código de convenio estudiantil/alumni de la casa de estudios en las plataformas autorizadas.",
+    "note": "Válido principalmente para consumo presencial y retiro en locales adheridos de Melt Pizzas. No es acumulable con promociones como Melt&Go, Holy Cheese ni ofertas simultáneas de delivery general.",
+    "apply": "https://meltpizzas.com",
+    "src": "https://meltpizzas.com"
+  },
+  {
+    "name": "Burger King Chile — Descuento Estudiantil Internacional ISIC (10% OFF en Combos)",
+    "org": "Burger King Chile · ISIC (International Student Identity Card)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Alianza permanente de Burger King Chile con la red de credenciales de estudiante ISIC (física y digital desde la app ISIC). Ofrece un 10% de descuento en combos individuales de hamburguesas en los locales adheridos a lo largo de Chile al momento de realizar la compra presencial en mesón.",
+    "fund": "10% de descuento directo en combos individuales de hamburguesas en caja.",
+    "req": "Presentar la credencial de estudiante ISIC (o tarjeta joven IYTC) activa física o digital desde la app oficial de ISIC al momento de hacer el pedido antes de la emisión de la boleta.",
+    "note": "Aplica exclusivamente para consumo personal en mesón de locales adheridos en Chile. No acumulable con 'Decretos del Rey', cupones de la app Mi BK ni pedidos por delivery.",
+    "apply": "https://www.isic.cl",
+    "src": "https://www.burgerking.cl"
+  },
+  {
+    "name": "Papa John's Pizza — Convenios Universitarios y Redes Estudiantiles (25% OFF Online)",
+    "org": "Papa John's Pizza Chile · Federaciones Universitarias y Redes Alumni",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenios y alianzas exclusivas de Papa John's Pizza Chile con federaciones estudiantiles y redes de egresados/estudiantes universitarios (como Alumni UC, federaciones y comunidades estudiantiles). Otorga un 25% de descuento en pedidos a través de su sitio web y app oficial tanto para retiro en local como para despacho a domicilio en todo el país.",
+    "fund": "25% de descuento en pizzas de especialidad y productos de la carta general en compras online.",
+    "req": "Ser estudiante universitario regular o miembro de una comunidad universitaria en convenio; ingresar el cupón institucional vigente (ej. PJALUMNIUC o códigos de federaciones) en la sección de cupones de papajohns.cl o la App.",
+    "note": "Descuento aplicable sobre precios de carta general para compras en la web o app oficial de Papa John's Chile. No acumulable con otras promociones ni aplicable al costo del despacho.",
+    "apply": "https://www.papajohns.cl",
+    "src": "https://alumni.uc.cl/beneficios/papa-johns/"
+  },
+  {
+    "name": "Little Caesars Pizza — Promociones Estudiantiles y Combos Universitarios",
+    "org": "Little Caesars Pizza Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Alianzas y promociones orientadas al estudiantado de educación superior en sucursales de Little Caesars cercanas a campus universitarios y polos de estudio en Santiago y regiones. Incluye menús grupales a precio preferencial (como la promoción 'Trío Perfecto') y complementos de cortesía (Caesar Bread) con compras de pizzas.",
+    "fund": "Tarifas y promociones exclusivas en combos grupales de pizzas (ej. Trío Perfecto a $17.500 CLP) y complementos de regalo en locales participantes.",
+    "req": "Acreditar calidad de estudiante de educación superior presentando la credencial universitaria vigente (física o digital) o TNE junto con la cédula de identidad en la caja del local.",
+    "note": "Válido en compras presenciales en sucursales adheridas (habitualmente sucursales con alto flujo universitario). No es acumulable con otras ofertas o promociones de paso.",
+    "apply": "https://littlecaesars.cl",
+    "src": "https://littlecaesars.cl"
+  },
+  {
+    "name": "Kami Sushi — Menú Oficial Permanente '40 Piezas Estudiante'",
+    "org": "Kami Sushi Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Menú promocional permanente diseñado especialmente para la comunidad escolar y universitaria por la cadena Kami Sushi en todas sus sucursales de Chile y en su plataforma web. Ofrece una tabla completa de 40 piezas de sushi seleccionadas (con rolls apanados calientes en panko y rolls fríos en sésamo y ciboulette) a un precio ultra accesible para presupuestos de estudiantes.",
+    "fund": "Tabla completa de 40 piezas de sushi variadas a tarifa reducida de menú estudiante (ahorro de más del 35% respecto a armar piezas individuales de la carta).",
+    "req": "Sin requisitos excluyentes: formato abierto y permanente en carta física y pedidos online en kamisushi.cl para consumo individual o grupal de estudiantes.",
+    "note": "Disponible tanto para retiro en local como para despacho a domicilio a través del sitio web oficial en Santiago y regiones donde opera la cadena.",
+    "apply": "https://kamisushi.cl",
+    "src": "https://kamisushi.cl"
+  },
+  {
+    "name": "McDonald's App — Cuponera Digital Universitaria y Menús de Ahorro Diario",
+    "org": "McDonald's Chile (Arcos Dorados)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Ecosistema oficial de cupones y ofertas móviles de McDonald's Chile en su aplicación oficial (utilizado masivamente por jóvenes y universitarios). Entrega cupones digitales renovados semanalmente con 20% a 50% de descuento en combos seleccionados (Cuarto de Libra, Big Mac, McNuggets), promociones 2x1 y el programa de acumulación de puntos 'MiMcDonald's' para canjear productos gratis.",
+    "fund": "Descuentos de hasta un 50% en combos y productos individuales, promociones 2x1 y canjes gratuitos mediante puntos de fidelización.",
+    "req": "Descargar la aplicación gratuita de McDonald's Chile (iOS / Android) y registrarse con correo electrónico. Escanear el cupón digital en los tótems de autoatención o mesón de cualquier sucursal en Chile o por AutoMac.",
+    "note": "Los cupones se renuevan semanalmente y permiten acceso a precios sustancialmente inferiores al precio regular de carta sin requerir credencial física, siendo la vía principal de ahorro de comida rápida en todo Chile.",
+    "apply": "https://www.mcdonalds.cl",
+    "src": "https://www.mcdonalds.cl"
+  },
+  {
+    "name": "G&N Brands (Doggis, Juan Maestro, Tommy Beans) — Cuponeras Digitales y Descuentos Jóvenes en App",
+    "org": "G&N Brands (Doggis · Juan Maestro · Tommy Beans)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Locales en Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Programa de promociones digitales y cuponeras móviles del holding gastronómico chileno G&N Brands en sus cadenas líderes de comida rápida (Doggis, Juan Maestro y Tommy Beans). A través de sus apps oficiales y la opción 'Sáltate la Fila', los estudiantes y jóvenes acceden a combos económicos de completos, sándwiches mechados y burritos con cupones de rebaja permanente, además de aceptar saldo de la Beca BAES (Junaeb) en los menús habilitados.",
+    "fund": "Cupones digitales con 20% a 40% de descuento en combos medianos y grandes, promociones 'Big Box' y aceptación de pago con tarjeta BAES Junaeb (Pluxee/Edenred) en locales adheridos.",
+    "req": "Descarga de las aplicaciones móviles oficiales (App Doggis, App Juan Maestro o App Tommy Beans) y registro gratuito; para el beneficio BAES, contar con saldo activo en la app Pluxee o Edenred.",
+    "note": "Válido en locales a lo largo de todo Chile mediante tótems de autoatención, mesón o pedidos para retiro. Permite optimizar el presupuesto estudiantil tanto con dinero propio como con la beca de alimentación estatal.",
+    "apply": "https://doggis.cl",
+    "src": "https://doggis.cl"
+  },
+  {
+    "name": "PedidosYa Plus Universitario (Alianza Campus Digital Santander)",
+    "org": "PedidosYa Chile & Banco Santander (Campus Digital)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenio oficial entre PedidosYa y Banco Santander a través de la aplicación Campus Digital by Santander, disponible para estudiantes regulares de universidades chilenas asociadas (incluyendo la Universidad Técnica Federico Santa María - USM, USACH, UV, UTalca, ULS, entre otras). Otorga 3 meses de suscripción 100% gratuita al programa de membresía PedidosYa Plus, permitiendo envíos sin costo ($0) en miles de restaurantes, cafeterías, pizzerías y locales de comida rápida adheridos por pedidos sobre el monto mínimo, junto a descuentos exclusivos de hasta el 50% en platos seleccionados y rebajas en compras de supermercado a través de PedidosYa Market.",
+    "fund": "3 meses gratis de membresía PedidosYa Plus ($0 costo de suscripción) + envíos gratuitos ilimitados en locales adheridos + hasta 50% de descuento en platos y promociones exclusivas en PedidosYa Market.",
+    "req": "Ser estudiante universitario regular en una institución chilena adscrita al ecosistema Campus Digital by Santander (como la USM), contar con correo institucional universitario y activar el cupón desde la app Campus Digital.",
+    "note": "El beneficio se canjea ingresando a la sección de beneficios no financieros de la aplicación Campus Digital de tu universidad, donde se genera un enlace/código individual para activar los 3 meses gratis en la cuenta de PedidosYa.",
+    "apply": "https://www.pedidosya.cl",
+    "src": "https://www.santander.cl/universidades"
+  },
+  {
+    "name": "Work/Café Santander – Cowork y Descuento en Cafetería de Especialidad",
+    "org": "Banco Santander Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Red de más de 70 espacios de cowork y cafetería en las principales ciudades universitarias de Chile (Santiago, Valparaíso, Viña del Mar, Concepción, Antofagasta, Temuco, etc.), concebidos como puntos de estudio y trabajo colaborativo equipados con Wi-Fi de alta velocidad, enchufes y salas de reuniones gratuitas. Estudiantes universitarios titulares de la cuenta universitaria gratuita Santander Smart (o cualquier tarjeta Santander de débito o crédito) acceden a un 30% de descuento de martes a viernes y un 40% de descuento los días lunes en toda la cafetería de especialidad (cafés de grano preparados por baristas profesionales, tés, pastelería dulce, medialunas, sándwiches y jugos naturales) sin tope de descuento.",
+    "fund": "30% de descuento (martes a viernes) y 40% de descuento (lunes) sin tope en toda la carta de la cafetería + salas de reuniones privadas y espacio de estudio/cowork con Wi-Fi gratuito.",
+    "req": "Pagar presencialmente en el mesón o en workcafe.cl utilizando tarjetas de débito o crédito Santander (incluyendo la tarjeta de débito Santander Smart de apertura gratuita para estudiantes universitarios de pregrado).",
+    "note": "Muy utilizado por estudiantes para sesiones de estudio individual y grupal. Las salas de reuniones se pueden reservar gratis mediante la web o presencialmente en la sucursal. El descuento se solicita directamente al momento de pagar en caja.",
+    "apply": "https://www.workcafe.cl",
+    "src": "https://banco.santander.cl/personas/beneficios/workcafe"
+  },
+  {
+    "name": "Starbucks Rewards Chile – Refill de Café del Día, Bebida de Cumpleaños & Estrellas",
+    "org": "Starbucks Coffee Chile (Alsea)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Programa de fidelización y recompensas de Starbucks en Chile, de amplio uso entre estudiantes universitarios que utilizan las cafeterías para estudiar. Otorga una bebida de cortesía tamaño Alto 100% gratuita durante el mes de cumpleaños del usuario en cualquier tienda del país. Para largas jornadas de estudio en sucursal, incluye el beneficio de Refill Gratuito de Café del Día del mismo tamaño presentando la boleta de compra original dentro de las 3 horas posteriores a la compra en la misma tienda. Además, permite acumular Stars por cada $1.500 gastados para canjear bebidas preparadas en barra gratis de cualquier tamaño cada 36 Stars acumuladas, una bebida tamaño Alto gratis por la compra de cada bolsa de café en grano, y personalizaciones sin costo de jarabes y leches vegetales en nivel Gold.",
+    "fund": "Bebida tamaño Alto 100% gratis en el mes de cumpleaños + Refill gratuito de Café del Día en local dentro de 3 horas + Bebida de cualquier tamaño gratis cada 36 Stars.",
+    "req": "Registro gratuito en la aplicación Starbucks Chile o en starbucks.cl con RUT y correo, asociando una Starbucks Card digital gratuita generada en la misma app para pagar y registrar consumos.",
+    "note": "El beneficio de refill aplica exclusivamente para Café del Día en el mismo local dentro de una ventana de 3 horas y conservando la boleta. Para el beneficio de cumpleaños, el usuario debe haber registrado su fecha de nacimiento en el perfil al menos un mes antes.",
+    "apply": "https://www.starbucks.cl/rewards",
+    "src": "https://www.starbucks.cl"
+  },
+  {
+    "name": "GoodMeal Chile – Packs Sorpresa en Cafeterías y Panaderías con 50% a 70% DCTO",
+    "org": "GoodMeal SpA",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Aplicación chilena de rescate de alimentos frescos y excedentes diarios que conecta a estudiantes y usuarios con cafeterías, panaderías, pastelerías y locales de comida rápida para adquirir 'Packs Sorpresa' con descuentos de entre el 50% y el 70% de su valor comercial. Integra cadenas reconocidas como panaderías San Camilo, Starbucks, Fork, Dunkin', Oxxo, Castaño y decenas de cafeterías de especialidad de barrio en ciudades con alta densidad estudiantil (Gran Santiago, Valparaíso, Viña del Mar, Concepción, etc.), permitiendo rescatar medialunas, sándwiches preparados, muffins, tartas, panes de masa madre y café del día en perfecto estado a precios sumamente accesibles.",
+    "fund": "50% a 70% de descuento directo en packs sorpresa de bollería, sándwiches, café y comida preparada (precios desde $2.000 a $4.500 por combos de alto valor).",
+    "req": "Descargar la aplicación móvil gratuita GoodMeal en iOS o Android, registrarse y activar la ubicación para explorar locales disponibles cerca del campus o domicilio.",
+    "note": "Los packs se publican diariamente en horarios específicos (habitualmente a media tarde o cerca de la hora de cierre) y deben retirarse presencialmente en el local dentro de la ventana horaria informada por la app mostrando el ticket digital.",
+    "apply": "https://goodmeal.app/",
+    "src": "https://goodmeal.app/"
+  },
+  {
+    "name": "Cheaf Chile – Rescate de Supermercados (Jumbo y Santa Isabel) con 50% a 65% DCTO",
+    "org": "Cheaf Chile & Cencosud",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma de rescate de alimentos aliada oficialmente con Cencosud (supermercados Jumbo y Santa Isabel) y comercios locales en diversas regiones de Chile. Permite a estudiantes universitarios comprar bolsas sorpresa de comida categorizadas por tipo (Panadería y Pastelería, Frutas y Verduras, Lácteos y Embutidos, o Platos Preparados) con un 50% a 65% de descuento respecto a su precio en góndola. Son productos en perfecto estado de consumo que se encuentran próximos a su fecha de vencimiento o con sobrestock, convirtiéndose en una herramienta esencial de ahorro para estudiantes foráneos o que viven solos y deben abastecer su despensa semanal.",
+    "fund": "Descuentos del 50% al 65% en bolsas sorpresa de abarrotes, panificados, lácteos y comidas preparadas de supermercado.",
+    "req": "Descargar la aplicación móvil gratuita Cheaf en Google Play o App Store, seleccionar la tienda o supermercado adherido y pagar digitalmente.",
+    "note": "El contenido específico de cada bolsa depende del excedente diario del supermercado seleccionado. Se retira en el mesón de atención al cliente o panadería del supermercado en el horario fijado por la aplicación.",
+    "apply": "https://cheaf.com/es-cl",
+    "src": "https://cheaf.com/es-cl"
+  },
+  {
+    "name": "Menús Preferenciales BAES Junaeb (Red de Cadenas: Subway, Castaño, Juan Maestro & Doggis)",
+    "org": "Junta Nacional de Auxilio Escolar y Becas (JUNAEB) · Pluxee & Edenred Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🍕 Comida, Cafés & Delivery",
+    "scope": "Chile",
+    "city": "Chile / App",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Esquema regulado de alimentación para estudiantes de educación superior beneficiarios de la Beca BAES (tarjeta Pluxee o Edenred según región). Por normativa estatal de JUNAEB, las grandes cadenas de comida rápida y cafeterías adheridas al sistema (incluyendo Subway, Castaño, Juan Maestro, Tarragona, Doggis y Tommy Beans) están obligadas a ofrecer un 'Menú Junaeb' o 'Menú Preferencial' con estándares nutricionales específicos (máximo 2 sellos 'Altos en') y tarifas protegidas y rebajadas acordes al saldo diario del beneficio estatal, permitiendo acceder a sándwiches, ensaladas, colaciones, desayunos y almuerzos calientes a valores notablemente inferiores a la carta comercial general.",
+    "fund": "Precios protegidos y regulados en combos y colaciones estudiantiles (típicamente entre $2.500 y $4.800) cubiertos directamente con el saldo mensual de la beca de alimentación ($48.000 a $50.000 mensuales).",
+    "req": "Ser beneficiario activo de la Beca de Alimentación para la Educación Superior (BAES) de JUNAEB y pagar escaneando el código QR desde la App Pluxee Chile o App Edenred Ticket Junaeb en el tótem o caja del local adherido.",
+    "note": "En cadenas como Subway existen alternativas como el 'Sub Baratísimo' o combos del día aptos para Junaeb, en Castaño una amplia gama de almuerzos y colaciones listas para llevar, y en Juan Maestro promociones de desayuno y sándwiches clásicos certificados por el visor de comercios BAES.",
+    "apply": "https://becajunaeb.pluxee.cl",
+    "src": "https://www.junaeb.cl/beca-baes"
+  },
+  {
+    "name": "TNE (Tarjeta Nacional Estudiantil) — Tarifa Rebajada 24/7 en Todo el Transporte Público",
+    "org": "JUNAEB / Ministerio de Transportes y Telecomunicaciones (MTT)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Beneficio estatal por ley (Decreto Supremo N° 20 modificado por Decreto N° 239) que otorga tarifa rebajada o gratuita en el transporte público colectivo licitado urbano y rural a nivel nacional (buses Red Movilidad, Metro de Santiago, trenes de cercanía y micros en regiones). Rige las 24 horas del día, los 7 días de la semana y los 365 días del año de forma continua e ininterrumpida.",
+    "fund": "Tarifa escolar fijada por ley ($260 CLP en buses Red, Metro de Santiago y Tren Nos con 2 transbordos en 120 minutos; 67% de rebaja en Biotren y Metro Valparaíso / Tren Limache-Puerto; gratis en educación básica).",
+    "req": "Estudiantes regulares de educación básica (a partir de 5° básico), media y educación superior (pregrado y postgrado según criterios socioeconómicos) matriculados en instituciones reconocidas por el Mineduc.",
+    "note": "Según dictámenes de la Contraloría y normativas del MTT, los choferes y operadores de transporte no tienen facultad legal para exigir justificación del viaje ni fiscalizar el motivo del traslado. Requiere revalidación anual del sello o activación tecnológica en tótems Bip!.",
+    "apply": "https://www.tne.cl/",
+    "src": "https://www.junaeb.cl/tarjeta-nacional-estudiantil/"
+  },
+  {
+    "name": "EFE Trenes de Chile — Tarifa Escolar TNE en Biotren, Metro Valparaíso y Tren Rancagua",
+    "org": "Empresa de los Ferrocarriles del Estado (EFE)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Red de beneficios tarifarios escolares en todos los servicios de pasajeros y cercanías de ferrocarriles del Estado: Tren Nos y Tren Rancagua (EFE Central), Limache – Puerto (EFE Valparaíso) y Biotren / Corto Laja (EFE Sur). Permite traslados interurbanos rápidos y seguros a costos sustancialmente reducidos para estudiantes.",
+    "fund": "67% de descuento en Biotren y EFE Valparaíso frente al pasaje adulto; tarifa integrada Red de $260 CLP en Tren Nos; y entre 46% y 48% de descuento en el servicio Tren Rancagua - Estación Central.",
+    "req": "Portar TNE vigente del año en curso o tarjeta escolar personalizada de EFE. Requiere pase escolar enrolado o activado en boleterías para los tramos suburbanos.",
+    "note": "En Biotren los estudiantes de educación básica viajan con costo $0. Para servicios interurbanos de mediana distancia como Tren Rancagua, el beneficio se valida presencialmente en boleterías presentando certificado de alumno regular.",
+    "apply": "https://www.efe.cl/",
+    "src": "https://www.efe.cl/pasajeros/"
+  },
+  {
+    "name": "Turbus — Convenio y Tarifa Preferencial para Estudiantes de Educación Superior",
+    "org": "Turbus Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Programa oficial de tarifa preferencial de Turbus para estudiantes de educación superior que viajan con frecuencia entre la ciudad de su casa de estudios y su residencia de origen. Habilita compras con tarifas rebajadas en pasajes interurbanos de larga distancia en dos trayectos fijos recurrentes de ida y vuelta de lunes a domingo.",
+    "fund": "Descuentos de hasta el 50% en el valor de los pasajes interurbanos en los tramos fijos inscritos.",
+    "req": "Estudiantes regulares de educación superior (universidades, institutos profesionales o centros de formación técnica reconocidos por el Mineduc). Cédula de identidad y Certificado de Alumno Regular del año en curso.",
+    "note": "El trámite de inscripción se realiza online en el formulario de turbus.cl o presencialmente en boleterías de terminales principales. La habilitación demora hasta 72 horas hábiles tras revisión de documentos. Cupos estudiantiles por bus sujetos a disponibilidad.",
+    "apply": "https://www.turbus.cl/",
+    "src": "https://www.turbus.cl/"
+  },
+  {
+    "name": "FlixBus Chile — Descuento Estudiantil Internacional ISIC y Convenios Universitarios",
+    "org": "FlixBus Chile / ISIC (International Student Identity Card)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Alianza permanente entre la empresa de transporte interurbano FlixBus Chile y la credencial de estudiante ISIC, junto a convenios universitarios institucionales (como TUI Uchile y federaciones). Facilita códigos de descuento personalizados para trayectos nacionales que conectan Santiago, Valparaíso, Viña del Mar, Coquimbo, La Serena, Rancagua, Talca y San Antonio.",
+    "fund": "10% a 20% de descuento directo en pasajes de bus interurbano comprados a través del sitio web o la app oficial de FlixBus.",
+    "req": "Contar con credencial digital o física ISIC válida en Chile, o pertenecer a una institución de educación superior con convenio estudiantil directo.",
+    "note": "El código único se obtiene validando el número de carné en la plataforma de ISIC Chile o intranet universitaria y se ingresa en el casillero promocional de la aplicación FlixBus al momento de reservar.",
+    "apply": "https://www.isic.cl/",
+    "src": "https://www.flixbus.cl/"
+  },
+  {
+    "name": "JetSMART & BancoEstado — Descuentos en Equipaje para Estudiantes con CuentaRUT",
+    "org": "JetSMART Airlines / BancoEstado",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Alianza estratégica comercial continua entre la aerolínea ultra low cost JetSMART y BancoEstado para usuarios de la CuentaRUT (tarjeta de débito de cobertura universal entre universitarios chilenos). Permite abaratar sustancialmente el costo final de los viajes aéreos nacionales e internacionales reduciendo el cobro de adicionales indispensables como maleta de cabina, equipaje facturado y mascotas.",
+    "fund": "20% de descuento en Maleta de Cabina (carry on), 20% de descuento en Maleta de Bodega y 20% en transporte de Mascota en Cabina al pagar con CuentaRUT.",
+    "req": "Ser titular de tarjeta débito BancoEstado CuentaRUT activa y con fondos.",
+    "note": "Para aplicar la rebaja, debes ingresar los primeros 6 dígitos de tu tarjeta CuentaRUT en el casillero de 'Código Promocional' durante la cotización en jetsmart.com y concretar el pago con la misma tarjeta.",
+    "apply": "https://jetsmart.com/cl/es/",
+    "src": "https://www.bancoestado.cl/"
+  },
+  {
+    "name": "INJUV Comunidad Joven — Convenios en Buses Interurbanos, Trenes EFE y Descuento en Carné ISIC",
+    "org": "Instituto Nacional de la Juventud (INJUV) · Gobierno de Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Programa de beneficios estatales 'Comunidad Joven' (sucesor digital de la Tarjeta Joven del INJUV) que entrega alianzas activas para transporte terrestre y viajes. Contempla hasta 15% de rebaja en pasajes con líneas de buses interurbanos (como Pullman Bus y filiales), promociones estacionales de hasta 20% en trenes EFE y 50% de subsidio en la emisión del carné internacional de estudiante ISIC.",
+    "fund": "100% Gratuito. Ahorro de hasta 15% en pasajes de bus interurbano, hasta 20% en pasajes de tren y 50% de descuento en la acreditación internacional ISIC.",
+    "req": "Jóvenes entre 15 y 29 años de edad con nacionalidad o residencia en Chile, portadores de RUN y ClaveÚnica.",
+    "note": "Activación en línea inmediata y gratuita mediante ClaveÚnica en el portal de Comunidad Joven INJUV. Los convenios y cupones alfanuméricos se consultan y generan desde la sección de Beneficios de Transporte y Viajes.",
+    "apply": "https://comunidadjoven.injuv.gob.cl/",
+    "src": "https://www.injuv.gob.cl/comunidad-joven"
+  },
+  {
+    "name": "Descuento Joven y Estudiante en Parques Nacionales CONAF",
+    "org": "Corporación Nacional Forestal (CONAF) / INJUV (Ministerio de Agricultura)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenio nacional oficial entre la Corporación Nacional Forestal (CONAF) y el Instituto Nacional de la Juventud (INJUV) que otorga tarifa preferencial rebajada para visitar parques nacionales, reservas nacionales y monumentos naturales en todo Chile dentro del Sistema Nacional de Áreas Silvestres Protegidas del Estado (SNASPE).",
+    "fund": "20% de descuento sobre la tarifa de ingreso general en áreas silvestres protegidas administradas por CONAF a nivel nacional, aplicable al adquirir entradas digitales a través de la plataforma oficial pasesparques.cl ingresando el RUN registrado.",
+    "req": "Tener entre 15 y 29 años, contar con RUN chileno y estar inscrito gratuitamente en el programa Comunidad Joven del INJUV (vía ClaveÚnica). La compra debe realizarse previamente por internet en pasesparques.cl ingresando el RUN en el campo de código de descuento.",
+    "note": "Gran parte de los parques nacionales ya no venden entradas en las porterías físicas de acceso; la compra debe ser 100% digital y anticipada. Aplica con tope de 1 entrada diaria por usuario según disponibilidad de aforo en cada parque o reserva.",
+    "apply": "https://www.pasesparques.cl",
+    "src": "https://www.conaf.cl"
+  },
+  {
+    "name": "Entrada Liberada Universal en Museos Estatales de Chile (SERPAT)",
+    "org": "Servicio Nacional del Patrimonio Cultural (SERPAT) - Ministerio de las Culturas, las Artes y el Patrimonio",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Gratuidad permanente universal en la red de museos públicos dependientes del Servicio Nacional del Patrimonio Cultural (SERPAT) en todo el país. Beneficia a estudiantes escolares, universitarios y público general en recintos patrimoniales, arqueológicos, históricos y artísticos de Arica a Magallanes.",
+    "fund": "Ingreso 100% liberado (tarifa $0) todos los días del año de apertura en más de 24 museos estatales, incluyendo el Museo Nacional de Bellas Artes (MNBA), Museo Histórico Nacional (MHN), Museo Nacional de Historia Natural (MNHN), Museo de Historia Natural de Valparaíso, Museo de la Educación y museos regionales.",
+    "req": "Acceso libre para todo público y estudiantes sin costo. En recintos de alta afluencia o exposiciones temporales masivas puede solicitarse inscripción previa de aforo en el sitio web de la institución respectiva.",
+    "note": "Los museos públicos abren generalmente de martes a domingo (cerrados los lunes por mantención). Es una política pública estatal permanente para garantizar el acceso democrático a la cultura y el patrimonio a estudiantes de todo Chile.",
+    "apply": "https://www.museoschile.gob.cl",
+    "src": "https://www.patrimoniocultural.gob.cl"
+  },
+  {
+    "name": "Tarifa Estudiante y Divulgación Científica en Planetario USACH",
+    "org": "Planetario Universidad de Santiago de Chile (USACH)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🚌 Transporte, Viajes & Cultura",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tarifa rebajada permanente en funciones de cartelera habitual y astronomía inmersiva en la única sala fulldome digital de alta resolución en Chile. Permite a escolares, estudiantes universitarios y público joven disfrutar de proyecciones astronómicas 360°, exposiciones científicas interactivas y charlas temáticas.",
+    "fund": "Tarifa preferencial en cartelera regular: $5.000 CLP para público escolar y estudiantes menores de 18 años (frente a $5.500 adulto general), y tarifa preferencial especial de $2.000 CLP para estudiantes regulares USACH en cartelera habitual (junto a 50% de descuento en eventos nocturnos y especiales).",
+    "req": "Presentar TNE (Tarjeta Nacional Estudiantil) vigente o credencial universitaria / escolar al momento del ingreso. Para el beneficio interno USACH se debe acreditar matrícula activa mediante credencial institucional en boletería.",
+    "note": "Ubicado en Av. Libertador Bernardo O'Higgins 3349 (Metro Estación Central, Santiago). Las entradas pueden adquirirse en boletería o en su plataforma online; las funciones fulldome de fin de semana suelen agotarse rápidamente.",
+    "apply": "https://planetariochile.cl",
+    "src": "https://planetariochile.cl"
+  },
+  {
+    "name": "Tarifa Estudiante en Cines de Arte y Salas Independientes (Normandie y Alameda)",
+    "org": "Cine Arte Normandie / Red de Salas de Cine de Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tarifa rebajada fija para estudiantes de enseñanza media y universitaria en el circuito histórico de cines independientes y de autor de Chile, liderado por el Cine Arte Normandie y salas colaboradoras como Centro Arte Alameda (CEINA). Ofrece acceso a estrenos internacionales de cine de autor, clásicos restaurados y cine chileno.",
+    "fund": "Entrada rebajada a $3.500 CLP en Cine Arte Normandie (frente a la tarifa general de $6.000 CLP, equivalente a ~42% de descuento) y $3.000 CLP en Centro Arte Alameda / CEINA (frente a $4.000 entrada general).",
+    "req": "Presentar físicamente o digitalmente la TNE (Pase Escolar o Universitario) vigente o credencial de estudiante de educación superior reconocida por el MINEDUC al comprar en boletería o al validar el acceso en sala.",
+    "note": "A diferencia de las grandes cadenas comerciales multisala que eliminaron la tarifa estudiante en ventanilla, el circuito independiente chileno mantiene la rebaja estudiantil como un pilar permanente de formación de audiencias culturales.",
+    "apply": "https://normandie.cl",
+    "src": "https://normandie.cl"
+  },
+  {
+    "name": "Tarifa Estudiante TNE en Cineplanet Chile",
+    "org": "Cineplanet Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tarifa preferencial para estudiantes escolares y universitarios en la cadena Cineplanet a lo largo de Chile, disponible para funciones de lunes a viernes en películas tradicionales 2D en salas estándar.",
+    "fund": "Entrada a precio rebajado de ~$2.900 a $3.000 CLP (en comparación con el precio normal de boletería de $5.000 a $6.500 CLP, representando más del 40% de descuento).",
+    "req": "Estar inscrito en el programa gratuito 'Socio Cineplanet' y presentar físicamente la Tarjeta Nacional Estudiantil (TNE) o credencial estudiantil vigente al momento de ingresar a la sala de cine. Válido para 1 entrada diaria por socio de lunes a viernes (excepto días feriados o festivos).",
+    "note": "Es la única gran cadena comercial multisala en Chile que conserva formalmente una tarifa específica de estudiante asociada al control de TNE en sala. No aplica para compras de preventas o formatos especiales (3D, Xtreme, Prime).",
+    "apply": "https://www.cineplanet.cl",
+    "src": "https://www.cineplanet.cl"
+  },
+  {
+    "name": "Descuento Joven en Cineteca Nacional de Chile y Centro Cultural La Moneda",
+    "org": "Cineteca Nacional de Chile / Fundación Centro Cultural La Moneda (CCLM) / INJUV",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Santiago / Regiones",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Beneficio cultural para jóvenes y estudiantes en la Cineteca Nacional de Chile (ubicada en el Centro Cultural La Moneda), con gratuidad permanente en gran parte de sus muestras y ciclos de preservación del patrimonio fílmico chileno, y descuentos preferenciales en funciones especiales y festivales.",
+    "fund": "Acceso liberado ($0) a la mayoría de los ciclos y muestras patrimoniales regulares mediante reserva digital previa, y 50% de descuento en funciones pagadas, festivales (FIDOCS, SANFIC, etc.) y exposiciones del CCLM para jóvenes de 15 a 29 años afiliados a Comunidad Joven de INJUV.",
+    "req": "Para ciclos gratuitos: reservar ticket online en la web de CCLM/Cineteca. Para el 50% de descuento: contar con credencial de estudiante o estar inscrito en Comunidad Joven del INJUV (15 a 29 años) y acreditarlo al momento de compra/ingreso.",
+    "note": "Ubicado en el nivel -2 del Palacio de La Moneda (Plaza de la Ciudadanía #26, Santiago). Además de cine, la Cineteca cuenta con mediateca pública y archivo digital de libre acceso para investigación y estudio universitario.",
+    "apply": "https://www.cclm.cl/cineteca-nacional/",
+    "src": "https://cinetecanacional.gob.cl"
+  },
+  {
+    "name": "Diario Financiero — DF Universitario & Convenio Estudiantes",
+    "org": "Diario Financiero (DF)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Acceso digital preferencial a la principal fuente de noticias de economía, mercados financieros, innovación y políticas públicas en Chile. Otorga lectura ilimitada a todos los artículos y reportajes premium de df.cl, hemeroteca histórica, suplementos de finanzas y capital de riesgo, y newsletters especializadas.",
+    "fund": "Tarifa preferencial de ~$1.950 CLP/mes con código ESTUDIANTEDF (más del 80% de descuento sobre el precio de lista de ~$11.990 CLP/mes) o acceso sin costo mediante convenios institucionales",
+    "req": "Ser estudiante activo de educación superior y registrarse con correo institucional universitario chileno (@usm.cl).",
+    "note": "Al suscribirte en la plataforma de df.cl, ingresa con tu correo @usm.cl y aplica el cupón de convenio ESTUDIANTEDF para mantener la tarifa rebajada por hasta 3 años continuos mientras seas alumno regular.",
+    "apply": "https://www.df.cl",
+    "src": "https://www.df.cl/suscripciones"
+  },
+  {
+    "name": "MUBI Student — Streaming de Cine de Autor & Festivales",
+    "org": "MUBI",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Online / Global",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma global de streaming y cinemateca digital dedicada al cine de autor, películas galardonadas en festivales internacionales (Cannes, Venecia, Berlín, Sundance), cine independiente y clásicos restaurados, con curaduría especializada y rotación constante de estrenos.",
+    "fund": "30 días de prueba gratuita y tarifa estudiantil preferencial con ~40% de descuento sobre la suscripción mensual estándar",
+    "req": "Estar matriculado en una universidad o institución de educación superior y validar mediante correo institucional (@usm.cl) o certificado de matrícula.",
+    "note": "Inscríbete directamente en mubi.com/student con tu correo institucional @usm.cl. Si ya posees una cuenta regular, puedes migrarla al plan de estudiante desde los ajustes de suscripción.",
+    "apply": "https://mubi.com/student",
+    "src": "https://mubi.com"
+  },
+  {
+    "name": "ElevenReader Ultra & ElevenLabs Education — Audiolibros de Papers y Lectura con Voz IA",
+    "org": "ElevenLabs",
+    "kind": [
+      "desc"
+    ],
+    "area": "💻 Software, IA & Ciencia",
+    "scope": "Online / Global",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma y aplicación de lectura auditiva inteligente de alta fidelidad que transforma papers científicos en PDF, capítulos de libros de estudio, apuntes y artículos en audio con voces sintéticas naturales y expresivas. Ideal para estudiar y revisar bibliografía en traslados y tiempos muertos.",
+    "fund": "1 año 100% Gratuito de ElevenReader Ultra para estudiantes universitarios (valor comercial ~$99 USD/año) + 3 meses gratis en planes de creadores ElevenCreative/API",
+    "req": "Ser estudiante de educación superior con correo institucional universitario activo (@usm.cl).",
+    "note": "Ingresa a elevenreader.io/students desde la app o navegador e ingresa tu correo @usm.cl para desbloquear la membresía Ultra anual sin costo.",
+    "apply": "https://elevenreader.io/students",
+    "src": "https://elevenlabs.io/students"
+  },
+  {
+    "name": "La Tercera — Plan Universitario de Suscripción Digital",
+    "org": "La Tercera · Grupo Copesa",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Suscripción a la edición digital de uno de los diarios de referencia en noticias, política y tendencias de Chile. Incluye navegación ilimitada sin muros de pago en latercera.com, reportajes de ciencia y tecnología (Qué Pasa), edición papel digital matutina y acceso a suplementos dominicales.",
+    "fund": "50% de descuento permanente sobre la tarifa regular del plan digital durante toda la carrera universitaria",
+    "req": "Registrarse con correo institucional (@usm.cl) y enviar certificado de alumno regular vigente a suscripciones@latercera.com dentro de las 48 horas tras el alta.",
+    "note": "El descuento aplica a planes mensuales digitales y se renueva acreditando la condición de alumno regular activo en cada período académico.",
+    "apply": "https://suscripciones.latercera.com",
+    "src": "https://www.latercera.com"
+  },
+  {
+    "name": "Runway ML — Plan de Educación & Video Generativo",
+    "org": "Runway",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Online / Global",
+    "city": "Acceso Remoto (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Plataforma líder en generación y edición audiovisual mediante modelos de inteligencia artificial multimodal (Gen-2, Gen-3 Alpha). Permite a estudiantes crear animaciones, simulaciones visuales cinemáticas, visualizaciones científicas y prototipos multimedia con créditos y renderizado acelerado en la nube.",
+    "fund": "25% de descuento en planes de suscripción individual (Standard, Pro, Unlimited) para estudiantes universitarios acreditados",
+    "req": "Estudiante universitario activo verificado a través del sistema SheerID con correo institucional (@usm.cl).",
+    "note": "Disponible en la sección Settings > Plans & Billing o directamente a través de runwayml.com/educators vinculando la validación académica.",
+    "apply": "https://runwayml.com/educators",
+    "src": "https://runwayml.com"
+  },
+  {
+    "name": "HP Store Educación Chile — Descuento Estudiantil en Laptops, Monitores e Impresoras",
+    "org": "HP Inc. Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Online Chile (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Programa de descuentos para la comunidad estudiantil y académica en la tienda oficial en línea de HP Chile. Ofrece cupones promocionales exclusivos en computadores portátiles de uso diario y alto rendimiento (líneas HP Envy, OmniBook, Pavilion y series con GPU dedicada Victus y Omen para renderizado y computación gráfica), monitores de escritorio, accesorios ergonómicos e impresoras multifuncionales de sistema continuo Smart Tank.",
+    "fund": "Descuento directo permanente de 10% a 15% mediante cupón personal de estudiante aplicable sobre el carrito de compras en la tienda oficial HP Store, con despacho a todo Chile y garantía directa de fábrica.",
+    "req": "Acreditar condición de estudiante regular universitario mediante correo institucional (@usm.cl) a través de la pasarela de validación estudiantil de la tienda (Destu / portal de beneficios de HP Chile).",
+    "note": "Muy conveniente para estudiantes de ingeniería que buscan laptops balanceadas con procesadores multinúcleo para software de CAD (SolidWorks, AutoCAD), simulación numérica y programación, o sistemas de impresión económica para guías de ejercicios.",
+    "apply": "https://www.hp.com/cl-es/shop",
+    "src": "https://www.hp.com/cl-es/"
+  },
+  {
+    "name": "Casio Educación Chile — Emuladores Oficiales y Entorno Web ClassPad para Cálculo y Ciencias",
+    "org": "Casio Computer Co. (División Educativa)",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Online Chile (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Suite oficial de software, emuladores y herramientas matemáticas digitales desarrolladas por Casio para apoyar la formación en carreras de ingeniería y ciencias exactas. Brinda acceso sin costo a la plataforma web ClassPad.net con motores de cálculo simbólico (CAS), matrices, estadística avanzada y geometría interactiva, además de versiones virtuales de las calculadoras científicas de la serie ClassWiz (fx-570CW, fx-991CW y fx-991EX) para navegador web y aplicaciones móviles.",
+    "fund": "Acceso gratuito permanente a la plataforma online ClassPad.net y herramientas de simulación matemática de la serie ClassWiz, software de prueba extendido para Windows/Mac y material pedagógico con guías de laboratorio de física y matemáticas.",
+    "req": "Registro gratuito de cuenta con correo electrónico institucional (@usm.cl) o personal; disponible de forma abierta e inmediata para estudiantes y docentes.",
+    "note": "Permite simular exactamente el funcionamiento de las calculadoras físicas ClassWiz autorizadas en evaluaciones de la USM, posibilitando resolver y verificar sistemas de ecuaciones lineales, integrales definidas y operaciones complejas en la pantalla del computador.",
+    "apply": "https://www.classpad.net",
+    "src": "https://edu.casio.com"
+  },
+  {
+    "name": "Texas Instruments Education — Software y Herramientas Matemáticas TI-Nspire CX",
+    "org": "Texas Instruments (Educación Latinoamérica)",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Online Chile (@usm.cl)",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Ecosistema oficial de software matemático, emulación y recursos de programación técnica de Texas Instruments para educación superior en ingeniería, ciencias y física aplicada. Incluye el software de escritorio TI-Nspire CX II CAS Student Software para PC y Mac, con soporte para cálculo algebraico simbólico (CAS), graficación dinámica en 2D/3D, resolución analítica y numérica de ecuaciones diferenciales, y entorno de desarrollo integrado en Python para modelación de sistemas.",
+    "fund": "Periodo de prueba completo gratuito de 30 a 90 días, actualizaciones gratuitas del sistema operativo y librerías científicas en línea, y licencia perpetua de escritorio incluida sin costo adicional al adquirir calculadoras de la familia TI-Nspire CX II.",
+    "req": "Descarga de versión de prueba sin costo en el portal oficial; para activación perpetua se utiliza la clave de 16 caracteres incluida en el empaque del dispositivo o convenios institucionales.",
+    "note": "La plataforma TI-Nspire con CAS y Python es de gran utilidad en cursos avanzados de ingeniería eléctrica, mecánica y física matemática para cálculo matricial de gran escala, transformadas de Fourier/Laplace y simulación de circuitos.",
+    "apply": "https://education.ti.com/es/latinoamerica",
+    "src": "https://education.ti.com/es/latinoamerica/software"
+  },
+  {
+    "name": "Sportlife — Plan Estudiante y Convenios Universitarios Deportivos",
+    "org": "Sportlife Chile",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Tarifa preferencial y planes especiales para estudiantes universitarios y jóvenes (habitualmente hasta los 24-25 años) en la principal cadena de gimnasios de Chile. Brinda acceso a infraestructura deportiva integral (salas de musculación, equipamiento cardiovascular, áreas de peso libre y clases dirigidas grupales como spinning, yoga, pilates y functional training) con aranceles reducidos en planes mensuales, trimestrales, semestrales y anuales, además de convenios institucionales directos con federaciones de estudiantes y Direcciones de Asuntos Estudiantiles (DAE) de universidades chilenas.",
+    "fund": "Tarifas estudiantiles preferenciales con descuentos entre el 20% y 35% respecto a los precios de lista general, junto a rebajas o exenciones en la cuota de incorporación y matrícula según la sede.",
+    "req": "Cédula de identidad chilena y acreditación de calidad de estudiante regular de educación superior (Certificado de Alumno Regular emitido en los últimos 30 a 60 días, Tarjeta Universitaria Inteligente TUI o credencial estudiantil vigente). Rango etario frecuente: jóvenes hasta 24 o 25 años en sedes con plan etario.",
+    "note": "La contratación y validación de antecedentes se gestiona de manera presencial en la recepción de la sucursal de preferencia. Los aranceles y cupos pueden variar entre regiones y franquicias (como sedes de la Región Metropolitana o Sportlife Zona Sur).",
+    "apply": "https://www.sportlife.cl",
+    "src": "https://www.sportlife.cl"
+  },
+  {
+    "name": "Uno Salud Dental — Arancel Preferencial Estudiantil y Convenio Fonasa",
+    "org": "Uno Salud Dental",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "La red de clínicas dentales más grande de Chile ofrece cobertura preferencial y aranceles rebajados para estudiantes universitarios y jóvenes afiliados a Fonasa (tramos A, B, C y D, o cargas familiares/estudiantiles), junto con alianzas directas con federaciones universitarias. Incluye evaluación odontológica diagnóstica integral, set radiográfico inicial según indicación clínica y presupuesto sin costo, además de descuentos sustanciales en tratamientos de profilaxis, destartraje, resinas compuestas (tapaduras), exodoncias, endodoncias y ortodoncia en más de 75 sucursales a nivel nacional.",
+    "fund": "Diagnóstico clínico y presupuesto inicial sin costo ($0) + hasta un 50% a 60% de descuento directo sobre el arancel dental base particular para estudiantes y jóvenes afiliados a Fonasa o pertenecientes a casas de estudio con convenio.",
+    "req": "Contar con afiliación vigente al sistema Fonasa (como titular o carga legal) o presentar credencial universitaria / certificado de alumno regular en clínicas con convenio directo institucional.",
+    "note": "No requiere trámites previos en sucursales de Fonasa ni compra de bonos en papel; el arancel preferencial se activa directamente en la recepción de la clínica mediante la validación en línea del RUN del estudiante.",
+    "apply": "https://www.unosalud.cl",
+    "src": "https://www.unosalud.cl/convenios"
+  },
+  {
+    "name": "RedSalud Dental — Descuento y Cobertura Fonasa para Universitarios",
+    "org": "RedSalud (Cámara Chilena de la Construcción)",
+    "kind": [
+      "desc"
+    ],
+    "area": "🎬 Streaming, Cine & Prensa",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "RedSalud Dental dispone en su red nacional de clínicas odontológicas de un convenio preferencial directo para jóvenes y estudiantes de educación superior afiliados a Fonasa. Permite acceder a atención odontológica de alta calidad con arancel protegido en una amplia gama de procedimientos preventivos, curativos y de especialidad, incluyendo controles odontológicos periódicos, limpiezas y destartrajes, obturaciones con resinas estéticas, cirugías dentales, tratamientos de conducto y ortodoncia correctiva.",
+    "fund": "60% de descuento sobre el arancel dental particular base (Arancel RedSalud 100) en prestaciones odontológicas seleccionadas y presupuesto inicial sin costo para personas afiliadas a Fonasa.",
+    "req": "Estar afiliado a Fonasa en cualquiera de sus tramos (A, B, C o D) o acreditar condición de carga estudiantil regular, presentando cédula de identidad vigente al momento de solicitar la hora o ingresar a la clínica.",
+    "note": "Convenio con cobertura médica en todas las clínicas dentales RedSalud de Arica a Punta Arenas. La aplicación del arancel preferente se realiza automáticamente a través del sistema I-Med al registrar el RUN del paciente en recepción.",
+    "apply": "https://www.redsalud.cl",
+    "src": "https://www.redsalud.cl/odontologia/convenio-fonasa"
+  },
+  {
+    "name": "Convenios de Salud Visual Estudiantil — Ópticas Schilling & Rotter & Krauss",
+    "org": "Ópticas Schilling · Rotter & Krauss · Direcciones de Asuntos Estudiantiles (DAE)",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Alianzas y convenios comerciales vigentes entre las principales cadenas de ópticas de Chile (Ópticas Schilling y Rotter & Krauss) y las Direcciones de Asuntos Estudiantiles (DAE), departamentos de bienestar y federaciones de educación superior (como USM, Universidad de Chile, Duoc UC, Universidad Mayor, UBO, entre otras). Permiten a los estudiantes regulares acceder a chequeos refractivos de la visión, recetas optométricas y rebajas fijas en la compra de lentes ópticos completos (armazones más cristales orgánicos o de policarbonato con filtro azul y tratamiento antirreflejo), lentes de sol y lentes de contacto.",
+    "fund": "20% de descuento en lentes ópticos completos (armazón y cristales graduados), 12% a 20% en lentes de sol y 10% a 12% en lentes de contacto de laboratorios seleccionados, junto a operativos oftalmológicos gratuitos o a bajo costo en campus universitarios.",
+    "req": "Acreditar calidad de estudiante regular presentando credencial universitaria vigente (TUI física o credencial digital) o Certificado de Alumno Regular del semestre en curso, acompañado de la cédula de identidad, antes de la emisión de la boleta de compra.",
+    "note": "Aplica de forma presencial en las sucursales de ambas ópticas a nivel nacional. No suele ser acumulable con promociones temporales, liquidaciones Cyber o 2x1 de temporada. Se sugiere revisar en el portal DAE de la respectiva universidad los códigos de convenio específicos.",
+    "apply": "https://www.schilling.cl",
+    "src": "https://www.ryk.cl"
+  },
+  {
+    "name": "Convenio Fonasa en Farmacias — Descuento Nacional en Medicamentos (Salcobrand & Farmacias Ahumada)",
+    "org": "Fondo Nacional de Salud (Fonasa) · Salcobrand · Farmacias Ahumada",
+    "kind": [
+      "desc"
+    ],
+    "area": "👓 Hardware, Salud & Tarjetas",
+    "scope": "Chile",
+    "city": "Todo Chile",
+    "status": "permanente",
+    "deadline": null,
+    "desc": "Convenio público-privado de alcance nacional licitado por Fonasa que beneficia a todos los afiliados del sistema público de salud —incluidos estudiantes universitarios y jóvenes— con precios preferenciales rebajados en más de 13.000 medicamentos, insumos de salud, anticonceptivos y tratamientos crónicos o agudos en las principales cadenas de farmacias privadas del país (Farmacias Salcobrand y Farmacias Ahumada a nivel nacional, además de farmacias regionales y especializadas).",
+    "fund": "Descuentos preferenciales de hasta un 87% (con un promedio de ahorro entre el 30% y 50%) sobre el valor de lista comercial en miles de fármacos y principios activos certificados.",
+    "req": "Ser beneficiario activo de Fonasa (tramos A, B, C o D, como titular o carga familiar/estudiantil), contar con receta médica vigente (emitida con un máximo de 6 meses de antigüedad) a nombre del paciente y dictar el RUN en el mesón de atención de la farmacia.",
+    "note": "El beneficio no exige inscripciones previas ni trámites administrativos. Los estudiantes pueden cotizar previamente el precio con convenio y revisar la disponibilidad de stock por comuna en el buscador oficial medicamentos.fonasa.cl antes de concurrir a la farmacia.",
+    "apply": "https://medicamentos.fonasa.cl",
+    "src": "https://www.fonasa.gob.cl"
   }
 ]

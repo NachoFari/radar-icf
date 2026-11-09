@@ -789,18 +789,24 @@ html_content = f"""<!doctype html>
         <option value="all">Todas las áreas</option>
       </select>
     </div>
-    <div class="filters">
+    <div class="filters" id="filtersRegular">
       <div class="fgroup" id="fScope"><span class="lab">Alcance</span></div>
       <div class="sep"></div>
       <div class="fgroup" id="fStatus"><span class="lab">Estado</span></div>
+    </div>
+    <div class="filters" id="filtersPerks" style="display:none">
+      <div class="fgroup" id="fPerkHow"><span class="lab">Cómo canjear</span></div>
     </div>
   </div>
 
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty">Sin resultados con los filtros actuales en esta ventana.</div>
 
-  <div class="disc">
+  <div class="disc" id="discRegular">
     <strong>💡 Tip de postulación:</strong> Haz clic en <b>📅</b> en cualquier oportunidad con fecha límite para agendar el recordatorio directo en tu Google Calendar. Marca con la estrella ⭐ las opciones que te interesen (se guardan de forma privada en tu navegador) y usa <b>Exportar Favoritos</b> para respaldar tu lista.
+  </div>
+  <div class="disc" id="discPerks" style="display:none; border-color:rgba(245,158,11,0.45); background:rgba(245,158,11,0.07); color:#fcd34d">
+    <strong>⚠️ ¡ATENCIÓN!</strong> Nacho no asegura que todos los descuentos sean válidos; estos descuentos nacen de búsquedas automatizadas con IA. Verifica siempre las condiciones vigentes en el enlace oficial de cada comercio.
   </div>
 </div>
 
@@ -896,7 +902,8 @@ html_content = f"""<!doctype html>
 
 <footer>
   <div>
-    <b>Radar ICF</b> · Última actualización: <b>{fecha_actualizacion}</b> · Creado por <b>NachoFari</b>
+    <div><b>Radar ICF</b> · Última actualización: <b>{fecha_actualizacion}</b> · Creado por <b>NachoFari</b></div>
+    <div style="margin-top:5px; font-size:.77rem; color:#f59e0b">⚠️ <b>¡ATENCIÓN!</b> Nacho no asegura que todos los descuentos sean válidos; estos descuentos nacen de búsquedas automatizadas con IA.</div>
   </div>
   <div style="display:flex; gap:8px; flex-wrap:wrap">
     <a href="https://github.com/NachoFari/NaTex" target="_blank" rel="noopener" class="foot-gh">
@@ -959,7 +966,7 @@ function badge(o){{
 }}
 
 // Main state: view can be 'practicas' | 'becas' | 'descuentos' | 'natex'
-const state = {{view:"practicas", subKind:"all", q:"", area:"all", scope:"all", status:"all"}};
+const state = {{view:"practicas", subKind:"all", q:"", area:"all", scope:"all", status:"all", perkHow:"all"}};
 
 function belongsToView(o, viewName){{
   if(viewName==="practicas") return o.kind.includes("prof") || o.kind.includes("ind");
@@ -994,8 +1001,17 @@ function buildTabs(){{
       ["fav","⭐ Favoritos", favCount]
     ];
   }} else if(state.view==="descuentos"){{
+    const perkCats = [
+      "💻 Software, IA & Ciencia",
+      "🍕 Comida, Cafés & Delivery",
+      "👟 Ropa, Calzado & Librería",
+      "🎬 Streaming, Cine & Prensa",
+      "🚌 Transporte, Viajes & Cultura",
+      "👓 Hardware, Salud & Tarjetas"
+    ];
     defs = [
-      ["all","Todos los Descuentos y Perks", viewItems.length],
+      ["all","Todos los Descuentos", viewItems.length],
+      ...perkCats.map(cat => ["area:"+cat, cat, viewItems.filter(o=>o.area===cat).length]),
       ["fav","⭐ Favoritos", favCount]
     ];
   }}
@@ -1049,9 +1065,14 @@ document.getElementById("mainNav").addEventListener("click", e=>{{
   }} else {{
     catView.style.display = "block";
     natView.style.display = "none";
+    const isDesc = (v==="descuentos");
+    document.getElementById("filtersRegular").style.display = isDesc ? "none" : "flex";
+    document.getElementById("filtersPerks").style.display = isDesc ? "flex" : "none";
+    document.getElementById("discRegular").style.display = isDesc ? "none" : "block";
+    document.getElementById("discPerks").style.display = isDesc ? "block" : "none";
     if(v==="practicas") subTxt.textContent = "Empresas, centros de I+D, observatorios y faenas para realizar tu Práctica Industrial o Práctica Profesional.";
     if(v==="becas") subTxt.textContent = "Becas de movilidad internacional, pasantías de investigación financiadas y fondos para tesis/emprendimiento.";
-    if(v==="descuentos") subTxt.textContent = "Software científico gratuito, licencias Pro y descuentos estudiantiles utilizando tu correo institucional (@usm.cl u otra universidad).";
+    if(v==="descuentos") subTxt.textContent = "Descuentos estudiantiles en comida, ropa, transporte, cine, salud, IA y software científico disponibles en Chile (@usm.cl, TNE, ISIC e INJUV).";
     buildAreaSelect();
     render();
   }}
@@ -1075,6 +1096,7 @@ function buildChips(id, items, key){{
 }}
 buildChips("fScope", ["Chile","Internacional"], "scope");
 buildChips("fStatus", [["abierta","Abiertas"],["permanente","Permanentes"],["reabre","Reabren"]], "status");
+buildChips("fPerkHow", [["mail","Correo @usm.cl"],["tne","TNE / Credencial"],["isic","ISIC / INJUV"],["free","100% Gratis / Costo $0"]], "perkHow");
 
 document.getElementById("search").addEventListener("input", e=>{{
   state.q = e.target.value.toLowerCase().trim();
@@ -1087,12 +1109,25 @@ function match(o){{
   if(!belongsToView(o, state.view)) return false;
   if(state.subKind==="fav"){{
     if(!favs.has(o.id)) return false;
+  }} else if(state.subKind.startsWith("area:")){{
+    const targetArea = state.subKind.slice(5);
+    if(o.area !== targetArea) return false;
   }} else if(state.subKind!=="all"){{
     if(!o.kind.includes(state.subKind)) return false;
   }}
   if(state.area!=="all" && o.area!==state.area) return false;
-  if(state.scope!=="all" && o.scope!==state.scope) return false;
-  if(state.status!=="all" && o.status!==state.status) return false;
+  if(state.view==="descuentos"){{
+    if(state.perkHow!=="all"){{
+      const txt = ((o.req||"")+" "+(o.desc||"")+" "+(o.city||"")+" "+(o.fund||"")).toLowerCase();
+      if(state.perkHow==="mail" && !(txt.includes("@usm.cl") || txt.includes("correo") || txt.includes("sheerid") || txt.includes("unidays"))) return false;
+      if(state.perkHow==="tne" && !(txt.includes("tne") || txt.includes("credencial") || txt.includes("tui") || txt.includes("alumno regular"))) return false;
+      if(state.perkHow==="isic" && !(txt.includes("isic") || txt.includes("injuv") || txt.includes("comunidad joven"))) return false;
+      if(state.perkHow==="free" && !(txt.includes("100%") || txt.includes("gratis") || txt.includes("gratuito") || txt.includes("$0"))) return false;
+    }}
+  }} else {{
+    if(state.scope!=="all" && o.scope!==state.scope) return false;
+    if(state.status!=="all" && o.status!==state.status) return false;
+  }}
   if(state.q){{
     const hay = (o.name+" "+o.org+" "+o.city+" "+o.desc+" "+o.area+" "+(o.req||"")+" "+(o.note||"")).toLowerCase();
     if(!hay.includes(state.q)) return false;
@@ -1166,6 +1201,21 @@ document.getElementById("grid").addEventListener("click", e=>{{
 }});
 
 function buildCounters(list){{
+  if(state.view==="descuentos"){{
+    const nTNE = list.filter(o=>(o.req+" "+o.desc).toLowerCase().includes("tne") || (o.req+" "+o.desc).toLowerCase().includes("isic") || (o.req+" "+o.desc).toLowerCase().includes("injuv")).length;
+    const nMail = list.filter(o=>(o.req+" "+o.desc+" "+o.city).toLowerCase().includes("@usm.cl") || (o.req+" "+o.desc).toLowerCase().includes("correo")).length;
+    const nGratis = list.filter(o=>o.fund.toLowerCase().includes("100%") || o.fund.toLowerCase().includes("gratis") || o.fund.toLowerCase().includes("gratuito") || o.fund.toLowerCase().includes("$0")).length;
+    const defs = [
+      ["c-green", list.length, "beneficios en vista"],
+      ["c-orange", nGratis, "100% gratis / costo $0"],
+      ["c-purple", nMail, "con correo @usm.cl"],
+      ["c-gray", nTNE, "con TNE / ISIC / INJUV"]
+    ];
+    document.getElementById("counters").innerHTML = defs.map(([c,n,l])=>{{
+      return `<div class="counter ${{c}}"><b>${{n}}</b>${{l}}</div>`;
+    }}).join("");
+    return;
+  }}
   const ab = list.filter(o=>o.status==="abierta");
   const defs = [
     ["c-red", ab.filter(o=>o._days<=7).length, "≤ 7 días"],
