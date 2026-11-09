@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Kupcinet-Getz International Science School",
+    "org": "Weizmann Institute of Science (Feinberg Graduate School)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Rejovot (Rehovot), Israel",
+    "desc": "Programa de investigación científica de verano de 8 semanas en el Instituto Weizmann de Ciencias, catalogado consistentemente entre los mejores centros de investigación del mundo. Los estudiantes de pregrado se integran a laboratorios de vanguardia bajo la tutoría directa de investigadores principales en el Departamento de Física de Partículas y Astrofísica (DPPA), abordando astrofísica observacional y teórica, cosmología, transientes extragalácticos (supernovas y ondas gravitacionales), física de plasmas astrofísicos y desarrollo de instrumentación astronómica y detectores espaciales.",
+    "fund": "Estipendio de manutención semanal (~500 NIS/semana para gastos personales y alimentación) + Alojamiento individual o compartido totalmente cubierto y provisto en las residencias estudiantiles del campus del Instituto Weizmann + Seguro médico integral durante toda la estancia + Actividades científicas, culturales y excursiones guiadas por Israel.",
+    "req": "Estudiantes de pregrado universitarios de cualquier país que hayan completado al menos dos años de licenciatura en Física, Astronomía, Matemáticas, Ciencias de la Computación o ciencias afines y que no se hayan graduado al momento del programa. Se exige excelencia académica (promedio en el tercio superior o GPA equivalente ≥ 3.6/4.0), expediente de notas oficial traducido al inglés, CV, declaración de intereses de investigación y al menos una o dos cartas de recomendación de profesores universitarios.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program",
+    "src": "https://www.weizmann.ac.il/feinberg/",
+    "note": "Convocatoria de excelencia citada frecuentemente en comunidades como r/PhysicsStudents y PhysicsGRE por su prestigio académico e inmersión total en investigación. Las postulaciones abren regularmente hacia noviembre/diciembre y cierran a mediados de enero para el programa que se desarrolla entre julio y agosto."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Academia Sinica Summer Internship Program (TIGP-IIP / ASGC & ASIAA)",
+    "org": "Academia Sinica · Instituto de Astronomía y Astrofísica (ASIAA) & Grid Computing Centre (ASGC)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Taipéi, Taiwán",
+    "desc": "Pasantía de investigación intensiva de 2 meses (habitualmente entre mayo y agosto) en la Academia Sinica, la institución científica nacional de mayor envergadura de Taiwán. Canalizada mediante el Taiwan International Graduate Program (TIGP-IIP) junto al ASIAA y el ASGC, permite a estudiantes de pregrado trabajar en radioastronomía de vanguardia (ALMA, SMA, GLT / Event Horizon Telescope), astrofísica computacional, formación estelar y planetaria, cosmología numérica y sistemas de computación distribuida de alta intensidad para procesamiento de datos astronómicos masivos.",
+    "fund": "Estipendio mensual de NTD $30.000 (~USD $950 - $1.000 mensuales libres para manutención y alimentación) + Reembolso parcial de pasajes aéreos internacionales de ida y vuelta (hasta NTD $15.000) + Acceso a alojamiento económico subvencionado en el campus de Academia Sinica + Cobertura básica de seguro médico y accidentes.",
+    "req": "Estudiantes de pregrado avanzados (cursando 3er o 4to año) o cursando el primer año de maestría en Física, Astronomía, Computación Científica, Matemáticas o Ingeniería, matriculados en universidades fuera de Taiwán (estudiantes internacionales no taiwaneses). Se solicita expediente académico oficial en inglés, curriculum vitae, propuesta o declaración de áreas de interés investigativo y dos cartas de recomendación académica.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://tiip.apps.sinica.edu.tw/",
+    "src": "https://www.asiaa.sinica.edu.tw/",
+    "note": "Programa altamente valorado en r/PhysicsStudents para pasantías financiadas en Asia con fuerte proyección hacia doctorados internacionales TIGP. La postulación centralizada de TIGP-IIP abre anualmente del 15 de diciembre al 15 de enero/febrero, con convocatorias complementarias de verano del ASIAA."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "ASTRON / JIVE Summer Student Programme in Radio Astronomy",
+    "org": "ASTRON (Netherlands Institute for Radio Astronomy) & JIVE (Joint Institute for VLBI ERIC)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Dwingeloo (Drente), Países Bajos",
+    "desc": "Pasantía científica de verano de 10 a 12 semanas (junio a agosto) en el centro neurálgico de la radioastronomía europea en Dwingeloo. Los estudiantes desarrollan proyectos de investigación tutelados por científicos e ingenieros líderes en observación y modelado con el radiotelescopio LOFAR, Westerbork (WSRT/Apertif) y la red de interferometría de muy larga base (VLBI/EVN). Las líneas de investigación cubren astronomía extragaláctica, época de reionización (EoR), púlsares, transientes de radio (FRBs), magnetohidrodinámica cósmica y desarrollo de algoritmos de calibración y análisis de señales de radio.",
+    "fund": "Estipendio de subsistencia mensual (~€1.250 a €1.400/mes) + Alojamiento amoblado completo financiado y provisto por los institutos en bungalows/residencias de investigadores en las inmediaciones del observatorio en Dwingeloo + Reembolso completo de los pasajes de viaje internacional (vuelos/trenes) hasta los Países Bajos.",
+    "req": "Estudiantes de pregrado avanzados (habitualmente cursando su penúltimo o último año de licenciatura) o estudiantes de máster inicial en Astronomía, Física, Ciencias de la Computación, Matemáticas o Ingeniería afín de cualquier país del mundo. Abierto sin restricciones de nacionalidad. Requiere fluidez en inglés técnico, expediente académico, CV y dos cartas de recomendación confidenciales enviadas por los profesores.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.astron.nl/education/summer-student-programme/",
+    "src": "https://www.astron.nl",
+    "note": "Considerado en r/PhysicsStudents como una de las oportunidades formativas de verano en astronomía más completas de Europa, con financiamiento integral garantizado para extranjeros. La convocatoria anual abre hacia noviembre/diciembre y cierra de manera estricta el 1 de febrero."
+  }
+]

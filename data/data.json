@@ -3527,5 +3527,284 @@
     "apply": "https://www.aza.cl",
     "src": "https://www.aza.cl",
     "note": "Procesos de selección y prácticas operativas de verano e invierno canalizadas a través de Trabajando.cl / Laborum, sección Trabaja con Nosotros en aza.cl y LinkedIn."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Kupcinet-Getz International Science School",
+    "org": "Weizmann Institute of Science (Feinberg Graduate School)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Rejovot (Rehovot), Israel",
+    "desc": "Programa de investigación científica de verano de 8 semanas en el Instituto Weizmann de Ciencias, catalogado consistentemente entre los mejores centros de investigación del mundo. Los estudiantes de pregrado se integran a laboratorios de vanguardia bajo la tutoría directa de investigadores principales en el Departamento de Física de Partículas y Astrofísica (DPPA), abordando astrofísica observacional y teórica, cosmología, transientes extragalácticos (supernovas y ondas gravitacionales), física de plasmas astrofísicos y desarrollo de instrumentación astronómica y detectores espaciales.",
+    "fund": "Estipendio de manutención semanal (~500 NIS/semana para gastos personales y alimentación) + Alojamiento individual o compartido totalmente cubierto y provisto en las residencias estudiantiles del campus del Instituto Weizmann + Seguro médico integral durante toda la estancia + Actividades científicas, culturales y excursiones guiadas por Israel.",
+    "req": "Estudiantes de pregrado universitarios de cualquier país que hayan completado al menos dos años de licenciatura en Física, Astronomía, Matemáticas, Ciencias de la Computación o ciencias afines y que no se hayan graduado al momento del programa. Se exige excelencia académica (promedio en el tercio superior o GPA equivalente ≥ 3.6/4.0), expediente de notas oficial traducido al inglés, CV, declaración de intereses de investigación y al menos una o dos cartas de recomendación de profesores universitarios.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program",
+    "src": "https://www.weizmann.ac.il/feinberg/",
+    "note": "Convocatoria de excelencia citada frecuentemente en comunidades como r/PhysicsStudents y PhysicsGRE por su prestigio académico e inmersión total en investigación. Las postulaciones abren regularmente hacia noviembre/diciembre y cierran a mediados de enero para el programa que se desarrolla entre julio y agosto."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Academia Sinica Summer Internship Program (TIGP-IIP / ASGC & ASIAA)",
+    "org": "Academia Sinica · Instituto de Astronomía y Astrofísica (ASIAA) & Grid Computing Centre (ASGC)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Taipéi, Taiwán",
+    "desc": "Pasantía de investigación intensiva de 2 meses (habitualmente entre mayo y agosto) en la Academia Sinica, la institución científica nacional de mayor envergadura de Taiwán. Canalizada mediante el Taiwan International Graduate Program (TIGP-IIP) junto al ASIAA y el ASGC, permite a estudiantes de pregrado trabajar en radioastronomía de vanguardia (ALMA, SMA, GLT / Event Horizon Telescope), astrofísica computacional, formación estelar y planetaria, cosmología numérica y sistemas de computación distribuida de alta intensidad para procesamiento de datos astronómicos masivos.",
+    "fund": "Estipendio mensual de NTD $30.000 (~USD $950 - $1.000 mensuales libres para manutención y alimentación) + Reembolso parcial de pasajes aéreos internacionales de ida y vuelta (hasta NTD $15.000) + Acceso a alojamiento económico subvencionado en el campus de Academia Sinica + Cobertura básica de seguro médico y accidentes.",
+    "req": "Estudiantes de pregrado avanzados (cursando 3er o 4to año) o cursando el primer año de maestría en Física, Astronomía, Computación Científica, Matemáticas o Ingeniería, matriculados en universidades fuera de Taiwán (estudiantes internacionales no taiwaneses). Se solicita expediente académico oficial en inglés, curriculum vitae, propuesta o declaración de áreas de interés investigativo y dos cartas de recomendación académica.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://tiip.apps.sinica.edu.tw/",
+    "src": "https://www.asiaa.sinica.edu.tw/",
+    "note": "Programa altamente valorado en r/PhysicsStudents para pasantías financiadas en Asia con fuerte proyección hacia doctorados internacionales TIGP. La postulación centralizada de TIGP-IIP abre anualmente del 15 de diciembre al 15 de enero/febrero, con convocatorias complementarias de verano del ASIAA."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "ASTRON / JIVE Summer Student Programme in Radio Astronomy",
+    "org": "ASTRON (Netherlands Institute for Radio Astronomy) & JIVE (Joint Institute for VLBI ERIC)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Dwingeloo (Drente), Países Bajos",
+    "desc": "Pasantía científica de verano de 10 a 12 semanas (junio a agosto) en el centro neurálgico de la radioastronomía europea en Dwingeloo. Los estudiantes desarrollan proyectos de investigación tutelados por científicos e ingenieros líderes en observación y modelado con el radiotelescopio LOFAR, Westerbork (WSRT/Apertif) y la red de interferometría de muy larga base (VLBI/EVN). Las líneas de investigación cubren astronomía extragaláctica, época de reionización (EoR), púlsares, transientes de radio (FRBs), magnetohidrodinámica cósmica y desarrollo de algoritmos de calibración y análisis de señales de radio.",
+    "fund": "Estipendio de subsistencia mensual (~€1.250 a €1.400/mes) + Alojamiento amoblado completo financiado y provisto por los institutos en bungalows/residencias de investigadores en las inmediaciones del observatorio en Dwingeloo + Reembolso completo de los pasajes de viaje internacional (vuelos/trenes) hasta los Países Bajos.",
+    "req": "Estudiantes de pregrado avanzados (habitualmente cursando su penúltimo o último año de licenciatura) o estudiantes de máster inicial en Astronomía, Física, Ciencias de la Computación, Matemáticas o Ingeniería afín de cualquier país del mundo. Abierto sin restricciones de nacionalidad. Requiere fluidez en inglés técnico, expediente académico, CV y dos cartas de recomendación confidenciales enviadas por los profesores.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.astron.nl/education/summer-student-programme/",
+    "src": "https://www.astron.nl",
+    "note": "Considerado en r/PhysicsStudents como una de las oportunidades formativas de verano en astronomía más completas de Europa, con financiamiento integral garantizado para extranjeros. La convocatoria anual abre hacia noviembre/diciembre y cierra de manera estricta el 1 de febrero."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "ChiVO – Pasantías y Proyectos en Astroinformática y Computación Científica",
+    "org": "ChiVO (Chilean Virtual Observatory) / Consorcio Interuniversitario (UTFSM, UdeC, PUC, UCh, USACH)",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Valparaíso y Santiago, Chile (Modalidad Híbrida / Remota)",
+    "desc": "Plataforma nacional de astroinformática e infraestructura de cómputo científico diseñada para la gestión, procesamiento y análisis masivo de datos procedentes de los grandes observatorios astronómicos en Chile (particularmente ALMA y las futuras instalaciones como Vera C. Rubin). Ofrece oportunidades para el desarrollo de proyectos de investigación, tesis de pregrado y pasantías en computación de alto rendimiento (HPC), algoritmos de minería de datos astronómicos, estandarización bajo protocolos IVOA y aprendizaje automático aplicado a física.",
+    "fund": "Acceso integral a recursos de supercómputo y clusters de GPU del Data Center de ChiVO, conjuntos masivos de datos astronómicos indexados, además de posible financiamiento de tesis y viáticos mediante proyectos ANID Basal/Fondecyt o convenios interdepartamentales.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "http://www.chivo.cl",
+    "src": "https://www.ivoa.net",
+    "note": "ChiVO es el representante oficial de Chile ante la International Virtual Observatory Alliance (IVOA). Constituye un puente estratégico entre la física observacional, la ciencia de datos y la ingeniería de software científico en el país."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro Basal IMPACT – Tesis e Iniciación Científica en Instrumentación Médica y Biosensores",
+    "org": "Centro Interdisciplinario de Tecnologías para la Salud (IMPACT) / UANDES, PUC, UCh, UTEM y UFR",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago, Chile",
+    "desc": "Centro científico y tecnológico de excelencia basal de ANID enfocado en medicina de precisión y tecnologías aplicadas a la salud. Acoge a estudiantes y memoristas de ciencias físicas, bioingeniería, informática e ingeniería eléctrica para investigar y diseñar instrumentación biomédica avanzada, prototipos de diagnóstico no invasivo, biosensores optoelectrónicos y modelos computacionales de procesamiento de señales biológicas e imágenes diagnósticas.",
+    "fund": "Becas y estipendios de manutención para tesistas de pregrado y posgrado mediante fondos basales ANID, cofinanciamiento para publicaciones científicas y congresos, y acceso completo a laboratorios de microfabricación, salas limpias y equipamiento de metrología física.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://centroimpact.cl/estudiantes/",
+    "src": "https://centroimpact.cl/ofertas-laborales/",
+    "note": "IMPACT mantiene abiertas de forma permanente sus líneas de postulación para estudiantes que busquen desarrollar memorias o prácticas en física médica, instrumentación diagnóstica y computación biofísica con transferencia clínica directa."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "REUNA / RedCLARA – Prácticas y Proyectos en Telemetría Científica, Supercómputo y Redes Avanzadas",
+    "org": "Red Universitaria Nacional (REUNA) / RedCLARA",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago, Chile (con cobertura nacional e internacional)",
+    "desc": "Infraestructura digital de ultra alta velocidad que interconecta a la comunidad académica y a los observatorios astronómicos de clase mundial en el norte de Chile con centros de supercómputo nacionales e internacionales. Dispone de cupos para prácticas profesionales, memorias de título y proyectos de investigación en telemetría óptica de alta precisión, transporte masivo de datos de astronomía y física de partículas (ALMA, Rubin, CERN), monitoreo de enlaces de 100 Gbps y arquitecturas de computación distribuida federada.",
+    "fund": "Asignación económica mensual para prácticas y memorias institucionales, acceso a instrumental de medición óptica y análisis de tráfico en tiempo real, mentoría con ingenieros especialistas y certificación en arquitecturas de redes científicas de alta capacidad.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.reuna.cl/contacto/",
+    "src": "https://www.reuna.cl",
+    "note": "REUNA opera la columna vertebral digital para la ciencia en Chile, constituyendo una plataforma formativa de referencia en infraestructura de datos a gran escala y telemetría de redes para grandes instrumentos científicos."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Instituto Balseiro — Escuela de Verano y Pasantías en el Centro Atómico Bariloche",
+    "org": "Instituto Balseiro · Comisión Nacional de Energía Atómica (CNEA)",
+    "area": "Física de partículas y nuclear",
+    "scope": "Internacional",
+    "city": "San Carlos de Bariloche, Argentina",
+    "desc": "Pasantías intensivas de verano en laboratorios experimentales y grupos teóricos de física nuclear, materia condensada, bajas temperaturas, fotónica e ingeniería nuclear en el Centro Atómico Bariloche.",
+    "fund": "Beca completa de alojamiento y manutención diaria en el campus del Centro Atómico Bariloche",
+    "req": "Estudiante avanzado de pregrado (3° a 5° año) en Física o Ingeniería Física de universidades latinoamericanas.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.ib.edu.ar",
+    "src": "https://www.ib.edu.ar",
+    "note": "Una de las oportunidades más prestigiosas de física experimental y teórica en Sudamérica."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "ICTP-SAIFR — Escuelas y Programas de Física Teórica en Sudamérica",
+    "org": "ICTP South American Institute for Fundamental Research · UNESP",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "São Paulo, Brasil",
+    "desc": "Escuelas avanzadas, workshops y pasantías en física teórica, gravitación, cosmología, información cuántica, sistemas complejos y biofísica para estudiantes destacados de Sudamérica.",
+    "fund": "Financiamiento de pasajes y estadía para estudiantes seleccionados de países sudamericanos",
+    "req": "Estudiante de últimos años de pregrado o posgrado en física, matemáticas o áreas afines.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.ictp-saifr.org",
+    "src": "https://www.ictp-saifr.org",
+    "note": "Centro regional categoría 2 de UNESCO asociado al ICTP de Trieste y al IFT-UNESP."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "LIGO SURF — Summer Undergraduate Research Fellowship en Ondas Gravitacionales",
+    "org": "LIGO Laboratory · Caltech & MIT",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Pasadena / Hanford / Livingston, EE. UU.",
+    "desc": "Investigación de verano de 10 semanas en detección de ondas gravitacionales, interferometría láser de ultra-alta precisión, óptica cuántica, control optomecánico y astrofísica relativista.",
+    "fund": "Estipendio completo (~$8.110 USD) + subsidio de viaje y alojamiento",
+    "req": "Estudiante de pregrado (abierto a estudiantes internacionales no residentes en EE. UU.).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.ligo.caltech.edu/page/ligosurf",
+    "src": "https://www.ligo.caltech.edu",
+    "note": "Acepta postulantes internacionales de universidades fuera de EE. UU. con patrocinio de mentores LIGO."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "STScI Space Astronomy Summer Program (SASP) — Telescopios Espaciales JWST & Hubble",
+    "org": "Space Telescope Science Institute (STScI)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Baltimore, Maryland, EE. UU.",
+    "desc": "Pasantía de investigación de verano trabajando directamente con científicos e ingenieros del centro de operaciones científicas de los telescopios espaciales James Webb (JWST), Hubble y Nancy Grace Roman.",
+    "fund": "Estipendio semanal competitivo + alojamiento subvencionado + pasajes aéreos + apoyo de visa J-1",
+    "req": "Estudiante avanzado de pregrado en física, astronomía o ingeniería; abierto a ciudadanos de cualquier país.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.stsci.edu/opportunities/space-astronomy-summer-program",
+    "src": "https://www.stsci.edu",
+    "note": "Abierto explícitamente a estudiantes internacionales de todo el mundo."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "ISTernship Summer Program — Institute of Science and Technology Austria (ISTA)",
+    "org": "Institute of Science and Technology Austria (ISTA)",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Klosterneuburg (Viena), Austria",
+    "desc": "Estadía de investigación de 2 a 3 meses en física cuántica, nanoelectrónica, física de fluidos, astrofísica, ciencia de datos y biofísica en uno de los institutos más modernos de Europa.",
+    "fund": "Estipendio mensual (~€1.150/mes) + pasajes de ida y vuelta + alojamiento subsidiado en campus",
+    "req": "Estudiante de pregrado (habiendo completado al menos el 2° año de estudios antes del inicio).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://phd.pages.ist.ac.at/isternship/",
+    "src": "https://ist.ac.at",
+    "note": "Altamente recomendado en foros internacionales de física por su excelente financiamiento y laboratorios."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "ASTRON / JIVE Summer Student Programme — Radioastronomía e Instrumentación",
+    "org": "Netherlands Institute for Radio Astronomy (ASTRON) & JIVE",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Dwingeloo, Países Bajos",
+    "desc": "Pasantía de 10 a 12 semanas en radioastronomía, interferometría de muy larga base (VLBI), procesamiento de señales en telescopios LOFAR y desarrollo de instrumentación de radiofrecuencia.",
+    "fund": "Alojamiento gratuito en la localidad + estipendio mensual de manutención + cobertura completa de pasajes aéreos",
+    "req": "Estudiante de últimos años de pregrado o inicio de posgrado en física, astronomía o ingeniería.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.astron.nl/education/summer-student-programme/",
+    "src": "https://www.astron.nl",
+    "note": "Uno de los programas europeos más completos en radiofísica y astronomía observacional."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Academia Sinica TIGP-IIP — International Internship Program en Taiwán",
+    "org": "Academia Sinica · Taiwan International Graduate Program",
+    "area": "Materiales y nanotecnología",
+    "scope": "Internacional",
+    "city": "Taipéi, Taiwán",
+    "desc": "Pasantía de 2 meses en el Instituto de Física, Instituto de Ciencias Atómicas y Moleculares o Centro de Ciencias Aplicadas de la Academia Sinica (nanotecnología, fotónica, semiconductores y cuántica).",
+    "fund": "Estipendio de ~30.000 NTD/mes + 50% del pasaje aéreo económico + alojamiento en campus a bajo costo",
+    "req": "Estudiante de pregrado en su último o penúltimo año de física, química o ingeniería.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://tigp-iip.sinica.edu.tw",
+    "src": "https://www.sinica.edu.tw",
+    "note": "Convocatoria anual entre enero y febrero para estadías entre mayo y agosto."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "ChiVO — Chilean Virtual Observatory (Astroinformática y Big Data Astronómico)",
+    "org": "Observatorio Virtual Chileno · UTFSM / REUNA",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Valparaíso / Santiago",
+    "desc": "Prácticas profesionales y memorias en procesamiento de grandes volúmenes de datos astronómicos (ALMA, LSST), aprendizaje automático aplicado a astrofísica e infraestructura de cómputo distribuido.",
+    "fund": "Acceso a infraestructura HPC y posible apoyo de proyectos vigentes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://chivo.cl",
+    "src": "https://chivo.cl",
+    "note": "Excelente puente entre ingeniería física, ciencia de datos y astronomía computacional."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro Basal IMPACT & CIIB — Bioinstrumentación, Imágenes Médicas y Biofísica",
+    "org": "Centro IMPACT · Centro de Investigación e Innovación Biomédica",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Pasantías de investigación y prácticas profesionales en resonancia magnética nuclear, reconstrucción matemática de imágenes médicas, biosensores físicos, microfluídica y biomateriales.",
+    "fund": "Posibilidad de estipendio para tesistas/practicantes según línea de proyecto Basal",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.centroimpact.cl",
+    "src": "https://www.centroimpact.cl",
+    "note": "Ideal para estudiantes interesados en física médica, imágenes por resonancia y bioingeniería."
   }
 ]

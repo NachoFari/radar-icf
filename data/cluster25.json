@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "ChiVO – Pasantías y Proyectos en Astroinformática y Computación Científica",
+    "org": "ChiVO (Chilean Virtual Observatory) / Consorcio Interuniversitario (UTFSM, UdeC, PUC, UCh, USACH)",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Valparaíso y Santiago, Chile (Modalidad Híbrida / Remota)",
+    "desc": "Plataforma nacional de astroinformática e infraestructura de cómputo científico diseñada para la gestión, procesamiento y análisis masivo de datos procedentes de los grandes observatorios astronómicos en Chile (particularmente ALMA y las futuras instalaciones como Vera C. Rubin). Ofrece oportunidades para el desarrollo de proyectos de investigación, tesis de pregrado y pasantías en computación de alto rendimiento (HPC), algoritmos de minería de datos astronómicos, estandarización bajo protocolos IVOA y aprendizaje automático aplicado a física.",
+    "fund": "Acceso integral a recursos de supercómputo y clusters de GPU del Data Center de ChiVO, conjuntos masivos de datos astronómicos indexados, además de posible financiamiento de tesis y viáticos mediante proyectos ANID Basal/Fondecyt o convenios interdepartamentales.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "http://www.chivo.cl",
+    "src": "https://www.ivoa.net",
+    "note": "ChiVO es el representante oficial de Chile ante la International Virtual Observatory Alliance (IVOA). Constituye un puente estratégico entre la física observacional, la ciencia de datos y la ingeniería de software científico en el país."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro Basal IMPACT – Tesis e Iniciación Científica en Instrumentación Médica y Biosensores",
+    "org": "Centro Interdisciplinario de Tecnologías para la Salud (IMPACT) / UANDES, PUC, UCh, UTEM y UFR",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago, Chile",
+    "desc": "Centro científico y tecnológico de excelencia basal de ANID enfocado en medicina de precisión y tecnologías aplicadas a la salud. Acoge a estudiantes y memoristas de ciencias físicas, bioingeniería, informática e ingeniería eléctrica para investigar y diseñar instrumentación biomédica avanzada, prototipos de diagnóstico no invasivo, biosensores optoelectrónicos y modelos computacionales de procesamiento de señales biológicas e imágenes diagnósticas.",
+    "fund": "Becas y estipendios de manutención para tesistas de pregrado y posgrado mediante fondos basales ANID, cofinanciamiento para publicaciones científicas y congresos, y acceso completo a laboratorios de microfabricación, salas limpias y equipamiento de metrología física.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://centroimpact.cl/estudiantes/",
+    "src": "https://centroimpact.cl/ofertas-laborales/",
+    "note": "IMPACT mantiene abiertas de forma permanente sus líneas de postulación para estudiantes que busquen desarrollar memorias o prácticas en física médica, instrumentación diagnóstica y computación biofísica con transferencia clínica directa."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "REUNA / RedCLARA – Prácticas y Proyectos en Telemetría Científica, Supercómputo y Redes Avanzadas",
+    "org": "Red Universitaria Nacional (REUNA) / RedCLARA",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago, Chile (con cobertura nacional e internacional)",
+    "desc": "Infraestructura digital de ultra alta velocidad que interconecta a la comunidad académica y a los observatorios astronómicos de clase mundial en el norte de Chile con centros de supercómputo nacionales e internacionales. Dispone de cupos para prácticas profesionales, memorias de título y proyectos de investigación en telemetría óptica de alta precisión, transporte masivo de datos de astronomía y física de partículas (ALMA, Rubin, CERN), monitoreo de enlaces de 100 Gbps y arquitecturas de computación distribuida federada.",
+    "fund": "Asignación económica mensual para prácticas y memorias institucionales, acceso a instrumental de medición óptica y análisis de tráfico en tiempo real, mentoría con ingenieros especialistas y certificación en arquitecturas de redes científicas de alta capacidad.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.reuna.cl/contacto/",
+    "src": "https://www.reuna.cl",
+    "note": "REUNA opera la columna vertebral digital para la ciencia en Chile, constituyendo una plataforma formativa de referencia en infraestructura de datos a gran escala y telemetría de redes para grandes instrumentos científicos."
+  }
+]
