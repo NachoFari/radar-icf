@@ -1,6 +1,24 @@
 [
   {
     "kind": [
+      "desc"
+    ],
+    "name": "NaTex — Editor LaTeX Visual y Colaborativo (Proyecto Destacado)",
+    "org": "NachoFari / Ecosistema NaTex",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Open Source",
+    "desc": "Entorno de edición LaTeX colaborativo en tiempo real diseñado para estudiantes de ciencias e ingeniería. Permite colaborar con quien quieras sin límites simultáneos, incluye teclado integrado para fórmulas matemáticas complejas y 21 temas visuales personalizables.",
+    "fund": "100% Gratuito y Open Source (Alternativa moderna a Overleaf)",
+    "req": "Acceso libre para toda la comunidad universitaria y científica.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://github.com/NachoFari/NaTex",
+    "src": "https://github.com/NachoFari/NaTex",
+    "note": "⭐ Proyecto de la comunidad creado por NachoFari. ¡Visita el repositorio y apóyalo con una estrella en GitHub!"
+  },
+  {
+    "kind": [
       "beca"
     ],
     "name": "Programas de Intercambio Bilateral y Movilidad Internacional",

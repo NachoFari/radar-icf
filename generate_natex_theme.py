@@ -13,6 +13,9 @@ html_content = f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Radar de Oportunidades · Ingeniería Física — Creado por NachoFari</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/radar-favicon.png">
+<link rel="apple-touch-icon" href="assets/radar-favicon.png">
 <style>
   :root {{
     /* Paleta NaTex Studio: Dark Charcoal con Acento Naranja Vibrante y Cian */
@@ -77,6 +80,9 @@ html_content = f"""<!doctype html>
     background: var(--accent);
     box-shadow: 0 0 8px var(--accent);
   }}
+  .fox-icon-mini {{ width: 15px; height: 15px; vertical-align: -2px; border-radius: 3px; display: inline-block }}
+  .fox-icon-btn {{ width: 18px; height: 18px; vertical-align: -3px; border-radius: 3px; display: inline-block }}
+  .fox-icon-modal {{ width: 32px; height: 32px; vertical-align: -6px; margin-right: 8px; border-radius: 6px; display: inline-block }}
   h1 {{
     font-size: 1.95rem;
     margin: 0 0 6px;
@@ -466,6 +472,136 @@ html_content = f"""<!doctype html>
   .modal p, .modal li {{ font-size: .88rem; color: var(--muted); line-height: 1.55 }}
   .modal ul {{ padding-left: 20px; margin: 6px 0 }}
   
+  /* NaTex Studio Button & Showcase Modal */
+  .btn-natex {{
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.22), rgba(255, 120, 67, 0.12));
+    border: 1px solid #ff7843;
+    color: #ff9b6a;
+    font-weight: 750;
+    box-shadow: 0 0 14px rgba(255, 107, 53, 0.2);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }}
+  .btn-natex:hover {{
+    background: linear-gradient(135deg, #ff6b35, #ff8c5c);
+    color: #fff;
+    border-color: #ff8c5c;
+    box-shadow: 0 0 20px rgba(255, 107, 53, 0.5);
+    transform: translateY(-2px);
+  }}
+  .modal-natex {{
+    max-width: 780px;
+    background: linear-gradient(180deg, #181a22 0%, #101116 100%);
+    border: 1px solid rgba(255, 107, 53, 0.35);
+    box-shadow: 0 24px 60px rgba(0,0,0,0.85), 0 0 40px rgba(255, 107, 53, 0.15);
+  }}
+  .natex-hero {{
+    text-align: center;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    margin-bottom: 18px;
+  }}
+  .natex-tagline {{
+    color: #ff9b6a;
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-top: 4px;
+  }}
+  .natex-gif-wrap {{
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 107, 53, 0.3);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.5);
+    margin: 16px 0 22px;
+    background: #000;
+  }}
+  .natex-showcase-gif {{
+    width: 100%;
+    height: auto;
+    display: block;
+  }}
+  .natex-grid {{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 14px;
+    margin-bottom: 22px;
+  }}
+  .natex-feat {{
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.07);
+    border-radius: 12px;
+    padding: 14px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }}
+  .natex-feat-icon {{
+    font-size: 1.5rem;
+    line-height: 1;
+    background: rgba(255, 107, 53, 0.12);
+    border: 1px solid rgba(255, 107, 53, 0.25);
+    padding: 8px;
+    border-radius: 10px;
+    flex-shrink: 0;
+  }}
+  .natex-feat-title {{
+    font-weight: 700;
+    color: #fff;
+    font-size: 0.92rem;
+    margin-bottom: 4px;
+  }}
+  .natex-feat-desc {{
+    color: var(--muted);
+    font-size: 0.82rem;
+    line-height: 1.38;
+  }}
+  .natex-cta-row {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    padding-top: 14px;
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }}
+  .btn-natex-cta {{
+    background: linear-gradient(135deg, #ff6b35, #ff8c5c);
+    color: #fff;
+    font-weight: 750;
+    font-size: 0.95rem;
+    padding: 12px 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: 0 4px 18px rgba(255, 107, 53, 0.4);
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }}
+  .btn-natex-cta:hover {{
+    transform: translateY(-2px);
+    box-shadow: 0 6px 24px rgba(255, 107, 53, 0.6);
+  }}
+  .btn-natex-sub {{
+    background: rgba(255,255,255,0.06);
+    color: var(--txt);
+    border: 1px solid rgba(255,255,255,0.12);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 12px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }}
+  .btn-natex-sub:hover {{
+    background: rgba(255,255,255,0.12);
+    border-color: rgba(255,255,255,0.25);
+    color: #fff;
+  }}
+  
   @media (max-width: 680px) {{
     .search-row {{ flex-direction: column }}
     .header-top {{ flex-direction: column }}
@@ -479,11 +615,12 @@ html_content = f"""<!doctype html>
 <header>
   <div class="header-top">
     <div>
-      <div class="brand-badge"><span class="dot"></span> Creado por NachoFari</div>
+      <div class="brand-badge"><img src="assets/fox.png" class="fox-icon-mini" alt="fox"> Creado por NachoFari</div>
       <h1>Radar de <span class="q">Ingeniería Física</span></h1>
       <p class="sub">Directorio de prácticas industriales, profesionales, pasantías y descuentos de software/hardware para estudiantes de física e ingeniería — Deep Tech, Finanzas Cuantitativas, Biofísica, Astronomía, Minería y Perks Universitarios.</p>
     </div>
     <div class="top-actions">
+      <button class="btn-top btn-natex" id="btnNatex"><img src="assets/fox.png" class="fox-icon-btn" alt="fox"> Conoce NaTex Studio</button>
       <button class="btn-top" id="btnModal">📋 Guía de Prácticas</button>
       <button class="btn-top btn-accent" id="btnExport">📥 Exportar Favoritos</button>
     </div>
@@ -554,6 +691,68 @@ html_content = f"""<!doctype html>
       <li><b>Seguro Escolar (Ley 16.744):</b> Es obligatorio tramitar el certificado de seguro contra accidentes universitarios con tu oficina de asuntos estudiantiles antes del primer día laboral.</li>
       <li><b>Evaluación e Informe:</b> Al terminar, tu supervisor en la empresa debe completar la pauta confidencial de evaluación y tú debes entregar el informe técnico final.</li>
     </ul>
+  </div>
+</div>
+
+<!-- Modal NaTex Studio Showcase -->
+<div class="modal-overlay" id="modalNatexOverlay">
+  <div class="modal modal-natex">
+    <button class="modal-close" id="modalNatexClose">&times;</button>
+    <div class="natex-hero">
+      <h2><img src="assets/fox.png" class="fox-icon-modal" alt="fox">NaTex Studio</h2>
+      <div class="natex-tagline">El entorno de edición LaTeX rápido, visual, libre y colaborativo</div>
+      <p style="color:var(--muted); font-size:0.86rem; margin-top:8px; line-height:1.45">
+        Creado por <b>NachoFari</b> para estudiantes de física, matemáticas e ingeniería que buscan redactar papers, tesis e informes científicos sin las trabas de TeX Live ni suscripciones de pago.
+      </p>
+    </div>
+
+    <div class="natex-gif-wrap">
+      <img src="assets/gallery_showcase.gif" onerror="this.src='https://raw.githubusercontent.com/NachoFari/NaTex/main/docs/screenshots/gallery_showcase.gif'" alt="NaTex Studio Showcase GIF" class="natex-showcase-gif">
+    </div>
+
+    <div class="natex-grid">
+      <div class="natex-feat">
+        <div class="natex-feat-icon">👥</div>
+        <div>
+          <div class="natex-feat-title">Colabora con Quien Quieras y Cuantos Quieras</div>
+          <div class="natex-feat-desc">Edición simultánea en tiempo real sin límites de usuarios. Comparte un enlace y trabaja en equipo para informes de laboratorio y memorias.</div>
+        </div>
+      </div>
+
+      <div class="natex-feat">
+        <div class="natex-feat-icon">⌨️</div>
+        <div>
+          <div class="natex-feat-title">Teclado Visual para Fórmulas Matemáticas</div>
+          <div class="natex-feat-desc">Inserta integrales, derivadas parciales, notación Bra-Ket cuántica, matrices y símbolos griegos con un clic y vista previa KaTeX en vivo.</div>
+        </div>
+      </div>
+
+      <div class="natex-feat">
+        <div class="natex-feat-icon">🎨</div>
+        <div>
+          <div class="natex-feat-title">21 Temas Visuales y Mascotas Pixel-Art</div>
+          <div class="natex-feat-desc">Full personalización a tu gusto: incluye el tema Zorro Clásico (la paleta de este Radar), Sakura Aesthetic, Dino Jade, Murciélago Gótico y más.</div>
+        </div>
+      </div>
+
+      <div class="natex-feat">
+        <div class="natex-feat-icon">📊</div>
+        <div>
+          <div class="natex-feat-title">Editor Visual de Tablas Científicas</div>
+          <div class="natex-feat-desc">Diseña tablas interactivas o pega datos directamente desde cualquier hoja de cálculo (Ctrl+V) para obtener el código LaTeX estructurado al instante.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="natex-cta-row">
+      <a href="https://github.com/NachoFari/NaTex" target="_blank" rel="noopener" class="btn-natex-cta">
+        <svg height="18" width="18" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        Ver en GitHub & Apoyar con una ⭐
+      </a>
+      <a href="https://github.com/NachoFari/NaTex/releases/latest" target="_blank" rel="noopener" class="btn-natex-sub">
+        📥 Descargar Instalador Windows (.exe)
+      </a>
+    </div>
   </div>
 </div>
 
@@ -757,6 +956,11 @@ const modalOverlay = document.getElementById("modalOverlay");
 document.getElementById("btnModal").addEventListener("click", ()=>modalOverlay.classList.add("open"));
 document.getElementById("modalClose").addEventListener("click", ()=>modalOverlay.classList.remove("open"));
 modalOverlay.addEventListener("click", e=>{{ if(e.target===modalOverlay) modalOverlay.classList.remove("open"); }});
+
+const modalNatexOverlay = document.getElementById("modalNatexOverlay");
+document.getElementById("btnNatex").addEventListener("click", ()=>modalNatexOverlay.classList.add("open"));
+document.getElementById("modalNatexClose").addEventListener("click", ()=>modalNatexOverlay.classList.remove("open"));
+modalNatexOverlay.addEventListener("click", e=>{{ if(e.target===modalNatexOverlay) modalNatexOverlay.classList.remove("open"); }});
 
 document.getElementById("btnExport").addEventListener("click", ()=>{{
   if(favs.size===0){{
