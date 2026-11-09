@@ -1,0 +1,2710 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar de Oportunidades · Ingeniería Física — Creado por NachoFari</title>
+<style>
+  :root {
+    /* Paleta NaTex Studio: Dark Charcoal con Acento Naranja Vibrante y Cian */
+    --bg: #0e0f13;
+    --bg2: #14161b;
+    --card: #181a20;
+    --card2: #1e2027;
+    --card-hover: #22252e;
+    --border: #262933;
+    --border2: #343846;
+    --txt: #f0f2f5;
+    --muted: #8e93a0;
+    --faint: #595e6d;
+    
+    /* Acentos NaTex Studio */
+    --accent: #ff6b35;
+    --accent2: #ff8c42;
+    --accent-glow: rgba(255, 107, 53, 0.28);
+    --cyan: #38bdf8;
+    --green: #2ecc71;
+    --red: #ef4444;
+    --purple: #a855f7;
+    --yellow: #fbbf24;
+  }
+  * { box-sizing:border-box }
+  body {
+    margin:0;
+    background: radial-gradient(1100px 550px at 65% -5%, #241c18 0%, var(--bg) 60%);
+    color: var(--txt);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    padding: 0 18px 80px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1180px; margin: 0 auto }
+  
+  /* Header NaTex Style */
+  header { padding: 28px 0 12px }
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .brand-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    background: linear-gradient(135deg, rgba(255,107,53,0.18), rgba(255,140,66,0.08));
+    border: 1px solid rgba(255,107,53,0.38);
+    color: var(--accent2);
+    font-size: .78rem;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 999px;
+    margin-bottom: 8px;
+    letter-spacing: .02em;
+  }
+  .brand-badge .dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+  }
+  h1 {
+    font-size: 1.95rem;
+    margin: 0 0 6px;
+    font-weight: 800;
+    letter-spacing: -.02em;
+  }
+  h1 .q {
+    background: linear-gradient(90deg, #ff7a45, #ffa154);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .sub { color: var(--muted); font-size: .92rem; margin: 0; max-width: 720px }
+  
+  .top-actions { display:flex; gap: 8px; align-items:center; flex-wrap:wrap }
+  .btn-top {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--txt);
+    font-size: .8rem;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .15s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .btn-top:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    box-shadow: 0 0 12px var(--accent-glow);
+  }
+  .btn-top.btn-accent {
+    background: linear-gradient(135deg, #ff7a45 0%, #ff5224 100%);
+    border: none;
+    color: #fff;
+    box-shadow: 0 2px 10px rgba(255,107,53,0.3);
+  }
+  .btn-top.btn-accent:hover {
+    filter: brightness(1.1);
+  }
+  
+  /* Tabs */
+  .tabs { display:flex; gap: 10px; flex-wrap:wrap; margin: 22px 0 6px }
+  .tab {
+    flex: 1 1 170px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 13px 18px;
+    cursor: pointer;
+    transition: all .18s ease;
+    user-select: none;
+  }
+  .tab:hover {
+    border-color: var(--border2);
+    background: var(--card2);
+  }
+  .tab.on {
+    border-color: var(--accent);
+    background: linear-gradient(180deg, #241c19, var(--card));
+    box-shadow: 0 4px 18px var(--accent-glow);
+  }
+  .tab .n {
+    font-size: 1.7rem;
+    font-weight: 800;
+    line-height: 1;
+    color: var(--txt);
+  }
+  .tab.on .n { color: var(--accent2) }
+  .tab .l {
+    font-size: .74rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    margin-top: 6px;
+    font-weight: 600;
+  }
+  .tab.on .l { color: var(--txt) }
+  
+  /* Counters */
+  .counters { display:flex; flex-wrap:wrap; gap: 8px; margin: 12px 0 6px }
+  .counter {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    padding: 6px 12px;
+    font-size: .76rem;
+    color: var(--muted);
+  }
+  .counter b { font-size: .92rem; margin-right: 5px }
+  .c-red b { color: var(--red) }
+  .c-orange b { color: var(--accent) }
+  .c-green b { color: var(--green) }
+  .c-gray b { color: var(--muted) }
+  .c-purple b { color: var(--purple) }
+  
+  /* Controls */
+  .controls {
+    position: sticky;
+    top: 0;
+    z-index: 25;
+    background: linear-gradient(180deg, var(--bg) 82%, rgba(14,15,19,0));
+    padding: 14px 0 12px;
+  }
+  .search-row { display:flex; gap: 8px }
+  .search {
+    flex: 1;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    color: var(--txt);
+    font-size: .92rem;
+    padding: 12px 16px;
+    outline: none;
+    transition: border-color .15s ease;
+  }
+  .search:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 10px var(--accent-glow);
+  }
+  .area-select {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    color: var(--txt);
+    font-size: .84rem;
+    padding: 0 14px;
+    outline: none;
+    cursor: pointer;
+    transition: border-color .15s ease;
+  }
+  .area-select:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 10px var(--accent-glow);
+  }
+  
+  .filters { display:flex; flex-wrap:wrap; gap: 8px; margin-top: 10px; align-items:center }
+  .fgroup { display:flex; flex-wrap:wrap; gap: 6px; align-items:center }
+  .fgroup .lab { font-size: .7rem; color: var(--faint); text-transform: uppercase; letter-spacing: .06em; margin-right: 2px; font-weight:700 }
+  .chip {
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-size: .79rem;
+    padding: 5px 12px;
+    border-radius: 999px;
+    cursor: pointer;
+    user-select: none;
+    transition: all .15s ease;
+  }
+  .chip:hover { color: var(--txt); border-color: var(--border2) }
+  .chip.on {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    box-shadow: 0 2px 8px var(--accent-glow);
+  }
+  .sep { width: 1px; background: var(--border); align-self: stretch; margin: 2px 4px }
+  
+  /* Grid & Cards */
+  .grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 16px; margin-top: 10px }
+  .card {
+    background: linear-gradient(180deg, var(--card2), var(--card));
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    overflow: hidden;
+    transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--border2);
+  }
+  .card.fav {
+    border-color: rgba(251, 191, 36, 0.45);
+    box-shadow: 0 0 14px rgba(251, 191, 36, 0.12);
+  }
+  .card::before { content:""; position:absolute; left:0; top:0; bottom:0; width: 3px }
+  .card.k-beca::before { background: var(--cyan) }
+  .card.k-ind::before { background: var(--accent) }
+  .card.k-prof::before { background: #c084fc }
+  .card.k-desc::before { background: #10b981 }
+  
+  .card-top { display:flex; justify-content:space-between; align-items:flex-start; gap: 10px }
+  .inst { font-weight: 750; font-size: 1.02rem; line-height: 1.3; color: #fff }
+  .pi { color: var(--muted); font-size: .82rem; margin-top: 3px }
+  
+  /* Urgency Badges */
+  .badge {
+    flex: none;
+    font-size: .72rem;
+    font-weight: 700;
+    padding: 5px 9px;
+    border-radius: 8px;
+    white-space: nowrap;
+    text-align: center;
+    line-height: 1.15;
+  }
+  .badge small { display:block; font-weight: 500; font-size: .63rem; opacity: .88 }
+  .b-red { background: rgba(239, 68, 68, 0.15); color: #f87171; border: 1px solid rgba(239, 68, 68, 0.3) }
+  .b-orange { background: rgba(255, 107, 53, 0.15); color: #ff8c5c; border: 1px solid rgba(255, 107, 53, 0.35) }
+  .b-green { background: rgba(46, 204, 113, 0.15); color: #2ecc71; border: 1px solid rgba(46, 204, 113, 0.3) }
+  .b-gray { background: rgba(142, 147, 160, 0.14); color: #9aa0b0; border: 1px solid rgba(142, 147, 160, 0.25) }
+  .b-purple { background: rgba(168, 85, 247, 0.15); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.3) }
+  
+  /* Tags */
+  .tags { display:flex; flex-wrap:wrap; gap: 5px }
+  .tag {
+    font-size: .7rem;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+  .tag.t-beca { color: var(--cyan); border-color: rgba(56, 189, 248, 0.28) }
+  .tag.t-ind { color: var(--accent); border-color: rgba(255, 107, 53, 0.3) }
+  .tag.t-prof { color: #c084fc; border-color: rgba(192, 132, 252, 0.28) }
+  .tag.t-desc { color: #34d399; border-color: rgba(52, 211, 153, 0.3) }
+  .tag.area { color: #ffa26b; font-weight: 700; border-color: rgba(255, 162, 107, 0.25) }
+  
+  .desc { font-size: .86rem; color: #d6d9e0; line-height: 1.42 }
+  .fund {
+    font-size: .8rem;
+    color: var(--green);
+    background: rgba(46, 204, 113, 0.08);
+    border: 1px solid rgba(46, 204, 113, 0.2);
+    padding: 6px 10px;
+    border-radius: 8px;
+  }
+  .req { font-size: .78rem; color: var(--muted); line-height: 1.35 }
+  .req b { color: var(--txt); font-weight: 600 }
+  .note { font-size: .76rem; color: var(--faint); font-style: italic }
+  
+  /* Links & CTAs */
+  .links { display:flex; gap: 7px; margin-top: auto; padding-top: 4px }
+  .lnk {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 700;
+    padding: 8px 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    font-family: inherit;
+    transition: all .15s ease;
+  }
+  .lnk.apply {
+    background: linear-gradient(135deg, #ff7a45 0%, #ff5224 100%);
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(255,107,53,0.25);
+  }
+  .lnk.apply:hover {
+    filter: brightness(1.1);
+    box-shadow: 0 4px 14px rgba(255,107,53,0.4);
+  }
+  .lnk.src {
+    background: transparent;
+    border: 1px solid var(--border2);
+    color: var(--muted);
+  }
+  .lnk.src:hover {
+    color: var(--txt);
+    border-color: var(--accent);
+  }
+  .lnk.cal {
+    flex: none;
+    background: transparent;
+    border: 1px solid var(--border2);
+    color: var(--muted);
+    padding: 0 10px;
+    font-size: .85rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .lnk.cal:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+  .star {
+    flex: none;
+    background: none;
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    color: var(--faint);
+    font-size: 1rem;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: all .15s ease;
+  }
+  .star:hover { color: var(--yellow); border-color: var(--yellow) }
+  .star.on { color: var(--yellow); border-color: rgba(251, 191, 36, 0.5) }
+  
+  .empty { text-align:center; color: var(--muted); padding: 60px 20px; display:none }
+  .disc {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-top: 24px;
+    font-size: .82rem;
+    color: var(--muted);
+  }
+  
+  /* Footer NaTex Studio */
+  footer {
+    margin-top: 36px;
+    padding-top: 22px;
+    border-top: 1px solid var(--border);
+    color: var(--faint);
+    font-size: .82rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  footer a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 700;
+  }
+  footer a:hover { text-decoration: underline }
+  .foot-gh {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    padding: 5px 12px;
+    border-radius: 8px;
+    color: var(--txt);
+  }
+  .foot-gh:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  
+  /* Modal */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(4px);
+    z-index: 100;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+  }
+  .modal-overlay.open { display:flex }
+  .modal {
+    background: var(--bg2);
+    border: 1px solid var(--border2);
+    border-radius: 16px;
+    max-width: 660px;
+    width: 100%;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 26px;
+    position: relative;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  }
+  .modal-close {
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-size: 1.4rem;
+    cursor: pointer;
+  }
+  .modal h2 { margin: 0 0 12px; font-size: 1.35rem; color: #fff }
+  .modal h3 { margin: 18px 0 6px; font-size: 1.02rem; color: var(--accent) }
+  .modal p, .modal li { font-size: .88rem; color: var(--muted); line-height: 1.55 }
+  .modal ul { padding-left: 20px; margin: 6px 0 }
+  
+  @media (max-width: 680px) {
+    .search-row { flex-direction: column }
+    .header-top { flex-direction: column }
+    .grid { grid-template-columns: 1fr }
+    footer { flex-direction: column; text-align:center }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="header-top">
+    <div>
+      <div class="brand-badge"><span class="dot"></span> Creado por NachoFari</div>
+      <h1>Radar de <span class="q">Ingeniería Física</span></h1>
+      <p class="sub">Directorio de prácticas industriales, profesionales, pasantías y descuentos de software/hardware para estudiantes de física e ingeniería — Deep Tech, Finanzas Cuantitativas, Biofísica, Astronomía, Minería y Perks Universitarios.</p>
+    </div>
+    <div class="top-actions">
+      <button class="btn-top" id="btnModal">📋 Guía de Prácticas</button>
+      <button class="btn-top btn-accent" id="btnExport">📥 Exportar Favoritos</button>
+    </div>
+  </div>
+  
+  <div class="tabs" id="tabs"></div>
+  <div class="counters" id="counters"></div>
+</header>
+
+<div class="controls">
+  <div class="search-row">
+    <input class="search" id="search" type="text" placeholder="Buscar por empresa, startup, centro de investigación, ciudad o palabra clave…" autocomplete="off">
+    <select class="area-select" id="areaSelect">
+      <option value="all">Todas las áreas (Todas)</option>
+    </select>
+  </div>
+  <div class="filters">
+    <div class="fgroup" id="fScope"><span class="lab">Alcance</span></div>
+    <div class="sep"></div>
+    <div class="fgroup" id="fStatus"><span class="lab">Estado</span></div>
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+<div class="empty" id="empty">Sin resultados con los filtros actuales.</div>
+
+<div class="disc">
+  <strong>💡 Tip de postulación:</strong> Haz clic en <b>📅</b> en cualquier oportunidad con fecha límite para agendar el recordatorio directo en tu Google Calendar. Marca con la estrella ⭐ las empresas o centros que te interesen y usa <b>Exportar Favoritos</b> para respaldar tu lista de postulaciones.
+</div>
+
+<footer>
+  <div>
+    Desarrollado con ❤️ para la comunidad de física e ingeniería · <b>Creado por NachoFari</b>
+  </div>
+  <div>
+    <a href="https://github.com/NachoFari" target="_blank" rel="noopener" class="foot-gh">
+      <svg height="15" width="15" viewBox="0 0 16 16" fill="currentColor" style="vertical-align:text-bottom"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+      github.com/NachoFari
+    </a>
+  </div>
+</footer>
+</div>
+
+<!-- Modal Guía de Prácticas Universal -->
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal">
+    <button class="modal-close" id="modalClose">&times;</button>
+    <h2>Guía de Prácticas para Estudiantes de Física e Ingeniería</h2>
+    <p>Para convalidar tus prácticas en carreras de física e ingeniería en universidades chilenas, las pautas académicas estándar se dividen en dos niveles:</p>
+    
+    <h3>1. Práctica Industrial (I) — Operativa y de Procesos</h3>
+    <ul>
+      <li><b>Propósito:</b> Conocer el funcionamiento de plantas productivas, faenas, industrias o empresas en terreno.</li>
+      <li><b>Duración típica:</b> Entre 160 y 320 horas cronológicas (4 a 8 semanas de jornada completa).</li>
+      <li><b>Lugares recomendados:</b> Refinerías (ENAP), faenas mineras (Codelco, BHP, Anglo American, SQM), empresas de ensayos no destructivos (SGS, TÜV Rheinland), manufactura y plantas de energía.</li>
+    </ul>
+
+    <h3>2. Práctica Profesional (II) — Nivel Ingeniería e I+D</h3>
+    <ul>
+      <li><b>Propósito:</b> Resolver problemas de alto impacto utilizando modelamiento físico-matemático, análisis cuantitativo, instrumentación o desarrollo de tecnología.</li>
+      <li><b>Duración típica:</b> ~320 horas cronológicas (8 semanas completas), previa a la memoria/tesis.</li>
+      <li><b>Lugares recomendados:</b> Empresas Deep Tech (SeQure Quantum, Synopsys, CoreDevX), observatorios astronómicos (ALMA, ESO, Rubin), finanzas cuantitativas (Banco Central, mesas de dinero), biofísica (CINV, FALP), centros de investigación (CCTVal, AC3E, CCHEN) o pasantías en el extranjero (Max Planck, CERN).</li>
+    </ul>
+
+    <h3>Checklist Administrativo Relevante:</h3>
+    <ul>
+      <li><b>Validación previa:</b> Presenta el plan de trabajo a la Jefatura de Carrera o Comisión de Prácticas de tu universidad antes de comenzar.</li>
+      <li><b>Seguro Escolar (Ley 16.744):</b> Es obligatorio tramitar el certificado de seguro contra accidentes universitarios con tu oficina de asuntos estudiantiles antes del primer día laboral.</li>
+      <li><b>Evaluación e Informe:</b> Al terminar, tu supervisor en la empresa debe completar la pauta confidencial de evaluación y tú debes entregar el informe técnico final.</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+const EDITION = "2026-11-09";
+const DATA = [
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Programas de Intercambio Bilateral y Movilidad Internacional",
+    "org": "Direcciones de Relaciones Internacionales (Universidades Chilenas)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Alemania, Francia, España, Japón, etc.",
+    "desc": "Semestre o año académico de intercambio en universidades socias de Europa, América y Asia con exención de arancel en destino y posibles becas Erasmus+ KA171.",
+    "fund": "Exención total de arancel en la universidad de destino + posibles fondos Erasmus+ (~€850/mes + viaje)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://usm.cl/internacional/",
+    "src": "https://usm.cl",
+    "note": "Dos convocatorias por año (apertura en abril para intercambio el 1º semestre siguiente; apertura en septiembre para el 2º semestre)."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Becas Alianza del Pacífico — Movilidad de Pregrado",
+    "org": "AGCID Chile · Alianza del Pacífico",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "México, Colombia o Perú",
+    "desc": "Financia pasantías académicas de un semestre en universidades de México (e.g. UNAM, Tecnológico de Monterrey), Colombia o Perú.",
+    "fund": "Pasajes aéreos ida y vuelta + estipendio mensual de manutención + seguro médico internacional",
+    "req": "Estudiante regular de pregrado con al menos el 50% de la carrera aprobada.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://alianzapacifico.net/becas/",
+    "src": "https://www.agci.cl",
+    "note": "Apertura habitual entre marzo y abril; cierre de postulaciones en mayo (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "ELAP — Emerging Leaders in the Americas Program",
+    "org": "Gobierno de Canadá (Global Affairs Canada)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Canadá (varias provincias)",
+    "desc": "Becas de intercambio de 4 a 6 meses para realizar un semestre de estudios o un proyecto de investigación en universidades canadienses de primer nivel.",
+    "fund": "CAD 11.100 a CAD 12.700 (cubre pasajes, visado, seguro y manutención)",
+    "req": "Convenio vigente entre tu universidad y la universidad canadiense receptora.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx",
+    "src": "https://www.educanada.ca",
+    "note": "Convocatoria anual con cierre en las instituciones canadienses hacia marzo (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Becas Santander Estudios y Movilidad Internacional",
+    "org": "Banco Santander · Santander Open Academy",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Iberoamérica / Global",
+    "desc": "Becas de movilidad internacional de pregrado y programas de formación online intensiva en habilidades digitales, inglés y liderazgo.",
+    "fund": "Hasta €3.000 para becas de movilidad presencial / cursos gratuitos certificados",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://app.santanderopenacademy.com",
+    "src": "https://www.santanderopenacademy.com",
+    "note": "Monitorear las distintas convocatorias activas a lo largo de todo el año."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "DAAD — Becas para Cursos Universitarios de Verano en Alemania",
+    "org": "DAAD Chile (Servicio Alemán de Intercambio Académico)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Alemania (varias universidades)",
+    "desc": "Cursos de 4 a 6 semanas durante el verano alemán (junio–agosto) para perfeccionar el idioma y conocer los ecosistemas de investigación de Alemania (Max Planck, Fraunhofer, Helmholtz).",
+    "fund": "Beca de €1.061 + asignación para gastos de viaje + seguro médico",
+    "req": "Estudiante de pregrado (mínimo 2 años concluidos); alemán nivel B1 comprobable.",
+    "deadline": "2026-12-01",
+    "status": "abierta",
+    "apply": "https://www.daad.cl/es/encontrar-becas/becas-en-alemania/",
+    "src": "https://www.daad.cl",
+    "note": "Cierre habitual a inicios de diciembre de cada año. Nota: el programa DAAD RISE Germany está restringido a Norteamérica/UK y no acepta postulantes de Chile."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Becas Women in Mining & Programas STEM Mineros",
+    "org": "WIM Chile · BHP · Codelco · Antofagasta Minerals",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Iniciativas de mentoría, financiamiento parcial de estudios y acceso prioritario a prácticas para alumnas de ingenierías duras.",
+    "fund": "Asignaciones económicas y mentorías especializadas",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://wimchile.cl",
+    "src": "https://wimchile.cl",
+    "note": "Monitorear llamados periódicos en portales de WIM Chile y mineras."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Mitacs Globalink Research Internship",
+    "org": "Mitacs Canadá",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Canadá (varias universidades)",
+    "desc": "Pasantía de investigación intensiva de 12 semanas (mayo a octubre) junto a profesores de universidades canadienses líderes en física, datos y materiales.",
+    "fund": "Totalmente financiada: pasajes aéreos, alojamiento en campus, estipendio de manutención y seguro",
+    "req": "Estudiante de pregrado regular a tiempo completo; 1 a 3 semestres restantes de carrera; inglés o francés.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+    "src": "https://www.mitacs.ca",
+    "note": "La cohorte 2027 cerró en septiembre de 2026; la convocatoria para el ciclo 2028 abrirá en agosto–septiembre de 2027 (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Student Summer Research Fellowship (SSRF)",
+    "org": "ETH Zürich · Department of Computer Science (D-INFK)",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Zúrich, Suiza",
+    "desc": "Pasantía de investigación de verano (julio y agosto 2027) en algoritmos, computación cuántica, machine learning y sistemas complejos.",
+    "fund": "Beca de CHF 1.750/mes + reembolso de pasajes aéreos + alojamiento cubierto",
+    "req": "No informados",
+    "deadline": "2026-12-16",
+    "status": "abierta",
+    "apply": "https://inf.ethz.ch/studies/summer-research-fellowship.html",
+    "src": "https://ethz.ch",
+    "note": "Portal de postulación abierto del 1 de noviembre al 16 de diciembre de 2026 a las 13:00 CET. ¡Confirmado!"
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Excellence Research Internship Program (ERIP)",
+    "org": "EPFL (École Polytechnique Fédérale de Lausanne)",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Lausana, Suiza",
+    "desc": "Pasantía de investigación de 2 a 3 meses en prestigiosos laboratorios de física, microelectrónica, fotónica y materiales de la EPFL.",
+    "fund": "CHF 1.800 mensuales hasta por 3 meses + exención de costos académicos",
+    "req": "No informados",
+    "deadline": "2026-11-30",
+    "status": "abierta",
+    "apply": "https://www.epfl.ch/education/international/en/exchange-programs/excellence-research-internship-program/",
+    "src": "https://www.epfl.ch",
+    "note": "Cierre habitual hacia el 30 de noviembre; cartas de recomendación requeridas. (Fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Kupcinet-Getz International Summer Science School",
+    "org": "Weizmann Institute of Science",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Rehovot, Israel",
+    "desc": "8 semanas de inmersión en investigación (16 de junio al 12 de agosto de 2027) trabajando en proyectos de frontera en física pura y aplicada, biofísica y matemáticas.",
+    "fund": "Alojamiento completo en el campus + estipendio semanal + seguro",
+    "req": "No informados",
+    "deadline": "2027-01-20",
+    "status": "abierta",
+    "apply": "https://www.weizmann.ac.il/feinberg/kupcinet-getz-program",
+    "src": "https://www.weizmann.ac.il",
+    "note": "Portal de postulación abre formalmente el 20 de diciembre de 2026 y cierra el 20 de enero de 2027."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "OIST Research Internship Program",
+    "org": "Okinawa Institute of Science and Technology (OIST)",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Okinawa, Japón",
+    "desc": "Estadía de investigación de 2 a 6 meses en unidades avanzadas de física cuántica, biofísica, fotónica y neurociencia computacional.",
+    "fund": "Totalmente financiada: 2.400 JPY/día hábil + pasajes aéreos + alojamiento amoblado + seguro",
+    "req": "Estudiante de pregrado (en sus últimos 2 años) o máster.",
+    "deadline": "2027-04-15",
+    "status": "abierta",
+    "apply": "https://admissions.oist.jp/research-internship",
+    "src": "https://www.oist.jp",
+    "note": "Dos convocatorias anuales: la ronda de primavera cierra el 15 de abril de 2027 (para pasantías entre octubre y marzo)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Visiting Student Research Program (VSRP)",
+    "org": "KAUST (King Abdullah University of Science and Technology)",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Thuwal, Arabia Saudita",
+    "desc": "Pasantías de 3 a 6 meses en laboratorios de última generación en energía solar, nanotecnología, supercómputo y física de materiales.",
+    "fund": "Totalmente financiada: USD $1.000/mes de estipendio + pasaje aéreo + alojamiento privado + cobertura médica completa",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://vsrp.kaust.edu.sa/",
+    "src": "https://vsrp.kaust.edu.sa/",
+    "note": "Postulación abierta todo el año en modalidad rolling; se recomienda postular al menos 4 meses antes de la fecha tentativa de inicio."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "CERN Summer Student Programme (Non-Member States Track)",
+    "org": "CERN (Organización Europea para la Investigación Nuclear)",
+    "area": "Física de partículas y nuclear",
+    "scope": "Internacional",
+    "city": "Ginebra, Suiza",
+    "desc": "8 a 13 semanas durante el verano europeo integrándose a experimentos del Gran Colisionador de Hadrones (LHC), física de aceleradores, detectores y computación.",
+    "fund": "Subsidio diario de ~90 CHF/día (~€2.800/mes) + pasajes aéreos ida y vuelta + seguro médico",
+    "req": "Estudiante universitario de física o ingeniería (mínimo 3 años de carrera concluidos); inglés o francés.",
+    "deadline": "2027-01-26",
+    "status": "abierta",
+    "apply": "https://careers.cern/summer",
+    "src": "https://home.cern",
+    "note": "Apertura a principios de noviembre y cierre habitual a fines de enero. Solicitar cartas de recomendación con anticipación (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "CERN openlab Summer Student Programme",
+    "org": "CERN openlab",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Ginebra, Suiza",
+    "desc": "9 semanas trabajando en proyectos de informática y computación científica de vanguardia (HPC, IA aplicada a física de partículas y arquitecturas cuánticas).",
+    "fund": "Estipendio de manutención (~90 CHF/día) + subsidio de viaje",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://openlab.cern/summer-student-programme",
+    "src": "https://openlab.cern",
+    "note": "Convocatoria anual con cierre habitual a fines de enero (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "MPIA Summer Internship",
+    "org": "Max Planck Institute for Astronomy (MPIA)",
+    "area": "Astronomía",
+    "scope": "Internacional",
+    "city": "Heidelberg, Alemania",
+    "desc": "Pasantías de 2 a 3 meses (entre mayo y septiembre) en astrofísica observacional, instrumentación astronómica de precisión y modelamiento numérico.",
+    "fund": "Estipendio mensual de ~€1.000 netos + cobertura de gastos de viaje y apoyo para encontrar alojamiento",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mpia.de/students/internships",
+    "src": "https://www.mpia.de",
+    "note": "El llamado para el verano 2027 abre habitualmente entre diciembre y enero, cerrando a inicios de febrero (fecha estimada)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Undergraduate Research Internship — IMPRS Physics of Light",
+    "org": "Max Planck Institute for the Science of Light (MPL)",
+    "area": "Óptica y fotónica",
+    "scope": "Internacional",
+    "city": "Erlangen, Alemania",
+    "desc": "Investigación de vanguardia en óptica cuántica, biofotónica, fibras ópticas de cristal fotónico e interacción luz-materia.",
+    "fund": "Beca de investigación de ~€992/mes + apoyo para costos de viaje internacional",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://mpl.mpg.de/career/students",
+    "src": "https://www.mpg.de",
+    "note": "Convocatoria anual de invierno; se tramita en contacto con la International Max Planck Research School (IMPRS)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Max Planck School Matter to Life — URO Program",
+    "org": "Max Planck School Matter to Life",
+    "area": "Biofísica",
+    "scope": "Internacional",
+    "city": "Heidelberg / Göttingen / Múnich, Alemania",
+    "desc": "10 semanas en laboratorios de vanguardia de la Sociedad Max Planck investigando en biofísica molecular, materia activa, biología sintética y física de la materia condensada biológica.",
+    "fund": "Gastos de viaje internacional cubiertos + alojamiento financiado + subsidio mensual de manutención",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://mattertolife.maxplanckschools.org/",
+    "src": "https://mattertolife.maxplanckschools.org/",
+    "note": "Convocatoria anual de invierno (fecha estimada). Excelente encaje para el perfil de biofísica."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Prácticas en Fusión Nuclear — IPP Max Planck",
+    "org": "Max Planck Institute for Plasma Physics (IPP)",
+    "area": "Energía y plasmas",
+    "scope": "Internacional",
+    "city": "Garching y Greifswald, Alemania",
+    "desc": "Prácticas de investigación en física de plasmas y fusión nuclear en los experimentos Wendelstein 7-X (stellarator) y ASDEX Upgrade (tokamak).",
+    "fund": "Asignación para estudiantes según convenio (consultar con el grupo receptor)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.ipp.mpg.de/career",
+    "src": "https://www.ipp.mpg.de",
+    "note": "Admisión continua (rolling) para estadías de investigación técnica y tesis."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Pasantías por Contacto Directo — MPI-PKS & MPI-DS",
+    "org": "Max Planck for the Physics of Complex Systems & Dynamics and Self-Organization",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Dresde / Gotinga, Alemania",
+    "desc": "Investigación teórica y computacional en sistemas no lineales, caos cuántico, biofísica teórica y redes complejas.",
+    "fund": "Financiamiento evaluado individualmente por cada director de departamento o líder de grupo",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.pks.mpg.de",
+    "src": "https://www.ds.mpg.de",
+    "note": "No cuentan con portal masivo; las pasantías se acuerdan directamente con los líderes científicos."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Pasantías Científicas en ISTA (Austria)",
+    "org": "Institute of Science and Technology Austria",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Klosterneuburg (Viena), Austria",
+    "desc": "Pasantías individuales de investigación en física de la materia condensada, óptica cuántica y biofísica acordadas directamente con investigadores principales.",
+    "fund": "Salario mensual de estudiante de investigación según convenio colectivo austríaco",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://ista.ac.at/en/jobs/",
+    "src": "https://ista.ac.at",
+    "note": "Nota: El programa centralizado ISTernship se encuentra temporalmente en pausa; las estadías se gestionan directamente con cada profesor."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Directorio General de Pasantías de la Sociedad Max Planck",
+    "org": "Max Planck Gesellschaft (MPG)",
+    "area": "General",
+    "scope": "Internacional",
+    "city": "Alemania (más de 80 institutos)",
+    "desc": "La Sociedad Max Planck opera de forma descentralizada: no existe un único formulario global, sino que cada uno de sus 85 institutos abre vacantes específicas para estudiantes en su portal 'Jobs & Careers'.",
+    "fund": "Generalmente remuneradas (~€900–€1.200/mes) o cubiertas por becas de acogida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.mpg.de/en/institutes",
+    "src": "https://www.mpg.de",
+    "note": "Usa este enlace como catálogo maestro para buscar el instituto exacto de tu especialidad (óptica, biofísica, astrofísica, etc.)."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Programa PIA (Investigación en Astronomía de Verano)",
+    "org": "NSF NOIRLab · CTIO · Cerro Pachón",
+    "area": "Astronomía",
+    "scope": "Chile",
+    "city": "La Serena",
+    "desc": "Pasantía de investigación de verano (del 18 de enero al 19 de marzo de 2027) junto a astrónomos e ingenieros de Cerro Tololo, Gemini Sur y el Observatorio Vera C. Rubin.",
+    "fund": "Estipendio mensual + alojamiento completo en el recinto de La Serena",
+    "req": "Nacionalidad chilena o residencia permanente; 3er año de carrera o superior.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://noirlab.edu/public/careers/",
+    "src": "https://noirlab.edu",
+    "note": "La convocatoria para el verano 2027 cerró el 4 de octubre de 2026. La próxima abrirá en agosto–septiembre de 2027."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Tu Práctica es Central — Banco Central de Chile",
+    "org": "Banco Central de Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas de verano o semestre en las divisiones de Estudios Monetarios, Mercados Financieros, Estadísticas y Tecnologías de la Información. Manejo de series de tiempo, modelamiento y analítica.",
+    "fund": "Asignación económica mensual + almuerzo en casino institucional",
+    "req": "Alumno regular o egresado sin titular; carta de práctica universitaria y seguro escolar.",
+    "deadline": null,
+    "status": "abierta",
+    "apply": "https://www.bcentral.cl/el-banco/trabaja-con-nosotros",
+    "src": "https://www.bcentral.cl",
+    "note": "El proceso abre anualmente entre octubre y noviembre para prácticas que inician en enero. ¡Revisar de inmediato en su portal!"
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Prácticas en Observatorio ALMA (Radioastronomía)",
+    "org": "ALMA Observatory (JAO)",
+    "area": "Astronomía",
+    "scope": "Chile",
+    "city": "Santiago (Vitacura) / San Pedro de Atacama",
+    "desc": "Proyectos de práctica en ingeniería electrónica, criogenia de receptores de microondas, sistemas de control distribuido y procesamiento de señales astronómicas.",
+    "fund": "Asignación económica + traslados y estadía en campamento OSF para faenas en Atacama",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.almaobservatory.org/es/trabaja-con-nosotros/",
+    "src": "https://www.almaobservatory.org",
+    "note": "Las oportunidades se publican periódicamente en el portal de empleos de ALMA."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Prácticas y Summer Students ESO Chile",
+    "org": "European Southern Observatory (ESO)",
+    "area": "Astronomía",
+    "scope": "Chile",
+    "city": "Santiago / Observatorios Paranal y La Silla",
+    "desc": "Prácticas en mantenimiento e ingeniería mecánica/óptica (MSE), operaciones científicas y sistemas de software del Very Large Telescope (VLT) y del futuro ELT.",
+    "fund": "Asignación de práctica mensual + vuelos y alojamiento en base astronómica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://recruitment.eso.org/",
+    "src": "https://www.eso.org",
+    "note": "Convocatorias de verano en octubre y postulaciones para prácticas regulares a lo largo del año."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Vera C. Rubin Observatory (LSST)",
+    "org": "Rubin Observatory / NOIRLab",
+    "area": "Astronomía",
+    "scope": "Chile",
+    "city": "La Serena / Cerro Pachón",
+    "desc": "Prácticas en el observatorio que capturará el mayor censo óptico del cielo: pipelines de procesamiento masivo de datos, software de control y óptica de gran campo.",
+    "fund": "Asignación mensual de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://rubinobservatory.org/about/careers",
+    "src": "https://rubinobservatory.org",
+    "note": "Revisar convocatorias abiertas en NOIRLab Careers."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Observatorio Las Campanas (LCO) & Giant Magellan Telescope",
+    "org": "Carnegie Science / GMTO",
+    "area": "Astronomía",
+    "scope": "Chile",
+    "city": "La Serena / Vallenar",
+    "desc": "Prácticas en mecánica de precisión, mantenimiento de instrumentos ópticos/infrarrojos y desarrollo tecnológico para el futuro Telescopio Gigante de Magallanes (GMT).",
+    "fund": "Asignación económica mensual",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.lco.cl",
+    "src": "https://www.lco.cl",
+    "note": "Postulaciones espontáneas enviando CV al departamento de operaciones técnicas."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "CCTVal — Centro Científico Tecnológico de Valparaíso",
+    "org": "UTFSM · Campus Casa Central",
+    "area": "Física de partículas y nuclear",
+    "scope": "Chile",
+    "city": "Valparaíso",
+    "desc": "Desarrollo de detectores para el experimento ATLAS en CERN, electrónica rápida, supercómputo y física médica experimental. Abierto a tesistas y practicantes de diversas universidades.",
+    "fund": "Posibilidad de estipendio o ayudantía de investigación según proyecto FONDECYT/Basal",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cctval.cl",
+    "src": "https://www.usm.cl",
+    "note": "Contactar directamente a los profesores e investigadores del centro en el campus Casa Central."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "AC3E — Centro Avanzado de Ingeniería Eléctrica y Electrónica",
+    "org": "UTFSM",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Valparaíso",
+    "desc": "Centro de excelencia USM con líneas en fotónica, conversión de energía renovable, instrumentación biomédica y control inteligente de sistemas.",
+    "fund": "Asignación de investigación según proyecto disponible",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://ac3e.usm.cl",
+    "src": "https://ac3e.usm.cl",
+    "note": "Revisar convocatorias en su sitio web o acercarse a los laboratorios en Valparaíso."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Comisión Chilena de Energía Nuclear (CCHEN)",
+    "org": "CCHEN (Gobierno de Chile)",
+    "area": "Física de partículas y nuclear",
+    "scope": "Chile",
+    "city": "Santiago (Centros La Reina y Lo Aguirre)",
+    "desc": "Prácticas en los reactores nucleares de investigación RECH-1, física de plasmas densos, protección radiológica, dosimetría y aplicaciones de radioisótopos en salud e industria.",
+    "fund": "Asignación mensual según disponibilidad presupuestaria",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cchen.cl",
+    "src": "https://www.cchen.cl",
+    "note": "Postular a través de la sección 'Trabaja con Nosotros' o contacto con Recursos Humanos."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "CINV — Centro Interdisciplinario de Neurociencia de Valparaíso",
+    "org": "Universidad de Valparaíso",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Valparaíso",
+    "desc": "Biofísica computacional y experimental: estudio electrofisiológico de canales iónicos, termorrecepción, modelamiento físico de membranas y redes neuronales. Ubicado en Playa Ancha, muy cerca de la USM.",
+    "fund": "Posible viático de proyecto de investigación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cinv.uv.cl",
+    "src": "https://cinv.uv.cl",
+    "note": "Excelente alternativa regional para convalidar práctica profesional o tesis de biofísica."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Fundación Ciencia & Vida",
+    "org": "Fundación Ciencia & Vida / USS",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Modelamiento bioinformático, biología estructural y desarrollo de plataformas biofísicas aplicadas a la biotecnología.",
+    "fund": "Apoyo según proyecto activo",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cienciavida.org",
+    "src": "https://cienciavida.org",
+    "note": "Contactar a los laboratorios de bioinformática estructural."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Biomedical Neuroscience Institute (BNI)",
+    "org": "Universidad de Chile",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Microscopía avanzada de fluorescencia, análisis óptico de señalización sináptica y análisis físico de imágenes celulares complejas.",
+    "fund": "Apoyo de laboratorio",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.bni.cl",
+    "src": "https://www.bni.cl",
+    "note": "Coordinar con investigadores principales de líneas ópticas."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Física Médica y Radioterapia — Fundación Arturo López Pérez (FALP)",
+    "org": "Fundación Arturo López Pérez",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Servicio de Física Médica en el centro oncológico líder de Chile: calibración de aceleradores lineales, planificación 3D de radioterapia (IMRT, VMAT) y control de calidad dosimétrico.",
+    "fund": "Convenio de práctica profesional",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.falp.cl",
+    "src": "https://www.falp.cl",
+    "note": "Contactar al Departamento de Física Médica de FALP."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Física Médica en Grandes Clínicas Privadas",
+    "org": "Clínica Alemana · Red de Salud UC CHRISTUS",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas profesionales en departamentos de imagenología avanzada (resonancia magnética, TAC, medicina nuclear PET/CT) y radioterapia.",
+    "fund": "Asignación según convenio clínico",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.alemana.cl",
+    "src": "https://www.ucchristus.cl",
+    "note": "Postulaciones mediante los departamentos de docencia e investigación clínica de cada institución."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Siemens Healthineers Chile",
+    "org": "Siemens Healthineers",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas en el área de ingeniería de servicio y aplicaciones clínicas para equipos de diagnóstico por imágenes (resonadores magnéticos, tomógrafos, angiógrafos y ultrasonido).",
+    "fund": "Práctica remunerada + beneficios de movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://jobs.siemens-healthineers.com/",
+    "src": "https://www.siemens-healthineers.com/cl",
+    "note": "Postulaciones a través de su portal corporativo de empleos."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "GE HealthCare Chile",
+    "org": "GE HealthCare",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Soporte técnico, mantenimiento y calibración de sistemas electromédicos de imagenología y medicina nuclear.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://careers.gehealthcare.com/",
+    "src": "https://www.gehealthcare.com/",
+    "note": "Revisar vacantes de pasantías e internships en Chile."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Instituto Milenio de Investigación en Óptica (MIRO)",
+    "org": "ANID Instituto Milenio MIRO",
+    "area": "Cuántica",
+    "scope": "Chile",
+    "city": "Concepción / Santiago",
+    "desc": "Investigación de vanguardia en óptica cuántica, comunicación cuántica, estructuración espacial de luz y metrología óptica.",
+    "fund": "Apoyo financiero mediante becas de pregrado de proyectos Milenio",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miro.cl",
+    "src": "https://miro.cl",
+    "note": "Reúne a investigadores de la UdeC, UChile, USACH y otras casas de estudio."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Center for Optics and Photonics (CEFOP)",
+    "org": "Universidad de Concepción",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Concepción",
+    "desc": "Desarrollo de sensores ópticos industriales, instrumentación optoelectrónica y redes de telecomunicaciones por fibra óptica.",
+    "fund": "Asignación de proyecto según fondo de investigación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cefop.cl",
+    "src": "https://www.cefop.cl",
+    "note": "Consultar directamente las vacantes de verano para estudiantes."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "CEDENNA — Nanociencia y Nanotecnología",
+    "org": "Centro para el Desarrollo de la Nanociencia y la Nanotecnología",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago (USACH)",
+    "desc": "Líneas de síntesis y caracterización de nanomateriales magnéticos, películas delgadas, nanofísica y empaques activos.",
+    "fund": "Posibilidad de beca de tesista o viático de pasantía",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cedenna.cl",
+    "src": "https://www.cedenna.cl",
+    "note": "Enviar manifestación de interés al área de vinculación de CEDENNA."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Laboratorios de Investigación Universitaria (Estadías de I+D)",
+    "org": "Departamentos e Institutos de Física en Chile (UChile, PUC, UdeC, USACH, USM, etc.)",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago / Valparaíso / Concepción",
+    "desc": "Estadías de investigación de verano o semestrales en laboratorios de materia condensada, magnetismo, óptica aplicada y plasmas en universidades nacionales.",
+    "fund": "Convalidable académicamente; eventual ayudantía",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://fisica.usm.cl",
+    "src": "https://fisica.usm.cl",
+    "note": "Verifica previamente si el reglamento de tu plan permite prácticas internas y bajo qué condiciones."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Comisión para el Mercado Financiero (CMF)",
+    "org": "CMF (Regulador Financiero de Chile)",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas en áreas de análisis de riesgo sistémico, supervisión prudencial de bancos y aseguradoras, y modelamiento estocástico de mercados.",
+    "fund": "Asignación mensual de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cmfchile.cl",
+    "src": "https://www.cmfchile.cl",
+    "note": "Postulaciones periódicas en su sección de convocatorias laborales."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Riesgo Financiero y Analytics Cuantitativo en Grandes Bancos",
+    "org": "Banco BCI · Banco Santander · BICE · Banco Itaú",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Equipos de Quantitative Risk, modelamiento de scoring crediticio, análisis de riesgo de mercado y mesas de dinero. El perfil analítico y resolutivo del ingeniero físico es altamente demandado.",
+    "fund": "Práctica profesional remunerada (~$350.000–$550.000/mes)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.bci.cl/trabaja-en-bci",
+    "src": "https://www.santander.cl",
+    "note": "Buscar 'Práctica Riesgo Cuantitativo' o 'Data Science' en sus portales y LinkedIn."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "LarrainVial & Administradoras de Fondos de Pensiones",
+    "org": "LarrainVial · AFPs (Habitat, Provida, Cuprum)",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Optimización estocástica de carteras de inversión, modelos de valoración de derivados financieros y métricas de volatilidad de activos globales.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.larrainvial.com",
+    "src": "https://www.larrainvial.com",
+    "note": "Enviar postulación a través de sus plataformas de talento joven."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro de Energía FCFM — Universidad de Chile",
+    "org": "Universidad de Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Modelamiento de redes eléctricas de potencia, penetración de energías renovables no convencionales (ERNC), electromovilidad y almacenamiento en baterías.",
+    "fund": "Asignación según proyectos FONDEF o consultorías",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://centroenergia.cl",
+    "src": "https://centroenergia.cl",
+    "note": "Coordinación directa con investigadores de proyectos."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "SERC Chile — Solar Energy Research Center",
+    "org": "SERC Chile (ANID FONDAP)",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago / Antofagasta",
+    "desc": "Investigación aplicada al potencial solar único del Desierto de Atacama: radiación solar, ensuciamiento (soiling) de paneles fotovoltaicos y concentración solar térmica.",
+    "fund": "Viáticos de pasantía según línea de investigación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://sercchile.cl",
+    "src": "https://sercchile.cl",
+    "note": "Centro multiinstitucional con presencia en varias universidades socias."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Fraunhofer Chile Research — Centro de Tecnologías para Energía Solar (CSET)",
+    "org": "Fraunhofer Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "I+D aplicada en desalinización solar, calor de proceso industrial, modelamiento fotovoltaico y producción de hidrógeno verde.",
+    "fund": "Asignación mensual de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.fraunhofer.cl",
+    "src": "https://www.fraunhofer.cl",
+    "note": "Publicaciones de vacantes en su sección de convocatorias."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "ACERA — Asociación Chilena de Energías Renovables y Almacenamiento",
+    "org": "ACERA A.G.",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Estudios técnicos y regulatorios de la matriz eléctrica nacional, análisis estadístico de vertimientos de energía y transición energética limpia.",
+    "fund": "Asignación mensual",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://acera.cl",
+    "src": "https://acera.cl",
+    "note": "Postulaciones espontáneas al área de estudios."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Prácticas en Empresas de Generación Eléctrica (Enel, Engie, AES Andes)",
+    "org": "Enel Chile · ENGIE Energía Chile · AES Andes",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago / Faenas en diversas regiones",
+    "desc": "Prácticas operativas y de ingeniería en monitoreo de parques eólicos y solares, subestaciones eléctricas, análisis de fallas y telemetría de activos renovables.",
+    "fund": "Asignación económica mensual (~$250.000–$400.000)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.enel.cl",
+    "src": "https://www.engie.cl",
+    "note": "Campañas formales de reclutamiento de verano abiertas entre septiembre y noviembre."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "ENAP — Refinería Aconcagua (Concón)",
+    "org": "Empresa Nacional del Petróleo (ENAP)",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Concón (Región de Valparaíso)",
+    "desc": "Prácticas industriales y profesionales en una de las plantas industriales más grandes de la región: instrumentación industrial, control de procesos térmicos, mecánica de fluidos y mantenimiento predictivo. A minutos de Valparaíso.",
+    "fund": "Asignación mensual de práctica + transporte de acercamiento",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.enap.cl",
+    "src": "https://www.enap.cl",
+    "note": "Convocatoria anual de prácticas de verano para estudiantes de la V Región."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Codelco — Programa Corporativo de Prácticas y Memorias",
+    "org": "Corporación Nacional del Cobre de Chile",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Divisiones Ventanas (V Región), Andina, El Teniente, Norte",
+    "desc": "Prácticas en automatización, física de procesos metalúrgicos, modelamiento de macizos rocosos y sensores de monitoreo continuo en faenas subterráneas y a rajo abierto. División Ventanas y Andina están en la misma Región de Valparaíso.",
+    "fund": "Asignación mensual + transporte + alojamiento y alimentación en faenas cordilleranas/norte",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.codelco.com/practicas-y-memorias",
+    "src": "https://www.codelco.com",
+    "note": "Proceso de verano abre habitualmente entre agosto y octubre. Consultar disponibilidad en su portal."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "BHP Chile (Minera Escondida y Spence)",
+    "org": "BHP",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Santiago / Antofagasta",
+    "desc": "Programas formales de práctica de verano y práctica profesional en centros integrados de operaciones remotas (CIO), automatización de perforadoras y procesamiento de minerales.",
+    "fund": "Práctica remunerada de alto nivel + traslados a faena en avión",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://careers.bhp.com",
+    "src": "https://www.bhp.com",
+    "note": "Convocatorias de verano abiertas en primavera en su portal global de talentos."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Anglo American Chile (Los Bronces y El Soldado)",
+    "org": "Anglo American",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Santiago / Nogales (Región de Valparaíso)",
+    "desc": "Operación Los Bronces y Mina El Soldado (ubicada en la provincia de Quillota, V Región). Prácticas en gestión tecnológica, eficiencia hídrica y monitoreo de relaves con sensores ópticos e instrumentación física.",
+    "fund": "Asignación económica de práctica + traslados",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.angloamerican.com/careers",
+    "src": "https://www.angloamerican-chile.cl",
+    "note": "Postulaciones a través del portal de reclutamiento de Anglo American."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Antofagasta Minerals (Grupo Luksic)",
+    "org": "Antofagasta Minerals (Los Pelambres, Centinela, Antucoya)",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Santiago / IV y II Región",
+    "desc": "Prácticas en analítica avanzada de procesos de molienda y flotación, monitoreo geotécnico de taludes con radares e instrumentación de plantas desoladoras de agua de mar.",
+    "fund": "Asignación mensual + pasajes y viáticos a faena",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.aminerals.cl",
+    "src": "https://www.aminerals.cl",
+    "note": "Campañas formales de atracción de talento publicadas en su sitio web."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "SQM & Albemarle — Industria del Litio y Salares",
+    "org": "SQM · Albemarle Chile",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Salar de Atacama / Antofagasta / Santiago",
+    "desc": "Física de evaporación y balance hídrico en salares, termodinámica de salmueras ricas en litio, cristalización fraccionada y monitoreo ambiental por satélite e interferometría.",
+    "fund": "Práctica remunerada + vuelos y campamento en el norte",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.sqm.com",
+    "src": "https://www.albemarle.com",
+    "note": "Postulación a través de sus plataformas corporativas durante el segundo semestre."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Servicio Hidrográfico y Oceanográfico de la Armada (SHOA)",
+    "org": "Armada de Chile",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Valparaíso (Playa Ancha)",
+    "desc": "Ubicado en Valparaíso. Operación del Sistema Nacional de Alarma de Mareas (SNAM): modelamiento de propagación de ondas de tsunami, mecánica de fluidos geofísicos, batimetría acústica e instrumentación mareográfica.",
+    "fund": "Práctica formativa institucional",
+    "req": "Nacionalidad chilena; alumno regular; seguro escolar.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.shoa.cl",
+    "src": "https://www.shoa.cl",
+    "note": "Excelente encaje de geofísica y física de fluidos en la misma ciudad universitaria."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro Sismológico Nacional (CSN)",
+    "org": "Universidad de Chile",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Procesamiento de ondas sísmicas en tiempo real, física de la ruptura cosísmica, calibración de acelerómetros y estaciones sismológicas satelitales en todo Chile.",
+    "fund": "Apoyo según proyectos activos",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.csn.uchile.cl",
+    "src": "https://www.csn.uchile.cl",
+    "note": "Contactar al área de investigación y redes del CSN."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Dirección Meteorológica de Chile (DMC)",
+    "org": "DMC (DGAC)",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Modelamiento numérico de la atmósfera, física de nubes y radiación, radares meteorológicos Doppler y análisis de escenarios de cambio climático en Chile.",
+    "fund": "Práctica institucional convalidable",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.meteochile.gob.cl",
+    "src": "https://www.meteochile.gob.cl",
+    "note": "Solicitud formal a través de Recursos Humanos de la DGAC."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "SpaceLab UChile (Laboratorio de Exploración Espacial)",
+    "org": "FCFM Universidad de Chile",
+    "area": "Espacial y defensa",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Diseño, ensamblaje y prueba de satélites cubesat de la serie SUCHAI: física de plasma en la ionósfera, comportamiento térmico de componentes en el vacío espacial y enlaces de telecomunicaciones satelitales.",
+    "fund": "Apoyo de proyecto de investigación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://spel.ing.uchile.cl",
+    "src": "https://spel.ing.uchile.cl",
+    "note": "Contactar al equipo de ingenieros e investigadores del laboratorio SPEL."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ASMAR — Astilleros y Maestranzas de la Armada",
+    "org": "ASMAR",
+    "area": "Espacial y defensa",
+    "scope": "Chile",
+    "city": "Valparaíso y Talcahuano",
+    "desc": "Planta de Valparaíso y Astillero de Talcahuano: ensayos no destructivos por ultrasonido y radiografía industrial en cascos de buques, metrología de precisión y física de materiales navales.",
+    "fund": "Asignación según bases institucionales",
+    "req": "Nacionalidad chilena; alumno regular; seguro escolar.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.asmar.cl",
+    "src": "https://www.asmar.cl",
+    "note": "Contacto con el departamento de capacitación y RRHH de ASMAR."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ENAER — Empresa Nacional de Aeronáutica",
+    "org": "ENAER",
+    "area": "Espacial y defensa",
+    "scope": "Chile",
+    "city": "Santiago (El Bosque)",
+    "desc": "Ensayos mecánicos y caracterización de materiales compuestos aeronáuticos, pruebas de fatiga estructural, aviónica y calibración de instrumental de vuelo.",
+    "fund": "Asignación mensual de práctica",
+    "req": "Nacionalidad chilena; alumno regular; seguro escolar.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.enaer.cl",
+    "src": "https://www.enaer.cl",
+    "note": "Postulaciones mediante la gerencia de Recursos Humanos."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Fundación Data Observatory (Astrodatos y Ciencias de la Tierra)",
+    "org": "Data Observatory Chile",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Consorcio público-privado impulsado por los Ministerios de Ciencia y Economía y Amazon Web Services: ingesta y análisis de petabytes de datos astronómicos (ALMA, Rubin), climáticos y de recursos hídricos.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://dataobservatory.net",
+    "src": "https://dataobservatory.net",
+    "note": "Postulaciones a través de su sitio web y canales de empleo científico."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro de Modelamiento Matemático (CMM)",
+    "org": "Universidad de Chile / CNRS",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Centro de excelencia internacional (Unidad Mixta Internacional CNRS): física computacional, dinámica de sistemas complejos, algoritmos de optimización para minería y biofísica computacional.",
+    "fund": "Asignación de investigación según laboratorio",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cmm.uchile.cl",
+    "src": "https://www.cmm.uchile.cl",
+    "note": "Coordinación directa con los laboratorios y áreas temáticas del CMM."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Mercado Libre, NotCo & Falabella Tech (Equipos de Data Science)",
+    "org": "Startups y Empresas Tech en Chile",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago (modalidad híbrida/remota)",
+    "desc": "Equipos avanzados de Data Science, Machine Learning y Algoritmos de Predicción. La rigurosidad analítica y matemática de los ingenieros civiles físicos es altamente apreciada para modelar redes neuronales y optimización a gran escala.",
+    "fund": "Práctica remunerada competitiva (~$400.000–$650.000/mes) + equipamiento",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://careers-meli.mercadolibre.com",
+    "src": "https://www.linkedin.com/jobs",
+    "note": "Buscar vacantes de 'Intern / Práctica Data Science' en sus portales de talento."
+  },
+  {
+    "kind": [
+      "ind"
+    ],
+    "name": "Portales Generales de Práctica Industrial",
+    "org": "Bolsa de Empleo USM · Practicas.cl · LinkedIn",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Plataformas de búsqueda continua para Práctica Industrial (I) en industrias manufactureras, laboratorios de control de calidad, plantas químicas, embotelladoras y fundiciones a lo largo de todo Chile.",
+    "fund": "Asignaciones variables según empresa",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.linkedin.com/jobs",
+    "src": "https://www.usm.cl",
+    "note": "Revisar semanalmente con alertas de búsqueda configuradas."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "MPQ — Max Planck Institute of Quantum Optics",
+    "org": "Max Planck Society",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Garching, Alemania",
+    "desc": "Pasantías de investigación en computación cuántica, óptica cuántica, simulación y attosegundos (laboratorios de Immanuel Bloch, Ignacio Cirac, etc.).",
+    "fund": "Estipendio mensual (~€900–1.100/mes) según grupo de investigación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.mpq.mpg.de/career",
+    "src": "https://www.mpq.mpg.de",
+    "note": "Postulación por contacto directo con directores de división o vía portal de vacantes."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "MPI for Biophysics (Pasantías de investigación)",
+    "org": "Max Planck Institute of Biophysics",
+    "area": "Biofísica",
+    "scope": "Internacional",
+    "city": "Frankfurt am Main, Alemania",
+    "desc": "Biofísica molecular y estructural, biología de membranas, criomicroscopía electrónica y simulación de dinámica molecular.",
+    "fund": "Contrato de estudiante de investigación / estipendio mensual",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.biophys.mpg.de/career",
+    "src": "https://www.biophys.mpg.de",
+    "note": "Revisar posiciones abiertas para estudiantes de pregrado (HiWi / intern) o contactar al PI."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Quantitative Trading / Research Internships",
+    "org": "Jane Street · Citadel · Susquehanna (SIG)",
+    "area": "Econofísica y finanzas",
+    "scope": "Internacional",
+    "city": "Nueva York / Londres / Remoto",
+    "desc": "Trading cuantitativo y modelamiento estocástico de mercados. Buscan activamente físicos y matemáticos por su habilidad en resolución de problemas complejos.",
+    "fund": "Altamente remunerada (salario competitivo global + pasajes + alojamiento corporativo)",
+    "req": "No informados",
+    "deadline": "2026-12-31",
+    "status": "abierta",
+    "apply": "https://www.janestreet.com/join-jane-street/programs-and-events/",
+    "src": "https://www.janestreet.com",
+    "note": "Postulaciones abiertas para el verano del hemisferio norte (jun–ago 2027). Muy selectivo."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Advanced Analytics & Quant Consulting",
+    "org": "McKinsey QuantumBlack · BCG X Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Consultoría estratégica de analítica avanzada, machine learning aplicado y modelamiento predictivo en minería, retail y banca chilena.",
+    "fund": "Práctica pagada (arriba del mercado local)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.mckinsey.com/capabilities/quantumblack/careers",
+    "src": "https://www.mckinsey.com",
+    "note": "Postulaciones a través de los portales de talento joven de McKinsey y BCG Chile."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Laboratorio de Biofísica y Materia Condensada Blanda",
+    "org": "FCFM U. de Chile / PUC Física",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Estudios experimentales y teóricos de reología celular, motilidad bacteriana, pinzas ópticas y materia activa.",
+    "fund": "Posible viático / financiamiento de proyecto FONDECYT/Millennium",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://fisica.fcfm.uchile.cl",
+    "src": "https://fisica.fcfm.uchile.cl",
+    "note": "Convenios interuniversitarios facilitan la estadía de investigación de verano."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Colbún — Energía Renovable y Almacenamiento",
+    "org": "Colbún S.A.",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Quillota (V Región) / Santiago / Faenas",
+    "desc": "Prácticas en plantas de generación térmica, parques solares/eólicos, sistemas BESS de baterías y optimización del despacho energético.",
+    "fund": "Asignación mensual de práctica + transporte",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.colbun.cl/trabaja-con-nosotros",
+    "src": "https://www.colbun.cl",
+    "note": "Complejo Nehuenco en Quillota queda muy cercano a Valparaíso. Convocatoria de verano ~octubre."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Laboratorio de Información Cuántica UdeC",
+    "org": "Universidad de Concepción",
+    "area": "Cuántica",
+    "scope": "Chile",
+    "city": "Concepción",
+    "desc": "Líneas de investigación en óptica cuántica experimental, comunicación cuántica satelital y criptografía (QKD).",
+    "fund": "Apoyo de proyecto según disponibilidad",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "http://optica.udec.cl/",
+    "src": "http://optica.udec.cl/",
+    "note": "Colaboran estrechamente con el Instituto Milenio MIRO."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "SeQure Quantum (Criptografía Cuántica & QRNG)",
+    "org": "SeQure Quantum (Spin-off UdeC / MIRO)",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Concepción / Santiago / Remoto",
+    "desc": "Pioneros en América Latina en hardware de ciberseguridad cuántica: desarrollo de generadores cuánticos de números aleatorios (QRNG), óptica integrada y criptografía post-cuántica (PQC).",
+    "fund": "Práctica remunerada / contratos para tesistas y desarrolladores de hardware",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://sequrequantum.com/",
+    "src": "https://sequrequantum.com/",
+    "note": "Spin-off premiado como Startup del Año; contacto a través de su formulario o LinkedIn."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "CoreDevX (Computación Cuántica, Robótica & IA)",
+    "org": "CoreDevX — Lab de I+D y Tecnologías de Frontera",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Providencia)",
+    "desc": "Centro de desarrollo e innovación aplicada: investigación y prototipado en computación cuántica (algoritmos Qiskit), robótica con ROS e integración de modelos de IA con hardware.",
+    "fund": "Práctica profesional y pasantías remuneradas",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://coredevx.com/site/",
+    "src": "https://coredevx.com/",
+    "note": "Mantienen convenios de pasantías con universidades chilenas; vacantes en Get on Board y portal corporativo."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Synopsys Chile (Diseño de Microchips & EDA)",
+    "org": "Synopsys Inc. — Centro de I+D Chile",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Vitacura)",
+    "desc": "Líder mundial en automatización del diseño electrónico (EDA) y semiconductores. En su centro de Vitacura desarrollan algoritmos para la física y modelamiento de circuitos integrados a escala nanométrica.",
+    "fund": "Pasantías de alto nivel remuneradas + beneficios",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.synopsys.com/careers.html",
+    "src": "https://www.synopsys.com/",
+    "note": "Convenios con centros como AC3E y universidades chilenas para memorias y pasantías en microelectrónica."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Lihuen Quantum (Láseres & Hardware Óptico Cuántico)",
+    "org": "Lihuen Quantum (Startup Ciencia ANID)",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Concepción / Santiago",
+    "desc": "Fabricación nacional de sistemas láser ultraestables e instrumentación óptica de precisión para laboratorios de información cuántica y metrología.",
+    "fund": "Asignación según fondos de proyecto ANID",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://uchile.cl",
+    "src": "https://anid.cl",
+    "note": "Iniciativa surgida en laboratorios de física de la UdeC y U. de Chile con apoyo de Startup Ciencia."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "MiningTAG & Enaex Robótica (Sensores & Robótica Extrema)",
+    "org": "MiningTAG · Enaex Robotics",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago / Faenas",
+    "desc": "Diseño y fabricación de hardware tecnológico chileno: sensores de telemetría física subterránea (RFID de largo alcance, acústica) y robots autónomos para carguío de explosivos.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miningtag.com/",
+    "src": "https://enaex.com/",
+    "note": "Oportunidades publicadas en sus plataformas o envío de CV a talento joven."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Southern Rock Geophysics (Exploración Geofísica)",
+    "org": "Southern Rock Geophysics",
+    "area": "Geofísica de Exploración",
+    "scope": "Chile",
+    "city": "Santiago / Antofagasta",
+    "desc": "Adquisición y procesamiento de datos geofísicos de alta resolución para la gran minería y aguas subterráneas: magnetometría terrestre/drone, sondeos electromagnéticos (TEM) y gravimetría.",
+    "fund": "Práctica remunerada + viáticos y traslados de faena",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://southernrockgeophysics.com/",
+    "src": "https://southernrockgeophysics.com/",
+    "note": "Física experimental aplicada directamente en campañas en el norte de Chile."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Zonge International Chile (Métodos Eléctricos & EM)",
+    "org": "Zonge International",
+    "area": "Geofísica de Exploración",
+    "scope": "Chile",
+    "city": "Santiago / Terreno",
+    "desc": "Especialistas globales en prospección eléctrica: polarización inducida compleja (CR), resistividad e inversión numérica 2D/3D para depósitos minerales y recursos hídricos.",
+    "fund": "Asignación mensual de práctica + campamento",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://zonge.com/",
+    "src": "https://zonge.com/",
+    "note": "Recepción continua de CV para estudiantes interesados en geofísica aplicada."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Geoexploraciones / Fugro Chile",
+    "org": "Geoexploraciones S.A. · Fugro",
+    "area": "Geofísica de Exploración",
+    "scope": "Chile",
+    "city": "Santiago / Faenas mineras y marinas",
+    "desc": "Prospección geofísica marina y terrestre: sísmica de refracción/reflexión (MASW), georadar (GPR), batimetría acústica e hidrogeología física.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.geoexploraciones.cl/",
+    "src": "https://www.fugro.com/",
+    "note": "Postulaciones a través de su portal de contacto."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "SGS Chile — División Ensayos No Destructivos (END)",
+    "org": "SGS del Perú y Chile",
+    "area": "Ensayos No Destructivos (END)",
+    "scope": "Chile",
+    "city": "Santiago / Antofagasta / Concepción",
+    "desc": "Ensayos físicos de integridad estructural: ultrasonido avanzado (Phased Array / TOFD), gammagrafía industrial, emisión acústica y partículas magnéticas en infraestructura crítica.",
+    "fund": "Práctica profesional remunerada + seguro",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.sgs.cl/es-es/our-services/industrial-manufacturing/industrial-and-asset-integrity-services/non-destructive-testing-ndt",
+    "src": "https://www.sgs.cl/",
+    "note": "Líder global en inspección técnica; vacantes frecuentes de prácticas en sus bases regionales."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "TÜV Rheinland Chile (Integridad de Materiales & Acústica)",
+    "org": "TÜV Rheinland Group",
+    "area": "Ensayos No Destructivos (END)",
+    "scope": "Chile",
+    "city": "Santiago (Providencia / Pudahuel)",
+    "desc": "Laboratorios de física de materiales, inspección de soldaduras de alta presión, ensayos acústicos y verificación física de plantas termosolares y eólicas.",
+    "fund": "Asignación mensual de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.tuv.com/chile/es/",
+    "src": "https://www.tuv.com/",
+    "note": "Postulaciones periódicas a través de LinkedIn y portal de empleo."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Bureau Veritas / CESMEC (Física de Materiales)",
+    "org": "Bureau Veritas Chile · CESMEC",
+    "area": "Ensayos No Destructivos (END)",
+    "scope": "Chile",
+    "city": "Santiago / Valparaíso / Antofagasta",
+    "desc": "Laboratorio nacional de calibración y certificación: mecánica de fractura, radiografía con acelerador de partículas, espectrometría óptica y ensayos no destructivos.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.bureauveritas.cl/",
+    "src": "https://www.bureauveritas.cl/",
+    "note": "Amplia presencia en la Región de Valparaíso y Metropolitana."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "INAPI — Examen de Patentes de Invención",
+    "org": "Instituto Nacional de Propiedad Industrial (INAPI)",
+    "area": "Propiedad Intelectual y Patentes",
+    "scope": "Chile",
+    "city": "Santiago (modalidad híbrida/remota)",
+    "desc": "Análisis de novedad y mérito inventivo en solicitudes de patentes de nuevas tecnologías: física del estado sólido, microelectrónica, dispositivos médicos, óptica y mecánica avanzada.",
+    "fund": "Convenio de práctica profesional universitaria",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.inapi.cl/",
+    "src": "https://www.inapi.cl/",
+    "note": "Entorno ideal para entender cómo se protege y valoriza la tecnología de frontera a nivel global."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Sargent & Krahn (Consultoría de Patentes Científicas)",
+    "org": "Sargent & Krahn (Líder en Propiedad Intelectual)",
+    "area": "Propiedad Intelectual y Patentes",
+    "scope": "Chile",
+    "city": "Santiago (Las Condes / Híbrido)",
+    "desc": "Área de patentes e invenciones: redacción técnica y asesoría a centros científicos y empresas multinacionales para patentar hardware, nanotecnología y algoritmos.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.sargent.cl/",
+    "src": "https://www.sargent.cl/",
+    "note": "Los ingenieros físicos son sumamente valorados en estudios de patentes por su comprensión transversal de la ciencia."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "ClarkeModet Chile (Transferencia Tecnológica & Patentes)",
+    "org": "ClarkeModet",
+    "area": "Propiedad Intelectual y Patentes",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Auditoría de activos tecnológicos, vigilancia tecnológica y redacción de memorias de invención en telecomunicaciones, sensores y biotecnología.",
+    "fund": "Práctica remunerada",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.clarkemodet.com/contacto/chile/",
+    "src": "https://www.clarkemodet.com/",
+    "note": "Enviar manifestación de interés al departamento técnico de patentes."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Beca MEXT de Pregrado (Gobierno de Japón)",
+    "org": "Embajada de Japón en Chile / Monbukagakusho",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Japón (Tokio, Kioto, Osaka, etc.)",
+    "desc": "Beca completa para realizar una carrera universitaria completa de 5 años en Japón (incluye 1 año preparatorio intensivo de idioma japonés).",
+    "fund": "100% matrícula + estipendio mensual (~117.000 JPY) + pasajes aéreos ida y vuelta",
+    "req": "Nacionalidad chilena; 17 a 24 años; rendir exámenes de selección en la Embajada.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.cl.emb-japan.go.jp/itpr_es/cultura_becas_estudiar.html",
+    "src": "https://www.cl.emb-japan.go.jp",
+    "note": "Abre entre abril y junio de cada año. Muy prestigiosa y completa si se desea estudiar en Japón."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Beca MEXT de Posgrado e Investigación (Kenkyusei)",
+    "org": "Embajada de Japón en Chile / Monbukagakusho",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Japón (Tokio, Kioto, Osaka, Sendai, etc.)",
+    "desc": "Beca integral del gobierno japonés para realizar estadías de investigación, maestría o doctorado en física e ingeniería en universidades japonesas de primer nivel.",
+    "fund": "100% matrícula + estipendio mensual (~143.000 - 145.000 JPY) + pasajes aéreos ida y vuelta",
+    "req": "Nacionalidad chilena; menores de 35 años; egresados o cursando el último año de pregrado (graduación previa al viaje).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.cl.emb-japan.go.jp/itpr_es/cultura_becas_estudiar.html",
+    "src": "https://www.cl.emb-japan.go.jp",
+    "note": "Abre anualmente entre abril y junio. Ideal para estudiantes de 4to-5to año que planean posgrado o investigación avanzada en Japón."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "GitHub Student Developer Pack (Copilot, JetBrains, Azure y más)",
+    "org": "GitHub Education",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Acceso 100% gratuito a GitHub Copilot (asistente IA), licencias Pro de JetBrains,  USD en DigitalOcean, dominios .me gratis en Namecheap, Stripe, Termius y más de 80 herramientas líderes de desarrollo.",
+    "fund": "Herramientas valoradas en más de .000 USD gratuitas",
+    "req": "Correo institucional activo (@usm.cl u otra universidad) o certificado de alumno regular.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://education.github.com/pack",
+    "src": "https://education.github.com",
+    "note": "El beneficio estrella para cualquier estudiante de ciencias e ingeniería. Se renueva anualmente mientras seas estudiante."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "JetBrains All Products Pack (CLion, PyCharm Pro, DataSpell)",
+    "org": "JetBrains",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Suite completa de los mejores IDEs profesionales: CLion (C/C++ para simulación y hardware), PyCharm Professional (Python científico y web), DataSpell (Data Science), IntelliJ IDEA Ultimate y RustRover.",
+    "fund": "100% gratis (precio regular ~ USD/año)",
+    "req": "Correo institucional activo (@usm.cl o dominio .cl universitario).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.jetbrains.com/community/education/#students",
+    "src": "https://www.jetbrains.com",
+    "note": "Activación instantánea confirmando el enlace enviado a tu correo universitario."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Wolfram Mathematica & Wolfram|Alpha Pro (Campus License)",
+    "org": "Wolfram Research / UTFSM",
+    "area": "Software & Cloud",
+    "scope": "Chile",
+    "city": "Valparaíso / Santiago (Online)",
+    "desc": "Licencia completa del software estándar para cálculo simbólico, álgebra computacional, física matemática y ecuaciones diferenciales. Incluye acceso ilimitado a Wolfram Cloud y Wolfram|Alpha Pro.",
+    "fund": "100% gratuito bajo convenio de campus institucional",
+    "req": "Estudiante regular de la UTFSM (usar correo @usm.cl o @sansano.usm.cl en el portal Wolfram).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://user.wolfram.com/portal/requestLicense.html",
+    "src": "https://www.wolfram.com",
+    "note": "Fundamental para ramos teóricos de física, mecánica analítica, cuántica y métodos matemáticos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "MATLAB & Simulink Campus-Wide License",
+    "org": "MathWorks / UTFSM",
+    "area": "Software & Cloud",
+    "scope": "Chile",
+    "city": "Valparaíso / Santiago (Online)",
+    "desc": "Acceso ilimitado y gratuito a MATLAB, Simulink y más de 100 toolboxes especializadas (Optimization, Signal Processing, Partial Differential Equations, Deep Learning, Image Processing).",
+    "fund": "100% gratuito con licencia de campus completa",
+    "req": "Iniciar sesión en el portal MathWorks con credenciales institucionales UTFSM.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://la.mathworks.com/academia/tah-portal/universidad-tecnica-federico-santa-maria-31448821.html",
+    "src": "https://la.mathworks.com",
+    "note": "Permite instalación en computadores personales y uso en navegadores vía MATLAB Online."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Autodesk Education Plan (Fusion 360, AutoCAD, Inventor)",
+    "org": "Autodesk",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Acceso educacional completo a software de modelado 3D, diseño mecánico asistido por computadora (CAD/CAM/CAE), simulación de esfuerzos y preparación para manufactura e impresión 3D.",
+    "fund": "100% gratis por 1 año (renovable anualmente)",
+    "req": "Validación con correo universitario o subiendo certificado de alumno regular en SheerID.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.autodesk.com/education/edu-software/overview",
+    "src": "https://www.autodesk.com",
+    "note": "Indispensable para diseño de instrumental experimental, piezas de laboratorio y prototipos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Microsoft Azure for Students & Office 365 Education",
+    "org": "Microsoft",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": " USD en créditos de Azure Cloud renovables anualmente sin necesidad de tarjeta de crédito, acceso gratuito a máquinas virtuales Linux/Windows, bases de datos SQL y suite Office 365 (Word, Excel, PowerPoint, 1TB OneDrive).",
+    "fund": " USD en créditos cloud + Office 365 ProPlus gratis",
+    "req": "Correo institucional universitario (@usm.cl).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://azure.microsoft.com/es-es/free/students/",
+    "src": "https://azure.microsoft.com",
+    "note": "Excelente para montar servidores de cómputo, pipelines de datos y simulaciones en la nube."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Notion Plus para Estudiantes (Espacio Pro Gratuito)",
+    "org": "Notion Labs",
+    "area": "Productividad & Estudio",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Actualización gratuita al plan Notion Plus con bloques ilimitados, subida de archivos sin límite de peso, historial de versiones de 30 días e invitación a colaboradores ilimitados.",
+    "fund": "100% gratuito (ahorro de ~ USD/año)",
+    "req": "Registrar la cuenta de Notion con correo institucional (@usm.cl).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.notion.so/es-es/product/notion-for-education",
+    "src": "https://www.notion.so",
+    "note": "La herramienta preferida para tomar apuntes de física, fórmulas LaTeX, bitácoras de laboratorio y organización de proyectos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Figma for Education (Figma Pro & FigJam Gratuito)",
+    "org": "Figma",
+    "area": "Diseño & Presentación",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Acceso completo al plan Figma Professional y FigJam para diseño colaborativo en tiempo real, esquemas de sistemas físicos, arquitectura de software y diagramas para papers y presentaciones.",
+    "fund": "100% gratis por 2 años renovables",
+    "req": "Verificación de condición de estudiante con correo universitario.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.figma.com/education/",
+    "src": "https://www.figma.com",
+    "note": "Ideal para crear figuras vectoriales nítidas para memorias, pósters de congresos e informes."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Spotify Premium para Estudiantes Universitarios",
+    "org": "Spotify Chile",
+    "area": "Lifestyle & Streaming",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Plan Spotify Premium individual con 50% de descuento sobre el precio regular para escuchar música y podcasts sin anuncios y con descargas offline.",
+    "fund": "50% de descuento (~.500 CLP/mes)",
+    "req": "Acreditación de estudiante universitario regular a través de SheerID.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.spotify.com/cl/student/",
+    "src": "https://www.spotify.com",
+    "note": "Renovable hasta por un máximo de 4 años mientras dure tu condición de alumno regular."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "YouTube Premium para Estudiantes",
+    "org": "Google / YouTube",
+    "area": "Lifestyle & Streaming",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Descuento especial de casi 50% en suscripción mensual a YouTube Premium para ver conferencias, clases magistrales y contenido sin anuncios, con reproducción en segundo plano y YouTube Music incluido.",
+    "fund": "Tarifa reducida (~.890 CLP/mes vs ~.900 CLP)",
+    "req": "Verificación anual de matrícula a través de SheerID.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.youtube.com/premium/student",
+    "src": "https://www.youtube.com",
+    "note": "Muy útil para ver cursos largos del MIT, Stanford o ICTP sin interrupciones publicitarias."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Apple Education Pricing & Apple Music Estudiantes",
+    "org": "Apple Chile / MacOnline",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Descuentos directos en compra de Mac (MacBook Air/Pro) y iPad para educación en tiendas oficiales, además de tarifa reducida en Apple Music (~.250 CLP/mes) que incluye suscripción a Apple TV+ sin costo adicional.",
+    "fund": "Descuentos de hasta .000 - .000 CLP en equipos + Apple TV+ gratis con Music",
+    "req": "Presentar certificado de alumno regular o validar correo institucional en la plataforma de compras.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.apple.com/cl-edu/store",
+    "src": "https://www.apple.com",
+    "note": "En cada inicio de semestre escolar suelen regalar AirPods o Apple Pencil con la compra de iPads/Macs."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Samsung Portal Estudiantes Chile",
+    "org": "Samsung Chile",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Portal de compras con descuentos de entre 20% y 40% en tablets Galaxy Tab (con S-Pen incluido, muy populares para tomar apuntes y leer papers), laptops Galaxy Book, monitores y smartphones.",
+    "fund": "Hasta 40% de descuento directo en hardware tecnológico",
+    "req": "Registro y acceso con correo universitario oficial (@usm.cl u otro).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://shop.samsung.cl/estudiantes",
+    "src": "https://shop.samsung.cl",
+    "note": "Acceso exclusivo ingresando directamente el correo institucional para desbloquear la tienda con precios rebajados."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Ansys Student (Simulación Multifísica y Elementos Finitos)",
+    "org": "Ansys, Inc.",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Versión académica gratuita del software estándar en ingeniería para análisis de mecánica estructural (FEA), fluidodinámica computacional (CFD), electromagnetismo y óptica de alta precisión.",
+    "fund": "100% gratuito para fines académicos y de estudio",
+    "req": "Estudiante universitario (descarga directa sin costo).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.ansys.com/academic/students",
+    "src": "https://www.ansys.com",
+    "note": "Crucial para estudiantes con interés en física aplicada, mecánica de fluidos, plasmas y materiales."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Tableau for Students (Tableau Desktop & Prep)",
+    "org": "Tableau / Salesforce",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia individual gratuita por 1 año renovable de Tableau Desktop y Tableau Prep Builder para visualización avanzada de datos, creación de dashboards interactivos y exploración analítica.",
+    "fund": "100% gratis (precio comercial ~ USD/año)",
+    "req": "Certificado de alumno regular o credencial universitaria vigente.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.tableau.com/academic/students",
+    "src": "https://www.tableau.com",
+    "note": "Muy valorado en consultoría cuantitativa, finanzas, analítica de datos e inteligencia de negocios."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Overleaf Pro / Community (Editor LaTeX Colaborativo)",
+    "org": "Overleaf (Digital Science)",
+    "area": "Productividad & Estudio",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Editor de LaTeX en la nube líder en física y matemáticas. Permite redactar informes, tesis y papers en equipo, con vista previa inmediata en PDF, integración con Git y exportación directa a arXiv.",
+    "fund": "Versión estándar gratuita + descuentos educativos o convenios institucionales",
+    "req": "Registro con correo universitario para detectar convenios y grupos de trabajo.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.overleaf.com/for/students",
+    "src": "https://www.overleaf.com",
+    "note": "La herramienta universal en los departamentos de física para escribir memorias y papers científicos."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Canva Pro for Students (Vía GitHub Student Pack)",
+    "org": "Canva Education",
+    "area": "Diseño & Presentación",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Suscripción gratuita a Canva Pro con acceso a millones de plantillas premium, gráficos vectoriales, removedor de fondos con IA y herramientas para diseñar afiches y presentaciones de alto impacto.",
+    "fund": "1 año 100% gratis a través del GitHub Student Developer Pack",
+    "req": "Tener activado previamente el GitHub Student Pack.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.canva.com/education/students/",
+    "src": "https://www.canva.com",
+    "note": "Ideal para armar pósters científicos para congresos de física sin pelear con diseño gráfico desde cero."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "1Password for Students (Gestor de Contraseñas)",
+    "org": "1Password",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "1 año gratuito de suscripción al gestor de contraseñas y llaves de acceso líder, para proteger credenciales de servidores SSH, cuentas de correo, tokens de API y servicios de investigación.",
+    "fund": "1 año 100% gratuito (vía GitHub Student Pack)",
+    "req": "Activación a través de GitHub Student Developer Pack.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://education.github.com/pack",
+    "src": "https://1password.com",
+    "note": "Recomendado para mantener seguras las contraseñas complejas de clústeres de cómputo y servidores."
+  }
+];
+
+const today = new Date(); today.setHours(0,0,0,0);
+const fmt = new Intl.DateTimeFormat("es-CL", {day:"numeric", month:"short", year:"numeric"});
+const KIND = {beca:"Beca / Pasantía", ind:"Práctica industrial", prof:"Práctica profesional", desc:"Descuento Estudiantil"};
+const favs = new Set(JSON.parse(localStorage.getItem("radarFisica_favs")||"[]"));
+const saveFavs = ()=>localStorage.setItem("radarFisica_favs", JSON.stringify([...favs]));
+
+DATA.forEach(o=>{
+  o.id = o.name;
+  if(o.deadline){
+    o._days = Math.ceil((new Date(o.deadline+"T23:59:59") - today)/864e5);
+    if(o._days < 0){
+      o.status = "reabre";
+      o.note = (o.note ? o.note+" " : "") + "(plazo cerrado)";
+      o.deadline = null;
+      o._days = null;
+    }
+  }
+});
+
+const order = {abierta:0, permanente:1, reabre:2};
+DATA.sort((a,b)=>order[a.status]-order[b.status] || (a._days??999)-(b._days??999));
+
+function badge(o){
+  if(o.status==="permanente") return {cls:"b-gray", main:"Permanente", sub:"postulación continua"};
+  if(o.status==="reabre") return {cls:"b-purple", main:"Reabre pronto", sub:"vigilar portal"};
+  if(!o.deadline) return {cls:"b-green", main:"Abierta", sub:"ver portal"};
+  try {
+    const d = o._days;
+    const cls = (d!=null && d<=7) ? "b-red" : (d!=null && d<=21) ? "b-orange" : "b-green";
+    const dateObj = new Date(o.deadline+"T12:00:00");
+    if(isNaN(dateObj.getTime())) return {cls:"b-green", main:"Abierta", sub:"ver portal"};
+    const sub = d===0 ? "¡hoy!" : d===1 ? "mañana" : (d!=null ? d+" días" : "activa");
+    return {cls, main:fmt.format(dateObj), sub};
+  } catch(e) {
+    return {cls:"b-green", main:"Abierta", sub:"ver portal"};
+  }
+}
+
+const state = {kind:"all", q:"", area:"all", scope:"all", status:"all"};
+
+function buildTabs(){
+  const defs=[
+    ["all","Todo",DATA.length],
+    ["prof","Práctica profesional",DATA.filter(o=>o.kind.includes("prof")).length],
+    ["ind","Práctica industrial",DATA.filter(o=>o.kind.includes("ind")).length],
+    ["beca","Becas y Movilidad",DATA.filter(o=>o.kind.includes("beca")).length],
+    ["desc","🎁 Descuentos Estudiantiles",DATA.filter(o=>o.kind.includes("desc")).length],
+    ["fav","⭐ Favoritos",favs.size]
+  ];
+  document.getElementById("tabs").innerHTML = defs.map(([k,l,n])=>{
+    return `<div class="tab${state.kind===k?' on':''}" data-k="${k}"><div class="n">${n}</div><div class="l">${l}</div></div>`;
+  }).join("");
+}
+
+document.getElementById("tabs").addEventListener("click", e=>{
+  const t = e.target.closest(".tab"); if(!t) return;
+  state.kind = t.dataset.k;
+  render();
+});
+
+function buildAreaSelect(){
+  const select = document.getElementById("areaSelect");
+  const areas = [...new Set(DATA.map(o=>o.area))].sort();
+  select.innerHTML = `<option value="all">Todas las áreas (${DATA.length})</option>` + 
+    areas.map(a=>{
+      const count = DATA.filter(o=>o.area===a).length;
+      return `<option value="${a}">${a} (${count})</option>`;
+    }).join("");
+  
+  select.addEventListener("change", e=>{
+    state.area = e.target.value;
+    render();
+  });
+}
+buildAreaSelect();
+
+function buildChips(id, items, key){
+  const c = document.getElementById(id);
+  [["all","Todas"],...items.map(x=>Array.isArray(x)?x:[x,x])].forEach(([v,l])=>{
+    const el = document.createElement("span");
+    el.className = "chip" + (v==="all"?" on":"");
+    el.textContent = l;
+    el.dataset.val = v;
+    c.appendChild(el);
+  });
+  c.addEventListener("click", e=>{
+    if(!e.target.dataset.val) return;
+    state[key] = e.target.dataset.val;
+    c.querySelectorAll(".chip").forEach(ch=>ch.classList.toggle("on", ch.dataset.val===state[key]));
+    render();
+  });
+}
+buildChips("fScope", ["Chile","Internacional"], "scope");
+buildChips("fStatus", [["abierta","Abiertas"],["permanente","Permanentes"],["reabre","Reabren"]], "status");
+
+document.getElementById("search").addEventListener("input", e=>{
+  state.q = e.target.value.toLowerCase().trim();
+  render();
+});
+
+const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function match(o){
+  if(state.kind==="fav" ? !favs.has(o.id) : (state.kind!=="all" && !o.kind.includes(state.kind))) return false;
+  if(state.area!=="all" && o.area!==state.area) return false;
+  if(state.scope!=="all" && o.scope!==state.scope) return false;
+  if(state.status!=="all" && o.status!==state.status) return false;
+  if(state.q){
+    const hay = (o.name+" "+o.org+" "+o.city+" "+o.desc+" "+o.area+" "+(o.req||"")+" "+(o.note||"")).toLowerCase();
+    if(!hay.includes(state.q)) return false;
+  }
+  return true;
+}
+
+function getGCalUrl(o){
+  if(!o.deadline) return null;
+  const d = o.deadline.replace(/-/g,"");
+  const dates = d + "/" + d;
+  const title = encodeURIComponent("Deadline: " + o.name);
+  const details = encodeURIComponent(o.desc + "\n\nEnlace: " + o.apply);
+  const loc = encodeURIComponent(o.org + " (" + o.city + ")");
+  return `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${title}&dates=${dates}&details=${details}&location=${loc}`;
+}
+
+function card(o){
+  try {
+    const b = badge(o);
+    const mainKind = (o.kind && o.kind[0]) || "prof";
+    const kt = (o.kind || []).map(k=>`<span class="tag t-${k}">${KIND[k]||k}</span>`).join("");
+    const gcal = getGCalUrl(o);
+    
+    return `<div class="card k-${mainKind}${favs.has(o.id)?' fav':''}">
+      <div class="card-top">
+        <div>
+          <div class="inst">${esc(o.name)}</div>
+          <div class="pi">${esc(o.org)}</div>
+        </div>
+        <div class="badge ${b.cls}">${esc(b.main)}<small>${esc(b.sub)}</small></div>
+      </div>
+      <div class="tags">
+        ${kt}
+        <span class="tag area">${esc(o.area)}</span>
+        <span class="tag">📍 ${esc(o.city)}</span>
+        <span class="tag">${esc(o.scope)}</span>
+      </div>
+      <div class="desc">${esc(o.desc)}</div>
+      <div class="fund">💰 ${esc(o.fund)}</div>
+      ${o.req ? `<div class="req"><b>Requisitos:</b> ${esc(o.req)}</div>` : ""}
+      ${o.note ? `<div class="note">${esc(o.note)}</div>` : ""}
+      <div class="links">
+        <a class="lnk apply" href="${esc(o.apply)}" target="_blank" rel="noopener">Postular / Info</a>
+        <a class="lnk src" href="${esc(o.src)}" target="_blank" rel="noopener">Fuente</a>
+        ${gcal ? `<a class="lnk cal" href="${gcal}" target="_blank" rel="noopener" title="Agendar deadline en Google Calendar">📅</a>` : ""}
+        <button class="star${favs.has(o.id)?' on':''}" data-id="${esc(o.id)}" title="Guardar en favoritos">★</button>
+      </div>
+    </div>`;
+  } catch(err) {
+    console.error("Error rendering card:", o, err);
+    return "";
+  }
+}
+
+document.getElementById("grid").addEventListener("click", e=>{
+  const s = e.target.closest(".star"); if(!s) return;
+  const id = s.dataset.id;
+  favs.has(id) ? favs.delete(id) : favs.add(id);
+  saveFavs();
+  render();
+});
+
+function buildCounters(list){
+  const ab = list.filter(o=>o.status==="abierta");
+  const defs = [
+    ["c-red", ab.filter(o=>o._days<=7).length, "≤ 7 días"],
+    ["c-orange", ab.filter(o=>o._days>7 && o._days<=21).length, "≤ 21 días"],
+    ["c-green", ab.length, "con plazo abierto"],
+    ["c-gray", list.filter(o=>o.status==="permanente").length, "permanentes"],
+    ["c-purple", list.filter(o=>o.status==="reabre").length, "reabren pronto"]
+  ];
+  document.getElementById("counters").innerHTML = defs.map(([c,n,l])=>{
+    return `<div class="counter ${c}"><b>${n}</b>${l}</div>`;
+  }).join("");
+}
+
+function render(){
+  buildTabs();
+  const list = DATA.filter(match);
+  buildCounters(list);
+  document.getElementById("grid").innerHTML = list.map(card).join("");
+  document.getElementById("empty").style.display = list.length ? "none" : "block";
+}
+
+const modalOverlay = document.getElementById("modalOverlay");
+document.getElementById("btnModal").addEventListener("click", ()=>modalOverlay.classList.add("open"));
+document.getElementById("modalClose").addEventListener("click", ()=>modalOverlay.classList.remove("open"));
+modalOverlay.addEventListener("click", e=>{ if(e.target===modalOverlay) modalOverlay.classList.remove("open"); });
+
+document.getElementById("btnExport").addEventListener("click", ()=>{
+  if(favs.size===0){
+    alert("No tienes favoritos guardados aún. Haz clic en la estrella ⭐ de cualquier oportunidad para guardarla.");
+    return;
+  }
+  const favItems = DATA.filter(o=>favs.has(o.id));
+  let text = "=== MIS OPORTUNIDADES GUARDADAS · RADAR FÍSICA (NachoFari) ===\n\n";
+  favItems.forEach((o, i)=>{
+    text += `${i+1}. ${o.name} — ${o.org}\n`;
+    text += `   Área: ${o.area} | Ámbito: ${o.scope} (${o.city})\n`;
+    text += `   Plazo: ${o.deadline || o.status}\n`;
+    text += `   Postular: ${o.apply}\n\n`;
+  });
+  navigator.clipboard.writeText(text).then(()=>{
+    alert(`¡Se copiaron ${favItems.length} favoritos al portapapeles!`);
+  }).catch(()=>{
+    alert(text);
+  });
+});
+
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+name: Weekly Radar Health Check
+
+on:
+  schedule:
+    # Run every Monday at 12:00 UTC (09:00 AM Chile time)
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Audit deadlines and data consistency
+        run: |
+          python -c "
+          import json, datetime
+          with open('data/data.json', encoding='utf-8') as f:
+              data = json.load(f)
+          today = datetime.date.today()
+          expired = 0
+          for item in data:
+              dl = item.get('deadline')
+              if dl:
+                  dl_date = datetime.date.fromisoformat(dl)
+                  if dl_date < today:
+                      expired += 1
+                      print(f'Expired deadline: {item[\"name\"]} ({dl})')
+          print(f'Audit complete. Total items: {len(data)}, expired deadlines requiring update: {expired}')
+          "
