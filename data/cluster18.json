@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelos de Riesgo Financiero y Data & Analytics",
+    "org": "BCI (Banco de Crédito e Inversiones)",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional y pasantía orientada al desarrollo, calibración y backtesting de modelos cuantitativos de riesgo financiero (riesgo de crédito, mercado y liquidez), modelos predictivos de comportamiento de clientes y algoritmos de Machine Learning en la División de Data & Analytics y Riesgo Financiero de BCI.",
+    "fund": "Asignación mensual de práctica profesional, seguro complementario y modalidad de trabajo híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://trabajaenbci.cl/",
+    "src": "https://www.bci.cl/",
+    "note": "Excelente oportunidad para estudiantes y licenciados en Física interesados en econofísica, física estadística, cálculo estocástico y ciencia de datos aplicada a sistemas financieros complejos y gestión cuantitativa del riesgo."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelos de Riesgo de Crédito y Mercado",
+    "org": "Scotiabank Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Pasantía en la Gerencia de Modelos de Riesgo de Scotiabank Chile, participando en la formulación matemática, estimación estadística y validación de modelos cuantitativos de riesgo crediticio (PD, LGD, EAD, IFRS 9) y modelos de riesgo de mercado (VaR, simulación de Monte Carlo, estrés financiero y derivados).",
+    "fund": "Compensación económica mensual de práctica, seguro de accidentes y modalidad híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.scotiabankchile.cl/acerca-de/trabaja-con-nosotros",
+    "src": "https://www.scotiabankchile.cl/",
+    "note": "Muy formativa para perfiles con sólida base en física teórica y matemática aplicada: modelación estocástica, simulaciones Monte Carlo, análisis de series de tiempo no lineales y programación científica en Python/R/SQL."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelación Actuarial y Modelos Estocásticos",
+    "org": "Consorcio Financiero",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional en la Gerencia Actuarial y de Inversiones de Consorcio, enfocada en la modelación estocástica de reservas de seguros y rentas vitalicias, proyección probabilística de flujos de capital, análisis de longevidad/mortalidad y optimización de portafolios de inversión bajo marcos regulatorios solvencia II.",
+    "fund": "Bono mensual de práctica profesional, colación/tickets de almuerzo y seguro de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.consorcio.cl/trabaja-con-nosotros",
+    "src": "https://www.consorcio.cl/",
+    "note": "Altamente recomendada para físicos y matemáticos interesados en ciencias actuariales, teoría de probabilidades avanzadas, ecuaciones diferenciales estocásticas y métodos de optimización numérica en el sector asegurador y de inversiones."
+  }
+]

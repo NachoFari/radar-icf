@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Acústica y Control de Ruido / Vibraciones",
+    "org": "Gerard Ingeniería Acústica SpA",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional enfocada en medición, modelación y control de ruido y vibraciones ambientales e industriales, monitoreo acústico y ensayos en terreno.",
+    "fund": "Asignación mensual de práctica y movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.gerard.cl/contacto/",
+    "src": "https://www.gerard.cl/",
+    "note": "Idónea para estudiantes de Licenciatura en Física o Ingeniería con interés en acústica aplicada, dinámica estructural y procesamiento de señales."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Control de Ruido y Análisis de Vibraciones",
+    "org": "Silentium SpA",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Desarrollo de proyectos de ingeniería acústica industrial, diseño de soluciones para aislamiento de vibraciones en equipos electromecánicos y modelación acústica.",
+    "fund": "Asignación económica para movilización y colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://silentium.cl/contacto/",
+    "src": "https://silentium.cl/",
+    "note": "Excelente para formación en física aplicada, propagación de ondas mecánicas y simulación en ingeniería acústica."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Mantenimiento Predictivo y Análisis de Vibraciones",
+    "org": "SKF Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Participación en el área de Condition Monitoring Services: diagnóstico de maquinaria rotatoria, adquisición y procesamiento espectral de señales de vibraciones mecánicas y análisis predictivo para faenas mineras e industriales.",
+    "fund": "Asignación mensual de práctica y seguro de accidentes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.skf.com/cl/career",
+    "src": "https://www.skf.com/cl",
+    "note": "Gran oportunidad para aplicar física matemática (transformada de Fourier, armónicos, dinámica clásica) a la confiabilidad y diagnóstico de maquinaria industrial crítica."
+  }
+]

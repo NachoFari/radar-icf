@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ChucaoTech — Nanoburbujas e Instrumentación Física en Acuicultura y Minería",
+    "org": "ChucaoTech",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Llanquihue / Puerto Montt y Santiago",
+    "desc": "Prácticas de ingeniería y física aplicada en el desarrollo, calibración y optimización de generadores de nanoburbujas de alta eficiencia para acuicultura, minería y tratamiento hídrico. Los practicantes participan en análisis de dinámica de fluidos multifásicos, transferencia de masa gas-líquido, caracterización física de burbujas nanométricas (potencial zeta, distribución de tamaño) y desarrollo de instrumentación de monitoreo en tiempo real.",
+    "fund": "Asignación mensual de práctica y asignación de colación/movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://chucaotech.com/",
+    "src": "https://chucaotech.com/",
+    "note": "Ideal para estudiantes con formación en mecánica de fluidos, fisicoquímica de interfaces, óptica/dispersión de luz o instrumentación y sensores. Postulación directa vía sitio web oficial o contacto (info@chucaotech.com)."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "PhageLab — Biofísica y Biotecnología Computacional",
+    "org": "PhageLab",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Macul)",
+    "desc": "Prácticas profesionales enfocadas en el diseño y aplicación de cócteles bacteriófagos personalizados mediante biotecnología profunda y herramientas bioinformáticas/biofísicas. Trabajo en modelación estructural y simulación molecular de interacciones fago-bacteria, análisis de dinámicas de infección a nivel microbiano, procesamiento de datos genómicos masivos y optimización biofísica de formulaciones para producción animal y reducción de antibióticos.",
+    "fund": "Asignación mensual de práctica acorde al sector Deep Tech",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://phage-lab.com/",
+    "src": "https://phage-lab.com/",
+    "note": "Excelente entorno interdisciplinario para estudiantes con interés en biofísica molecular, modelación matemática y computacional de sistemas biológicos y biotecnología de vanguardia. Postulaciones vía communications@phage-lab.com y LinkedIn institucional."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Instacrops — Sensores IoT, Telemetría y Física Agrícola",
+    "org": "Instacrops",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Providencia)",
+    "desc": "Prácticas y memorias en desarrollo e integración de hardware de sensado agroclimático, estaciones telemétricas IoT y algoritmos predictivos. Las actividades incluyen calibración y modelación física de sensores de humedad de suelo por reflectometría dieléctrica (TDR/FDR), radiación solar y transpiración vegetal, análisis de microclimas y modelado del balance hídrico y térmico en cultivos de alta precisión.",
+    "fund": "Asignación mensual para practicantes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://instacrops.ai/",
+    "src": "https://instacrops.ai/",
+    "note": "Alineada con física de sensores, electromagnetismo aplicado en suelos, propagación de ondas de radiofrecuencia (IoT) y termodinámica ambiental. Recepción permanente de antecedentes en contacto@instacrops.com y sección de empleos."
+  }
+]

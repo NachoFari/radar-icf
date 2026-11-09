@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Programa de Líderes Emergentes en las Américas (ELAP - Emerging Leaders in the Americas Program)",
+    "org": "Gobierno de Canadá (Global Affairs Canada / EduCanada)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Diversas ciudades (Canadá)",
+    "desc": "Programa de becas del Gobierno de Canadá que financia intercambios académicos y estancias de investigación de corta duración (de 4 a 6 meses) para estudiantes de pregrado de instituciones de educación superior de América Latina y el Caribe en universidades e institutos canadienses con convenios de colaboración interinstitucional.",
+    "fund": "Asignación de 8.200 CAD para estancias de pregrado de 4 meses (o un término académico/de investigación), destinada a pasajes aéreos, seguro médico, manutención, visado y materiales de estudio.",
+    "req": "Ser estudiante regular matriculado a tiempo completo en una universidad elegible (como universidades chilenas), contar con excelencia académica y respaldo de la institución de origen mediante convenio vigente de intercambio o investigación con la institución canadiense receptora. La postulación oficial la realiza la universidad canadiense anfitriona.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx",
+    "src": "https://www.educanada.ca",
+    "note": "Convocatoria anual que abre comúnmente en enero-febrero y cierra entre marzo y abril de cada año para estancias en el siguiente año académico. La postulación se canaliza a través de la Dirección de Relaciones Internacionales (DRI / OAI) de la universidad de origen."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Mitacs Globalink Research Internship (GRI)",
+    "org": "Mitacs (Canadá)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Diversas ciudades (Canadá)",
+    "desc": "Pasantía intensiva de investigación de 12 semanas (entre mayo y octubre) para estudiantes destacados de pregrado de países socios (incluyendo Chile) en más de 70 universidades canadienses. Los pasantes se integran a proyectos punteros de ciencia, tecnología, ingeniería, física y matemáticas bajo la mentoría y supervisión directa de profesores investigadores canadienses.",
+    "fund": "Beca integral que cubre vuelos de ida y vuelta a Canadá, traslado desde el aeropuerto, estipendio para alojamiento y manutención, seguro médico internacional, exención del arancel universitario, acceso a talleres de desarrollo profesional y asignación de mentores locales.",
+    "req": "Tener calidad de estudiante regular de pregrado en una universidad elegible, tener entre 1 y 3 semestres pendientes antes de graduarse, poseer un promedio de notas sobresaliente (equivalente a percentil superior/requisitos mínimos según escala), nivel intermedio-avanzado comprobable de inglés o francés, y disponibilidad completa de 12 semanas consecutivas.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+    "src": "https://www.mitacs.ca",
+    "note": "Las postulaciones abren regularmente entre julio y septiembre de cada año para realizar la pasantía durante el verano del hemisferio norte (mayo a octubre) del año siguiente. Proceso de postulación directo a través del portal de Mitacs seleccionando proyectos de interés."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Imperial College London — International Research Opportunities Programme (IROP)",
+    "org": "Imperial College London",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Londres (Reino Unido) y Sedes Asociadas",
+    "desc": "Programa de investigación académica estival (de 8 a 10 semanas de duración) organizado por Imperial College London en conjunto con universidades e instituciones asociadas de clase mundial. Permite a estudiantes de pregrado integrarse en laboratorios y grupos de investigación punteros en física, ingeniería y ciencias naturales, participando activamente en proyectos experimentales y computacionales de vanguardia.",
+    "fund": "Asignación de beca/estipendio de investigación (bursary) institucional para cobertura de gastos de manutención y alojamiento durante las 8 a 10 semanas de estancia, complementada por exenciones arancelarias académicas según el acuerdo o esquema departamental.",
+    "req": "Estudiantes regulares de pregrado con trayectoria académica de excelencia (típicamente perfil First Class Honours o percentil superior equivalente), carta de motivación, currículum vitae, expediente académico y cumplimiento de requisitos de visado británico o acuerdos institucionales de intercambio de investigación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.imperial.ac.uk/urop/how-tos/how-to-participate-in-irop/",
+    "src": "https://www.imperial.ac.uk/urop/",
+    "note": "Las convocatorias se coordinan departamentalmente entre el período de invierno y primavera (diciembre a marzo) para ejecutar la investigación durante el receso de verano europeo (julio a septiembre). Se vincula estrechamente con el ecosistema de investigación formativa UROP de Imperial College."
+  }
+]

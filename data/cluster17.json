@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Hatch Ingenieros y Consultores — Procesamiento de Minerales, Pirometalurgia y Simulación",
+    "org": "Hatch Ingenieros y Consultores Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas profesionales y memorias de título en consultoría global de ingeniería de procesos. Desarrollo y calibración de modelos numéricos para pirometalurgia, hidrometalurgia y procesamiento de minerales, incluyendo dinámica de fluidos computacional (CFD), modelado por elementos discretos (DEM) y balances acoplados de masa y energía en reactores industriales y hornos de fusión.",
+    "fund": "Asignación mensual de práctica y movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://jobs.hatch.com/",
+    "src": "https://www.hatch.com/es-cl",
+    "note": "Altamente afín a estudiantes de física e ingeniería interesados en termodinámica de procesos a altas temperaturas, mecánica de fluidos, transferencia de calor y simulación multifísica avanzada."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "WSP Chile — Modelamiento Numérico, Hidrodinámica y Geofísica",
+    "org": "WSP Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas en consultoría de ingeniería y medioambiente en las áreas de recursos hídricos, modelación numérica y geociencias. Participación en simulaciones hidrodinámicas fluviales, marinas y subterráneas, propagación de ondas, transporte de sedimentos y solutos, así como procesamiento de datos geofísicos para obras de infraestructura y proyectos mineros a gran escala.",
+    "fund": "Asignación mensual de práctica y beneficios de empresa",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.wsp.com/es-cl/carreras",
+    "src": "https://www.wsp.com/es-cl",
+    "note": "Idónea para estudiantes con formación en física clásica, mecánica de medios continuos, cálculo numérico, geofísica aplicada y programación científica."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Arcadis Chile — Ingeniería y Recursos Hídricos",
+    "org": "Arcadis Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas profesionales en diseño e ingeniería de soluciones sustentables y recursos hídricos. Los proyectos comprenden modelación hidrogeológica de cuencas y acuíferos, dinámica de fluidos en conducciones y tranques de relaves, análisis de transporte de contaminantes y balances hídricos complejos mediante métodos numéricos y herramientas de simulación computacional.",
+    "fund": "Asignación económica mensual para practicantes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.arcadis.com/es-cl/carreras",
+    "src": "https://www.arcadis.com/es-cl",
+    "note": "Relevante para perfiles de física o ingeniería aplicada con interés en mecánica de fluidos, hidrogeología cuantitativa, modelación matemática y sustentabilidad ambiental."
+  }
+]

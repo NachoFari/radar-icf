@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Inria Chile — Pasantías de Investigación en IA, Modelamiento y Computación Científica",
+    "org": "Inria Chile (Centro de Investigación Inria Chile)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Santiago / Francia (movilidad académica)",
+    "desc": "Pasantías de investigación e iniciación científica y tecnológica en el centro de excelencia internacional Inria Chile, en cooperación directa con equipos de investigación de Inria en Francia (Sophia Antipolis, Paris, Rennes, Grenoble y Saclay). Los proyectos abarcan inteligencia artificial, aprendizaje profundo, modelamiento matemático y estocástico, visión por computador, optimización de sistemas complejos, computación de alto rendimiento y ciencias del clima y océanos. Permite a estudiantes de pregrado avanzado y postgrado integrarse a proyectos binacionales franco-chilenos con posibilidad de estadías en centros Inria en Francia.",
+    "fund": "Asignación económica mensual para tesistas o pasantes + financiamiento o cofinanciamiento de pasajes y viáticos para estadías de investigación en laboratorios Inria en Francia según el convenio/proyecto.",
+    "req": "Estudiantes avanzados de pregrado (ingeniería civil, física, matemática, computación) o postgrado con sólidos conocimientos en programación científica (Python, C/C++, Julia) y motivación para investigación aplicada. Nivel de inglés o francés según el proyecto.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.inria.cl/es/carreras-y-oportunidades",
+    "src": "https://www.inria.cl",
+    "note": "Las convocatorias de pasantías e inserción de estudiantes se abren regularmente a lo largo del año académico y para periodos de verano/invierno, con postulaciones directas a través del sitio web de Inria Chile y redes colaborativas universitarias (red CMM/UChile, PUC, USM)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Embajada de Francia en Chile / CNRS — Programas de Pasantías y Cooperación Científica Franco-Chilena",
+    "org": "Embajada de Francia en Chile / Institut Français / CNRS",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Francia (diversas ciudades universitarias) / Santiago",
+    "desc": "Oportunidades y becas de movilidad para pasantías de investigación y estadías cortas en laboratorios universitarios y centros del CNRS (Centre National de la Recherche Scientifique) en Francia para estudiantes chilenos de ciencias e ingeniería. Canalizado a través de iniciativas bilaterales como el programa ECOS-Sud, becas del Institut Français de Chili, y redes de laboratorios internacionales asociados (IRL/IRN CNRS como el IRL IFA en astronomía o el IRL CRM en matemáticas). Cubre áreas de física, astronomía, matemáticas aplicadas, ciencias del medio ambiente y nanotecnología.",
+    "fund": "Becas de movilidad que incluyen asignación mensual de manutención en Francia, exención de tasas de matrícula, seguro médico y apoyo para traslados aéreos según la modalidad y convocatoria específica (ECOS, Becas del Gobierno Francés BGF, o estipendios del laboratorio receptor).",
+    "req": "Ser estudiante regular de pregrado (últimos años) o postgrado en universidades chilenas, buen rendimiento académico, propuesta o carta de invitación/aceptación de un equipo o laboratorio francés colaborador, dominio de inglés o francés (B1/B2 recomendado).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.chili.campusfrance.org/programas-de-becas",
+    "src": "https://cl.ambafrance.org",
+    "note": "Convocatorias anuales gestionadas por Campus France Chili y el Servicio de Cooperación Científica y Universitaria de la Embajada de Francia, con aperturas habituales entre marzo y mayo para estancias en el otoño/invierno europeo siguiente."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "HZDR Dresden Summer Student Program — Pasantías de Investigación en Física y Materiales Avanzados",
+    "org": "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Dresden, Alemania",
+    "desc": "Programa internacional de pasantías científicas de verano (Summer Student Program) de 7 a 12 semanas en el prestigioso centro de investigación Helmholtz-Zentrum Dresden-Rossendorf en Alemania. Los estudiantes participan activamente en proyectos de investigación experimental o teórica en áreas estratégicas como física de la materia condensada, materiales magnéticos y nanoestructuras, física nuclear y de radiación, investigación en fuentes de alto campo magnético (Dresden High Magnetic Field Laboratory), física con láseres de ultra-alta intensidad (DRACO) y tecnologías para la transición energética.",
+    "fund": "Alojamiento gratuito para estudiantes internacionales en la residencia de HZDR en Dresden, estipendio diario para gastos de manutención (aprox. 36 € por día), y cobertura o reembolso de gastos de viaje y transporte local.",
+    "req": "Estudiantes de pregrado (que hayan completado al menos 3 años de estudios universitarios al inicio del programa) o máster en Física, Química, Ciencia de Materiales o disciplinas afines. Excelente expediente académico y buen dominio del inglés (idioma de trabajo del instituto).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.hzdr.de/db/Cms?pNid=2516",
+    "src": "https://www.hzdr.de",
+    "note": "Convocatoria anual de verano (julio a septiembre). El periodo de postulación abre habitualmente entre diciembre y febrero de cada año mediante el sistema de aplicación en línea de HZDR."
+  }
+]

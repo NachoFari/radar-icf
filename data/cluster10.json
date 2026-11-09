@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Servicio Hidrográfico y Oceanográfico de la Armada (SHOA) — Prácticas en Oceanografía Física, Tsunamis y Modelación Hidrodinámica",
+    "org": "Servicio Hidrográfico y Oceanográfico de la Armada (SHOA) · Armada de Chile",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Valparaíso (Playa Ancha)",
+    "desc": "Prácticas profesionales y memorias de título en el departamento de Oceanografía y el Sistema Nacional de Alarma de Mareas (SNAM). Los estudiantes de física e ingeniería participan en modelación numérica hidrodinámica de propagación de ondas de tsunami en aguas profundas y someras (modelos COMCOT, NEOWAVE), mecánica de fluidos geofísicos, análisis espectral de series temporales de mareógrafos y boyas DART, batimetría acústica multihaz y dinámica de corrientes en el sistema de la Corriente de Humboldt.",
+    "fund": "Práctica formativa institucional con acceso a laboratorios oceanográficos especializados y al centro computacional del SNAM",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.shoa.cl",
+    "src": "https://www.shoa.cl/contacto",
+    "note": "Ubicado en Valparaíso (Playa Ancha). Las solicitudes se gestionan mediante convenio institucional universitario o enviando carta de motivación y CV a shoa@shoa.cl."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro de Ciencia del Clima y la Resiliencia (CR2) — Pasantías en Modelamiento Climático, Dinámica Atmosférica y Criosfera",
+    "org": "Centro de Ciencia del Clima y la Resiliencia (CR2) · U. de Chile / UdeC / UACh",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago (Beauchef) / Concepción / Valdivia (Híbrido)",
+    "desc": "Pasantías de investigación y proyectos de memoria de título en el centro de excelencia FONDAP líder en ciencia climática en Chile. Oportunidades en física de la atmósfera, simulación climática regional de alta resolución (WRF, RegCM), análisis de teleconexiones y eventos extremos (ríos atmosféricos, megasequía, olas de calor), asimilación de datos satelitales y modelación acoplada océano-atmósfera-criosfera con computación científica.",
+    "fund": "Apoyo económico según proyectos de investigación FONDAP-ANID activos y disponibilidad de beca de arancel/tesis",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cr2.cl",
+    "src": "https://www.cr2.cl/contacto/",
+    "note": "Recepción continua de solicitudes para estudiantes avanzados de física, geofísica e ingeniería. Se recomienda contactar a los investigadores de la línea de dinámica climática con CV y concentración de notas."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Dirección Meteorológica de Chile (DMC) — Prácticas en Modelamiento Numérico del Tiempo y Teledetección Atmosférica",
+    "org": "Dirección Meteorológica de Chile (DMC) · DGAC",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago (Quinta Normal) y Modalidad Híbrida",
+    "desc": "Prácticas profesionales en la Subdirección de Climatología y Meteorología Aplicada y el Departamento de Meteorología Aeronáutica. Trabajo en configuración y validación de modelos numéricos de pronóstico meteorológico de mesoescala (WRF, GFS), procesamiento de señales de radares meteorológicos Doppler y radiometría satelital geoestacionaria (GOES-16), física de nubes y balance radiativo superficial para alertas de eventos meteorológicos extremos.",
+    "fund": "Práctica institucional convalidable en el organismo técnico oficial meteorológico del país",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.meteochile.gob.cl",
+    "src": "https://www.meteochile.gob.cl",
+    "note": "Las postulaciones se canalizan a través del Departamento de Gestión de Personas de la DGAC y la Dirección Meteorológica de Chile presentando carta de patrocinio de la universidad."
+  }
+]

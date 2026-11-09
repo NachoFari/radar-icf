@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "CEDENNA — Pasantías y Memorias en Nanociencia, Nanomateriales y Nanotecnología",
+    "org": "CEDENNA (Centro para el Desarrollo de la Nanociencia y la Nanotecnología)",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana)",
+    "desc": "Pasantías de investigación y memorias de título en el principal centro científico multidisciplinario de Chile dedicado al estudio y aplicación de nanomateriales. Participación en líneas de investigación sobre síntesis y funcionalización de nanopartículas, materiales magnéticos y espintrónica, nanoseguridad y toxicología, sensores y dispositivos moleculares, bionanotecnología y caracterización estructural mediante microscopía electrónica avanzada (SEM, TEM y AFM).",
+    "fund": "Apoyo formativo y acceso a laboratorios e instrumental de caracterización nanotecnológica de punta; asignación según disponibilidad en proyectos de investigación asociados.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cedenna.cl",
+    "src": "https://cedenna.cl",
+    "note": "Convocatorias permanentes para estudiantes de física, química, ingeniería física y carreras afines. Contacto e información a través de su sitio web oficial o vía contacto@cedenna.cl."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Molycop Chile — Prácticas Profesionales en Metalurgia Física y Medios de Molienda",
+    "org": "Molycop Chile",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Talcahuano (Biobío) / Mejillones (Antofagasta)",
+    "desc": "Prácticas profesionales e industriales en el fabricante líder a nivel mundial de medios de molienda y aceros forjados de alta resistencia para la gran minería. Los estudiantes colaboran en caracterización microestructural de aleaciones de acero, evaluación de transformaciones de fase y tratamientos térmicos (temple, revenido), ensayos mecánicos de dureza e impacto, análisis de fractomecánica y estudios de desgaste abrasivo e impacto dinámico.",
+    "fund": "Asignación económica mensual para practicantes + elementos de protección personal (EPP) y servicio de alimentación en casino de planta.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.molycop.com",
+    "src": "https://www.molycop.com",
+    "note": "Recepción de antecedentes y vacantes publicadas de forma continua y estival a través de LinkedIn corporativo, portal web de Molycop y ferias laborales universitarias."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Aceros AZA — Prácticas en Metalurgia, Ensayos de Calidad y Economía Circular",
+    "org": "Aceros AZA",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago (Renca y Colina, Región Metropolitana)",
+    "desc": "Prácticas técnicas y de ingeniería en la principal acería recicladora y productora de acero verde en Chile. Trabajo en laboratorios de calidad y metalurgia de procesos siderúrgicos: control químico mediante espectrometría óptica de emisión, ensayos de propiedades mecánicas (tracción, flexión e impacto), microscopía óptica para análisis de inclusiones y microestructuras, y optimización de escorias y parámetros térmicos en horno de arco eléctrico (HAE).",
+    "fund": "Compensación económica mensual de práctica + buses de acercamiento institucionales y servicio de colación en casino.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.aza.cl",
+    "src": "https://www.aza.cl",
+    "note": "Procesos de selección y prácticas operativas de verano e invierno canalizadas a través de Trabajando.cl / Laborum, sección Trabaja con Nosotros en aza.cl y LinkedIn."
+  }
+]

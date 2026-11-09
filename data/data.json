@@ -2004,5 +2004,1528 @@
     "apply": "https://cctval.cl",
     "src": "https://anid.cl",
     "note": "Ventana continua o semestral según cupos. CCTVal (detectores, CERN ATLAS, física médica) y AC3E (electrónica avanzada) operan directamente en UTFSM Casa Central."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "DESY Summer Student Programme",
+    "org": "Deutsches Elektronen-Synchrotron (DESY) & Helmholtz Association",
+    "area": "Física de partículas, sincrotrón y aceleradores",
+    "scope": "Internacional",
+    "city": "Hamburgo y Zeuthen, Alemania",
+    "desc": "Estadía de investigación científica de verano (7 a 8 semanas entre julio y septiembre) en física de partículas, astropartículas, física de fotones (fuentes de luz sincrotrón PETRA III, FLASH, European XFEL) y computación científica. Los estudiantes se integran a grupos de investigación de frontera y participan en conferencias diarias dictadas por especialistas.",
+    "fund": "Estipendio de subsistencia (~€1.200/mes o ~€28,50/día) + Alojamiento individual gratuito en las residencias (DESY Hostel) en el campus + Reembolso parcial de costos de viaje internacional.",
+    "req": "Estudiantes universitarios que hayan completado al menos 3 años de estudios (3° a 5° año de pregrado) en Física, Ciencias Naturales o Ingeniería, sin haber culminado un máster. Nivel fluido de inglés y nociones de programación.",
+    "deadline": "2027-01-31",
+    "status": "reabre",
+    "apply": "https://www.desy.de/summerstudents",
+    "src": "https://summerstudents.desy.de/",
+    "note": "Convocatoria anual que abre a principios de diciembre y cierra a fines de enero para la estadía de verano siguiente. Uno de los programas de aceleradores y partículas de mayor prestigio en Europa."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "UTRIP – University of Tokyo Research Internship Program",
+    "org": "Graduate School of Science, The University of Tokyo",
+    "area": "Física, astrofísica y ciencias exactas",
+    "scope": "Internacional",
+    "city": "Tokio, Japón",
+    "desc": "Pasantía intensiva de investigación de 6 semanas en los laboratorios de vanguardia de la Escuela de Ciencias de la Universidad de Tokio (departamentos de Física, Astronomía, Química, Ciencias de la Tierra y Planetarias). Ofrece tutoría científica directa con líderes de grupo y seminarios académicos de nivel de posgrado.",
+    "fund": "Alojamiento universitario gratuito gestionado y cubierto al 100% durante las 6 semanas + Asignación/viático financiero para costos de vida y traslado (~¥100.000 a ¥160.000 JPY o beca FUTI para pasajes aéreos y gastos diarios).",
+    "req": "Estudiantes de pregrado matriculados en universidades fuera de Japón en carreras de Física o ciencias exactas afines, con al menos 1 año universitario completo aprobado (prioridad para estudiantes en penúltimo año). Nivel de inglés certificado (TOEFL, IELTS o carta institucional).",
+    "deadline": "2026-12-25",
+    "status": "reabre",
+    "apply": "https://www.s.u-tokyo.ac.jp/en/utrip/",
+    "src": "https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/",
+    "note": "Abre postulaciones anualmente a mediados de noviembre y cierra en diciembre. Es un punto de entrada estratégico para estudiantes latinoamericanos interesados en posgrados en Tokio (becas MEXT/GSS)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "NIMS Internship Program (Tsukuba)",
+    "org": "National Institute for Materials Science (NIMS)",
+    "area": "Física de la materia condensada, materiales y nanotecnología",
+    "scope": "Internacional",
+    "city": "Tsukuba, Japón",
+    "desc": "Pasantía de investigación práctica de hasta 90 días en el instituto nacional de ciencia de materiales más avanzado de Japón. Permite trabajar en nanotecnología, física del estado sólido, superconductividad, materiales cuánticos y caracterización con instrumentación de escala atómica.",
+    "fund": "Estipendio diario de subsistencia (~¥2.560 JPY por día) + Alojamiento oficial gestionado y cubierto al 100% por NIMS (en Ninomiya House o similar) durante toda la duración de la estadía.",
+    "req": "Estudiantes regulares de pregrado (3° a 5° año) o posgrado en Física, Química, Ingeniería de Materiales, Electrónica o disciplinas afines. Requiere contactar a un investigador anfitrión en el directorio NIMS SAMURAI y recibir su aceptación previa para tramitar la postulación.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.nims.go.jp/eng/hr-development/internship.html",
+    "src": "https://samurai.nims.go.jp/",
+    "note": "Modalidad de postulación continua por acuerdo con investigador anfitrión o en convocatorias periódicas de primavera/otoño. La solicitud formal la procesa el investigador patrocinante ante la oficina internacional de NIMS."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "SOKENDAI / KEK Summer Student Program",
+    "org": "High Energy Accelerator Research Organization (KEK) & SOKENDAI",
+    "area": "Física nuclear, partículas, aceleradores y sincrotrón",
+    "scope": "Internacional",
+    "city": "Tsukuba y Tokai (J-PARC), Japón",
+    "desc": "Programa de investigación de verano de 8 semanas en las instalaciones de KEK (colisionador SuperKEKB, detector Belle II, Photon Factory) y J-PARC. Los estudiantes realizan un proyecto de investigación experimental guiado por científicos de planta y asisten a conferencias de física de aceleradores y partículas.",
+    "fund": "Pasajes aéreos internacionales de ida y vuelta cubiertos al 100% + Alojamiento gratuito en las residencias del campus (Tsukuba o Tokai) + Estipendio diario de viático (~¥1.500 JPY/día) + Traslado terrestre aeropuerto-campus.",
+    "req": "Estudiantes universitarios cursando la segunda mitad del pregrado (3° a 5° año) o inicio de máster en Física, Ingeniería Eléctrica, Informática o ciencias afines. Conocimientos de mecánica clásica, cuántica y electromagnetismo.",
+    "deadline": "2027-02-27",
+    "status": "reabre",
+    "apply": "https://www.kek.jp/en/education/sokendai/ssp/",
+    "src": "https://www.kek.jp/en/",
+    "note": "Convocatoria anual con apertura en diciembre/enero y cierre a fines de febrero. Uno de los pocos programas globales con financiamiento de pasajes aéreos intercontinentales completos para pregrado."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Caltech SURF – Summer Undergraduate Research Fellowships",
+    "org": "California Institute of Technology (Caltech)",
+    "area": "Física teórica y experimental, ingeniería cuántica, astrofísica",
+    "scope": "Internacional",
+    "city": "Pasadena, California, EE. UU.",
+    "desc": "Histórico programa de 10 semanas de investigación estival en el campus principal de Caltech. Diseñado para que estudiantes de pregrado colaboren estrechamente con académicos pioneros en física, matemáticas aplicadas o ingeniería, culminando con la presentación de resultados en el prestigioso SURF Seminar Day.",
+    "fund": "Beca de manutención completa de .110 a .354 USD para las 10 semanas de investigación. Soporte institucional para la gestión del visado de intercambio J-1 o F-1.",
+    "req": "Estudiantes de pregrado con al menos un año universitario cursado (preferentemente 3° o 4° año) y rendimiento académico destacado (GPA equivalente a 2.5/4.0 o superior, idealmente 5.0+ chileno). Requiere haber contactado previamente a un profesor de Caltech y contar con su compromiso de patrocinio.",
+    "deadline": "2027-02-22",
+    "status": "reabre",
+    "apply": "https://sfp.caltech.edu/undergraduate-research/programs/surf",
+    "src": "https://sfp.caltech.edu/",
+    "note": "Para postulantes internacionales no ciudadanos estadounidenses sólo están habilitados los proyectos dentro del campus académico de Caltech (no en JPL por normativas federales ITAR). Apertura de plataforma anual en noviembre."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Perimeter PSI Start – Undergraduate Summer Program & Research Internship",
+    "org": "Perimeter Institute for Theoretical Physics",
+    "area": "Física teórica, cosmología, gravedad cuántica e información cuántica",
+    "scope": "Internacional",
+    "city": "Waterloo, Ontario, Canadá",
+    "desc": "Iniciativa internacional para estudiantes destacados de pregrado en física teórica. Consta de una escuela de verano de vanguardia en física teórica y una pasantía de investigación presencial y remunerada de al menos 12 semanas (mayo a agosto) bajo la tutela directa de investigadores del Perimeter Institute.",
+    "fund": "Financiamiento 100% integral: Beca salarial de investigación remunerada durante las 12 semanas + Pasajes aéreos internacionales de ida y vuelta + Alojamiento residencial gestionado y cubierto por el instituto + Crédito de alimentación.",
+    "req": "Estudiantes de pregrado con proyección hacia estudios de posgrado en física teórica. Se requieren cursos universitarios aprobados en mecánica clásica y mecánica cuántica. Envío de expediente académico, CV, carta de motivación de hasta 2 páginas y 2 a 3 cartas de recomendación.",
+    "deadline": "2027-01-17",
+    "status": "reabre",
+    "apply": "https://perimeterinstitute.ca/undergraduate-summer-programs",
+    "src": "https://perimeterinstitute.ca/undergraduate-summer-programs-how-apply",
+    "note": "Perimeter Institute es una institución de vanguardia en física fundamental a nivel global. Las postulaciones abren a mediados de diciembre y cierran a mediados de enero."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "PSI Summer Student Programme",
+    "org": "Paul Scherrer Institut (PSI) & ETH Domain",
+    "area": "Física de sincrotrón, láseres de electrones libres, neutrones y materiales",
+    "scope": "Internacional",
+    "city": "Villigen, Suiza",
+    "desc": "Programa de 8 a 12 semanas (julio a septiembre) en el Paul Scherrer Institut, el centro de investigación multidisciplinario más grande de Suiza. Los estudiantes participan en proyectos en las grandes instalaciones experimentales del centro (fuente de luz sincrotrón SLS, láser de rayos X SwissFEL, fuente de espalación de neutrones SINQ y muones SμS) junto a conferencias científicas diarias.",
+    "fund": "Estipendio mensual suizo para costear gastos de manutención y estadía en Suiza (~CHF 1.500 a CHF 2.000/mes) + Disponibilidad de alojamiento subsidiado en la residencia de huéspedes de PSI (PSI Guesthouse).",
+    "req": "Estudiantes universitarios que hayan completado al menos 3 años de estudios (3° a 5° año de pregrado o inicio de máster) en Física, Ingeniería, Química, Computación o Ciencias de Materiales. Buen manejo de inglés y nociones de programación científica.",
+    "deadline": "2027-02-28",
+    "status": "reabre",
+    "apply": "https://www.psi.ch/en/ssp",
+    "src": "https://www.psi.ch/en",
+    "note": "El PSI es parte del ETH Domain (junto a ETH Zurich y EPFL). La convocatoria abre anualmente en el invierno europeo (enero-febrero) con cupos muy codiciados."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Servicio Hidrográfico y Oceanográfico de la Armada (SHOA) — Prácticas en Oceanografía Física, Tsunamis y Modelación Hidrodinámica",
+    "org": "Servicio Hidrográfico y Oceanográfico de la Armada (SHOA) · Armada de Chile",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Valparaíso (Playa Ancha)",
+    "desc": "Prácticas profesionales y memorias de título en el departamento de Oceanografía y el Sistema Nacional de Alarma de Mareas (SNAM). Los estudiantes de física e ingeniería participan en modelación numérica hidrodinámica de propagación de ondas de tsunami en aguas profundas y someras (modelos COMCOT, NEOWAVE), mecánica de fluidos geofísicos, análisis espectral de series temporales de mareógrafos y boyas DART, batimetría acústica multihaz y dinámica de corrientes en el sistema de la Corriente de Humboldt.",
+    "fund": "Práctica formativa institucional con acceso a laboratorios oceanográficos especializados y al centro computacional del SNAM",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.shoa.cl",
+    "src": "https://www.shoa.cl/contacto",
+    "note": "Ubicado en Valparaíso (Playa Ancha). Las solicitudes se gestionan mediante convenio institucional universitario o enviando carta de motivación y CV a shoa@shoa.cl."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Centro de Ciencia del Clima y la Resiliencia (CR2) — Pasantías en Modelamiento Climático, Dinámica Atmosférica y Criosfera",
+    "org": "Centro de Ciencia del Clima y la Resiliencia (CR2) · U. de Chile / UdeC / UACh",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago (Beauchef) / Concepción / Valdivia (Híbrido)",
+    "desc": "Pasantías de investigación y proyectos de memoria de título en el centro de excelencia FONDAP líder en ciencia climática en Chile. Oportunidades en física de la atmósfera, simulación climática regional de alta resolución (WRF, RegCM), análisis de teleconexiones y eventos extremos (ríos atmosféricos, megasequía, olas de calor), asimilación de datos satelitales y modelación acoplada océano-atmósfera-criosfera con computación científica.",
+    "fund": "Apoyo económico según proyectos de investigación FONDAP-ANID activos y disponibilidad de beca de arancel/tesis",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cr2.cl",
+    "src": "https://www.cr2.cl/contacto/",
+    "note": "Recepción continua de solicitudes para estudiantes avanzados de física, geofísica e ingeniería. Se recomienda contactar a los investigadores de la línea de dinámica climática con CV y concentración de notas."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Dirección Meteorológica de Chile (DMC) — Prácticas en Modelamiento Numérico del Tiempo y Teledetección Atmosférica",
+    "org": "Dirección Meteorológica de Chile (DMC) · DGAC",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago (Quinta Normal) y Modalidad Híbrida",
+    "desc": "Prácticas profesionales en la Subdirección de Climatología y Meteorología Aplicada y el Departamento de Meteorología Aeronáutica. Trabajo en configuración y validación de modelos numéricos de pronóstico meteorológico de mesoescala (WRF, GFS), procesamiento de señales de radares meteorológicos Doppler y radiometría satelital geoestacionaria (GOES-16), física de nubes y balance radiativo superficial para alertas de eventos meteorológicos extremos.",
+    "fund": "Práctica institucional convalidable en el organismo técnico oficial meteorológico del país",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.meteochile.gob.cl",
+    "src": "https://www.meteochile.gob.cl",
+    "note": "Las postulaciones se canalizan a través del Departamento de Gestión de Personas de la DGAC y la Dirección Meteorológica de Chile presentando carta de patrocinio de la universidad."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Enel Green Power Chile — Prácticas en Ingeniería Renovable, Parques Solares, Eólicos y Sistemas BESS",
+    "org": "Enel Green Power Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana) y plantas en regiones (Antofagasta, Atacama, Biobío)",
+    "desc": "Prácticas profesionales y memorias de título en una de las principales compañías generadoras de energía renovable en Chile. Los proyectos contemplan análisis de rendimiento y modelación de recurso solar y eólico, evaluación técnica y monitoreo del desempeño de sistemas de almacenamiento de energía en baterías (BESS), análisis de datos operativos SCADA, optimización de inyección a la red del SEN, mitigación de vertimientos (curtailment) y cumplimiento de exigencias técnicas de la Norma Técnica de Seguridad y Calidad de Servicio.",
+    "fund": "Asignación económica mensual para practicantes + seguro complementario y beneficios corporativos Enel",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.enel.cl/es/conoce-enel/trabaja-con-nosotros.html",
+    "src": "https://www.enelgreenpower.com/countries/americas/chile",
+    "note": "Postulaciones abiertas de forma continua a través del portal global de empleo de Enel y LinkedIn (Enel Group). Convocatorias para prácticas de verano e invierno."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ENGIE Chile — Prácticas en Transición Energética, Almacenamiento BESS e Hidrógeno Verde",
+    "org": "ENGIE Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago y Región de Antofagasta (Tocopilla, Mejillones)",
+    "desc": "Pasantías formativas y memorias de titulación enfocadas en el plan de descarbonización y desarrollo de soluciones energéticas sostenibles de ENGIE. Participación en el dimensionamiento y operación técnica de sistemas de almacenamiento BESS a gran escala (como BESS Coya y BESS Tamaya), estudios de degradación electroquímica y estado de carga de celdas de litio, integración de parques eólicos y solares al Sistema Eléctrico Nacional, e iniciativas pioneras de generación y uso de hidrógeno verde industrial.",
+    "fund": "Asignación económica mensual de práctica + seguro contra accidentes y asignación de colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://jobs.engie.com/search/?q=&locationsearch=Chile",
+    "src": "https://www.engie.cl",
+    "note": "Vacantes publicadas de manera periódica en el portal global de carreras de ENGIE y bolsas de trabajo universitarias chilenas. Se reciben postulaciones en modalidad híbrida y terreno."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Statkraft Chile — Prácticas en Generación Renovable, Hidroelectricidad y Almacenamiento Energético",
+    "org": "Statkraft Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago y proyectos en regiones (O'Higgins, Maule, Los Lagos)",
+    "desc": "Prácticas profesionales en la empresa estatal noruega líder en generación hidroeléctrica y energías renovables en Europa, con sólida presencia en Chile. Oportunidades en evaluación de recurso energético (Energy Yield Assessment - EYA), supervisión y control de plantas híbridas solar-eólica-BESS, modelamiento predictivo de despacho y vertimiento, telemetría y análisis de datos de generación eléctrica, y soporte técnico a la gestión comercial de contratos de suministro de energía limpia (PPA).",
+    "fund": "Compensación económica mensual para estudiantes en práctica + beneficios de bienestar Statkraft",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.statkraft.cl/carreras/",
+    "src": "https://www.statkraft.cl",
+    "note": "Postulaciones activas a través del portal de talento de Statkraft y convocatorias universitarias institucionales (convenios USM, UCh, PUC)."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "PositronPharma Chile — Operación de Ciclotrón y Radiofísica",
+    "org": "PositronPharma Chile",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Providencia)",
+    "desc": "Prácticas profesionales y proyectos de titulación en el principal centro de radiofarmacia y producción de radioisótopos PET de Chile. Participación en la operación y mantenimiento del acelerador de partículas ciclotrón (IBA Cyclone 18 MeV), síntesis automatizada de radiofármacos (F-18 FDG, Ga-68, Lu-177), control de calidad radioquímico, blindaje y protocolos de protección radiológica.",
+    "fund": "Asignación económica mensual para practicantes y seguro contra accidentes escolares/universitarios",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://positronpharma.com/contacto/",
+    "src": "https://positronpharma.com",
+    "note": "Orientado a estudiantes de Licenciatura en Física, Ingeniería Física o afines con interés en física nuclear aplicada, aceleradores de partículas y radiofarmacia hospitalaria e industrial."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Instituto Nacional del Cáncer (INC) — Unidad de Física Médica y Radioterapia",
+    "org": "Instituto Nacional del Cáncer (INC) · Servicio de Salud Metropolitano Norte",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Independencia)",
+    "desc": "Pasantías y prácticas profesionales en la Unidad de Física Médica del centro oncológico público de referencia nacional. Capacitación y trabajo en control de calidad dosimétrico y mecánico de aceleradores lineales, planificación tridimensional de tratamientos de radioterapia externa (3D-CRT, IMRT, VMAT, SRS/SBRT), braquiterapia de alta tasa de dosis (HDR) y protocolos de dosimetría clínica en pacientes oncológicos.",
+    "fund": "Práctica formativa sujeta a convenios asistencial-docentes del sector público de salud",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.incancer.cl/",
+    "src": "https://www.incancer.cl/",
+    "note": "Postulaciones canalizadas a través de convenios docentes-asistenciales universitarios y contacto directo con la Unidad de Física Médica del instituto."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Clínica IRAM — Dosimetría y Física Médica en Radioterapia Avanzada",
+    "org": "Clínica IRAM (Instituto de Radiomedicina)",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Vitacura)",
+    "desc": "Prácticas profesionales en dosimetría clínica y física médica en uno de los centros privados de referencia en radiomedicina de Chile. Integración en el flujo clínico de planificación computacional de tratamientos mediante algoritmos avanzados (RapidPlan), aseguramiento de la calidad (QA) pre-tratamiento con maniquíes y detectores dosimétricos, calibración de haces en aceleradores lineales TrueBeam y Halcyon, y técnicas estereotáxicas (SRS/SBRT).",
+    "fund": "Asignación económica para movilización/colación según convenio institucional",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://iram.cl/contacto/",
+    "src": "https://iram.cl/",
+    "note": "Dirigido a estudiantes de Física e Ingeniería Física interesados en física médica hospitalaria, radioterapia de alta precisión y dosimetría computacional."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Programa de Líderes Emergentes en las Américas (ELAP - Emerging Leaders in the Americas Program)",
+    "org": "Gobierno de Canadá (Global Affairs Canada / EduCanada)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Diversas ciudades (Canadá)",
+    "desc": "Programa de becas del Gobierno de Canadá que financia intercambios académicos y estancias de investigación de corta duración (de 4 a 6 meses) para estudiantes de pregrado de instituciones de educación superior de América Latina y el Caribe en universidades e institutos canadienses con convenios de colaboración interinstitucional.",
+    "fund": "Asignación de 8.200 CAD para estancias de pregrado de 4 meses (o un término académico/de investigación), destinada a pasajes aéreos, seguro médico, manutención, visado y materiales de estudio.",
+    "req": "Ser estudiante regular matriculado a tiempo completo en una universidad elegible (como universidades chilenas), contar con excelencia académica y respaldo de la institución de origen mediante convenio vigente de intercambio o investigación con la institución canadiense receptora. La postulación oficial la realiza la universidad canadiense anfitriona.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pfla.aspx",
+    "src": "https://www.educanada.ca",
+    "note": "Convocatoria anual que abre comúnmente en enero-febrero y cierra entre marzo y abril de cada año para estancias en el siguiente año académico. La postulación se canaliza a través de la Dirección de Relaciones Internacionales (DRI / OAI) de la universidad de origen."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Mitacs Globalink Research Internship (GRI)",
+    "org": "Mitacs (Canadá)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Diversas ciudades (Canadá)",
+    "desc": "Pasantía intensiva de investigación de 12 semanas (entre mayo y octubre) para estudiantes destacados de pregrado de países socios (incluyendo Chile) en más de 70 universidades canadienses. Los pasantes se integran a proyectos punteros de ciencia, tecnología, ingeniería, física y matemáticas bajo la mentoría y supervisión directa de profesores investigadores canadienses.",
+    "fund": "Beca integral que cubre vuelos de ida y vuelta a Canadá, traslado desde el aeropuerto, estipendio para alojamiento y manutención, seguro médico internacional, exención del arancel universitario, acceso a talleres de desarrollo profesional y asignación de mentores locales.",
+    "req": "Tener calidad de estudiante regular de pregrado en una universidad elegible, tener entre 1 y 3 semestres pendientes antes de graduarse, poseer un promedio de notas sobresaliente (equivalente a percentil superior/requisitos mínimos según escala), nivel intermedio-avanzado comprobable de inglés o francés, y disponibilidad completa de 12 semanas consecutivas.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mitacs.ca/our-programs/globalink-research-internship-students/",
+    "src": "https://www.mitacs.ca",
+    "note": "Las postulaciones abren regularmente entre julio y septiembre de cada año para realizar la pasantía durante el verano del hemisferio norte (mayo a octubre) del año siguiente. Proceso de postulación directo a través del portal de Mitacs seleccionando proyectos de interés."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Imperial College London — International Research Opportunities Programme (IROP)",
+    "org": "Imperial College London",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Londres (Reino Unido) y Sedes Asociadas",
+    "desc": "Programa de investigación académica estival (de 8 a 10 semanas de duración) organizado por Imperial College London en conjunto con universidades e instituciones asociadas de clase mundial. Permite a estudiantes de pregrado integrarse en laboratorios y grupos de investigación punteros en física, ingeniería y ciencias naturales, participando activamente en proyectos experimentales y computacionales de vanguardia.",
+    "fund": "Asignación de beca/estipendio de investigación (bursary) institucional para cobertura de gastos de manutención y alojamiento durante las 8 a 10 semanas de estancia, complementada por exenciones arancelarias académicas según el acuerdo o esquema departamental.",
+    "req": "Estudiantes regulares de pregrado con trayectoria académica de excelencia (típicamente perfil First Class Honours o percentil superior equivalente), carta de motivación, currículum vitae, expediente académico y cumplimiento de requisitos de visado británico o acuerdos institucionales de intercambio de investigación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.imperial.ac.uk/urop/how-tos/how-to-participate-in-irop/",
+    "src": "https://www.imperial.ac.uk/urop/",
+    "note": "Las convocatorias se coordinan departamentalmente entre el período de invierno y primavera (diciembre a marzo) para ejecutar la investigación durante el receso de verano europeo (julio a septiembre). Se vincula estrechamente con el ecosistema de investigación formativa UROP de Imperial College."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Inria Chile — Pasantías de Investigación en IA, Modelamiento y Computación Científica",
+    "org": "Inria Chile (Centro de Investigación Inria Chile)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Santiago / Francia (movilidad académica)",
+    "desc": "Pasantías de investigación e iniciación científica y tecnológica en el centro de excelencia internacional Inria Chile, en cooperación directa con equipos de investigación de Inria en Francia (Sophia Antipolis, Paris, Rennes, Grenoble y Saclay). Los proyectos abarcan inteligencia artificial, aprendizaje profundo, modelamiento matemático y estocástico, visión por computador, optimización de sistemas complejos, computación de alto rendimiento y ciencias del clima y océanos. Permite a estudiantes de pregrado avanzado y postgrado integrarse a proyectos binacionales franco-chilenos con posibilidad de estadías en centros Inria en Francia.",
+    "fund": "Asignación económica mensual para tesistas o pasantes + financiamiento o cofinanciamiento de pasajes y viáticos para estadías de investigación en laboratorios Inria en Francia según el convenio/proyecto.",
+    "req": "Estudiantes avanzados de pregrado (ingeniería civil, física, matemática, computación) o postgrado con sólidos conocimientos en programación científica (Python, C/C++, Julia) y motivación para investigación aplicada. Nivel de inglés o francés según el proyecto.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.inria.cl/es/carreras-y-oportunidades",
+    "src": "https://www.inria.cl",
+    "note": "Las convocatorias de pasantías e inserción de estudiantes se abren regularmente a lo largo del año académico y para periodos de verano/invierno, con postulaciones directas a través del sitio web de Inria Chile y redes colaborativas universitarias (red CMM/UChile, PUC, USM)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Embajada de Francia en Chile / CNRS — Programas de Pasantías y Cooperación Científica Franco-Chilena",
+    "org": "Embajada de Francia en Chile / Institut Français / CNRS",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Francia (diversas ciudades universitarias) / Santiago",
+    "desc": "Oportunidades y becas de movilidad para pasantías de investigación y estadías cortas en laboratorios universitarios y centros del CNRS (Centre National de la Recherche Scientifique) en Francia para estudiantes chilenos de ciencias e ingeniería. Canalizado a través de iniciativas bilaterales como el programa ECOS-Sud, becas del Institut Français de Chili, y redes de laboratorios internacionales asociados (IRL/IRN CNRS como el IRL IFA en astronomía o el IRL CRM en matemáticas). Cubre áreas de física, astronomía, matemáticas aplicadas, ciencias del medio ambiente y nanotecnología.",
+    "fund": "Becas de movilidad que incluyen asignación mensual de manutención en Francia, exención de tasas de matrícula, seguro médico y apoyo para traslados aéreos según la modalidad y convocatoria específica (ECOS, Becas del Gobierno Francés BGF, o estipendios del laboratorio receptor).",
+    "req": "Ser estudiante regular de pregrado (últimos años) o postgrado en universidades chilenas, buen rendimiento académico, propuesta o carta de invitación/aceptación de un equipo o laboratorio francés colaborador, dominio de inglés o francés (B1/B2 recomendado).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.chili.campusfrance.org/programas-de-becas",
+    "src": "https://cl.ambafrance.org",
+    "note": "Convocatorias anuales gestionadas por Campus France Chili y el Servicio de Cooperación Científica y Universitaria de la Embajada de Francia, con aperturas habituales entre marzo y mayo para estancias en el otoño/invierno europeo siguiente."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "HZDR Dresden Summer Student Program — Pasantías de Investigación en Física y Materiales Avanzados",
+    "org": "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)",
+    "area": "Movilidad internacional",
+    "scope": "Internacional",
+    "city": "Dresden, Alemania",
+    "desc": "Programa internacional de pasantías científicas de verano (Summer Student Program) de 7 a 12 semanas en el prestigioso centro de investigación Helmholtz-Zentrum Dresden-Rossendorf en Alemania. Los estudiantes participan activamente en proyectos de investigación experimental o teórica en áreas estratégicas como física de la materia condensada, materiales magnéticos y nanoestructuras, física nuclear y de radiación, investigación en fuentes de alto campo magnético (Dresden High Magnetic Field Laboratory), física con láseres de ultra-alta intensidad (DRACO) y tecnologías para la transición energética.",
+    "fund": "Alojamiento gratuito para estudiantes internacionales en la residencia de HZDR en Dresden, estipendio diario para gastos de manutención (aprox. 36 € por día), y cobertura o reembolso de gastos de viaje y transporte local.",
+    "req": "Estudiantes de pregrado (que hayan completado al menos 3 años de estudios universitarios al inicio del programa) o máster en Física, Química, Ciencia de Materiales o disciplinas afines. Excelente expediente académico y buen dominio del inglés (idioma de trabajo del instituto).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.hzdr.de/db/Cms?pNid=2516",
+    "src": "https://www.hzdr.de",
+    "note": "Convocatoria anual de verano (julio a septiembre). El periodo de postulación abre habitualmente entre diciembre y febrero de cada año mediante el sistema de aplicación en línea de HZDR."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Santa Fe Institute (SFI) — Undergraduate Complexity Research (UCR) Fellowship",
+    "org": "Santa Fe Institute (SFI)",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Santa Fe, Nuevo México, EE. UU.",
+    "desc": "Programa residencial de investigación de verano de 10 semanas en el Santa Fe Institute dedicado a la ciencia de sistemas complejos. Los estudiantes desarrollan proyectos individuales de investigación bajo la mentoría directa de científicos del SFI en temas como física estadística interdisciplinaria, teoría de redes complejas, dinámica no lineal, teoría de la información y modelos basados en agentes. Incluye seminarios teóricos, talleres de modelación y presentación pública de resultados.",
+    "fund": "Estipendio semanal de manutención (~USD $600 por semana), alojamiento completo en residencias de St. John's College, plan de alimentación diario y pasajes aéreos de ida y vuelta a Santa Fe cubiertos. Se patrocina visa J-1 para estudiantes internacionales.",
+    "req": "Estudiantes de pregrado matriculados en física, matemáticas, ciencias de la computación o áreas cuantitativas afines en cualquier universidad del mundo que continúen sus estudios tras el verano. Abierto explícitamente a postulantes internacionales sin distinción de nacionalidad. Requiere expediente académico oficial, CV, 2 cartas de recomendación y ensayo de motivación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+    "src": "https://www.santafe.edu",
+    "note": "Convocatoria anual de excelencia con apertura regular entre octubre y enero. Destaca por financiar íntegramente a estudiantes internacionales sin financiamiento condicionado a ciudadanía estadounidense."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "UCLA IPAM — Research in Industrial Projects for Students (RIPS-LA)",
+    "org": "Institute for Pure and Applied Mathematics (IPAM) · UCLA",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Los Ángeles, California, EE. UU.",
+    "desc": "Pasantía intensiva de investigación de 9 semanas en el Instituto de Matemáticas Puras y Aplicadas (IPAM) de la Universidad de California, Los Ángeles. Equipos interdisciplinarios de 4 estudiantes de física, matemáticas y computación abordan problemas de optimización, ciencia de datos, aprendizaje automático y modelado matemático avanzado encargados por la industria y laboratorios nacionales (Google, Lawrence Livermore, Meta, Amazon, HRL).",
+    "fund": "Estipendio de investigación de USD $4.000 a $4.500, alojamiento en el campus de UCLA, asignación para comidas y pasajes aéreos de ida y vuelta a Los Ángeles. IPAM gestiona el formulario DS-2019 para la visa J-1 de estudiantes internacionales.",
+    "req": "Estudiantes de pregrado activos en matemáticas, física, estadística, computación o áreas científicas afines en cualquier institución de educación superior del mundo. Abierto a estudiantes internacionales. Requiere expediente académico, CV, 2 cartas de recomendación y buen dominio del idioma inglés.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2025/",
+    "src": "https://www.ipam.ucla.edu",
+    "note": "Apertura habitual de postulaciones hacia noviembre con cierre en febrero. Reconocido por su respaldo formal y visado J-1 para estudiantes de universidades internacionales."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Carnegie Observatories — CASSI Summer Student Program (Pasadena)",
+    "org": "The Carnegie Observatories · Carnegie Institution for Science",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Pasadena, California, EE. UU.",
+    "desc": "Pasantía de investigación científica estival de 10 semanas en la sede central de The Carnegie Observatories en Pasadena, California. Los estudiantes realizan investigación guiada con astrónomos y astrofísicos del staff de Carnegie en ciencia de datos astronómicos, física de galaxias, cosmología observacional, simulaciones numéricas y análisis de datos de los telescopios Magallanes en Las Campanas (Chile).",
+    "fund": "Estipendio competitivo de aproximadamente USD $7.000 para el periodo de 10 semanas, subsidio/gestión de alojamiento local en Pasadena y apoyo para gastos de traslado aéreo de ida y vuelta. Abierto a estudiantes internacionales sin requerir ciudadanía estadounidense.",
+    "req": "Estudiantes de pregrado en física, astronomía, matemáticas, ingeniería o disciplinas computacionales afines matriculados en universidades de cualquier país que continúen estudios tras el verano. Requiere postulación online, CV, expediente de notas, ensayo de objetivos de investigación y 2 cartas de recomendación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://obs.carnegiescience.edu/cassi",
+    "src": "https://carnegiescience.edu",
+    "note": "Apertura periódica anual entre noviembre y enero/febrero. Ofrece contacto directo con la instrumentación y astronomía de vanguardia operada en Chile."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ChucaoTech — Nanoburbujas e Instrumentación Física en Acuicultura y Minería",
+    "org": "ChucaoTech",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Llanquihue / Puerto Montt y Santiago",
+    "desc": "Prácticas de ingeniería y física aplicada en el desarrollo, calibración y optimización de generadores de nanoburbujas de alta eficiencia para acuicultura, minería y tratamiento hídrico. Los practicantes participan en análisis de dinámica de fluidos multifásicos, transferencia de masa gas-líquido, caracterización física de burbujas nanométricas (potencial zeta, distribución de tamaño) y desarrollo de instrumentación de monitoreo en tiempo real.",
+    "fund": "Asignación mensual de práctica y asignación de colación/movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://chucaotech.com/",
+    "src": "https://chucaotech.com/",
+    "note": "Ideal para estudiantes con formación en mecánica de fluidos, fisicoquímica de interfaces, óptica/dispersión de luz o instrumentación y sensores. Postulación directa vía sitio web oficial o contacto (info@chucaotech.com)."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "PhageLab — Biofísica y Biotecnología Computacional",
+    "org": "PhageLab",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Macul)",
+    "desc": "Prácticas profesionales enfocadas en el diseño y aplicación de cócteles bacteriófagos personalizados mediante biotecnología profunda y herramientas bioinformáticas/biofísicas. Trabajo en modelación estructural y simulación molecular de interacciones fago-bacteria, análisis de dinámicas de infección a nivel microbiano, procesamiento de datos genómicos masivos y optimización biofísica de formulaciones para producción animal y reducción de antibióticos.",
+    "fund": "Asignación mensual de práctica acorde al sector Deep Tech",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://phage-lab.com/",
+    "src": "https://phage-lab.com/",
+    "note": "Excelente entorno interdisciplinario para estudiantes con interés en biofísica molecular, modelación matemática y computacional de sistemas biológicos y biotecnología de vanguardia. Postulaciones vía communications@phage-lab.com y LinkedIn institucional."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Instacrops — Sensores IoT, Telemetría y Física Agrícola",
+    "org": "Instacrops",
+    "area": "Deep Tech y Hardware",
+    "scope": "Chile",
+    "city": "Santiago (Providencia)",
+    "desc": "Prácticas y memorias en desarrollo e integración de hardware de sensado agroclimático, estaciones telemétricas IoT y algoritmos predictivos. Las actividades incluyen calibración y modelación física de sensores de humedad de suelo por reflectometría dieléctrica (TDR/FDR), radiación solar y transpiración vegetal, análisis de microclimas y modelado del balance hídrico y térmico en cultivos de alta precisión.",
+    "fund": "Asignación mensual para practicantes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://instacrops.ai/",
+    "src": "https://instacrops.ai/",
+    "note": "Alineada con física de sensores, electromagnetismo aplicado en suelos, propagación de ondas de radiofrecuencia (IoT) y termodinámica ambiental. Recepción permanente de antecedentes en contacto@instacrops.com y sección de empleos."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Hatch Ingenieros y Consultores — Procesamiento de Minerales, Pirometalurgia y Simulación",
+    "org": "Hatch Ingenieros y Consultores Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas profesionales y memorias de título en consultoría global de ingeniería de procesos. Desarrollo y calibración de modelos numéricos para pirometalurgia, hidrometalurgia y procesamiento de minerales, incluyendo dinámica de fluidos computacional (CFD), modelado por elementos discretos (DEM) y balances acoplados de masa y energía en reactores industriales y hornos de fusión.",
+    "fund": "Asignación mensual de práctica y movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://jobs.hatch.com/",
+    "src": "https://www.hatch.com/es-cl",
+    "note": "Altamente afín a estudiantes de física e ingeniería interesados en termodinámica de procesos a altas temperaturas, mecánica de fluidos, transferencia de calor y simulación multifísica avanzada."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "WSP Chile — Modelamiento Numérico, Hidrodinámica y Geofísica",
+    "org": "WSP Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas en consultoría de ingeniería y medioambiente en las áreas de recursos hídricos, modelación numérica y geociencias. Participación en simulaciones hidrodinámicas fluviales, marinas y subterráneas, propagación de ondas, transporte de sedimentos y solutos, así como procesamiento de datos geofísicos para obras de infraestructura y proyectos mineros a gran escala.",
+    "fund": "Asignación mensual de práctica y beneficios de empresa",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.wsp.com/es-cl/carreras",
+    "src": "https://www.wsp.com/es-cl",
+    "note": "Idónea para estudiantes con formación en física clásica, mecánica de medios continuos, cálculo numérico, geofísica aplicada y programación científica."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Arcadis Chile — Ingeniería y Recursos Hídricos",
+    "org": "Arcadis Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Prácticas profesionales en diseño e ingeniería de soluciones sustentables y recursos hídricos. Los proyectos comprenden modelación hidrogeológica de cuencas y acuíferos, dinámica de fluidos en conducciones y tranques de relaves, análisis de transporte de contaminantes y balances hídricos complejos mediante métodos numéricos y herramientas de simulación computacional.",
+    "fund": "Asignación económica mensual para practicantes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.arcadis.com/es-cl/carreras",
+    "src": "https://www.arcadis.com/es-cl",
+    "note": "Relevante para perfiles de física o ingeniería aplicada con interés en mecánica de fluidos, hidrogeología cuantitativa, modelación matemática y sustentabilidad ambiental."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelos de Riesgo Financiero y Data & Analytics",
+    "org": "BCI (Banco de Crédito e Inversiones)",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional y pasantía orientada al desarrollo, calibración y backtesting de modelos cuantitativos de riesgo financiero (riesgo de crédito, mercado y liquidez), modelos predictivos de comportamiento de clientes y algoritmos de Machine Learning en la División de Data & Analytics y Riesgo Financiero de BCI.",
+    "fund": "Asignación mensual de práctica profesional, seguro complementario y modalidad de trabajo híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://trabajaenbci.cl/",
+    "src": "https://www.bci.cl/",
+    "note": "Excelente oportunidad para estudiantes y licenciados en Física interesados en econofísica, física estadística, cálculo estocástico y ciencia de datos aplicada a sistemas financieros complejos y gestión cuantitativa del riesgo."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelos de Riesgo de Crédito y Mercado",
+    "org": "Scotiabank Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Pasantía en la Gerencia de Modelos de Riesgo de Scotiabank Chile, participando en la formulación matemática, estimación estadística y validación de modelos cuantitativos de riesgo crediticio (PD, LGD, EAD, IFRS 9) y modelos de riesgo de mercado (VaR, simulación de Monte Carlo, estrés financiero y derivados).",
+    "fund": "Compensación económica mensual de práctica, seguro de accidentes y modalidad híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.scotiabankchile.cl/acerca-de/trabaja-con-nosotros",
+    "src": "https://www.scotiabankchile.cl/",
+    "note": "Muy formativa para perfiles con sólida base en física teórica y matemática aplicada: modelación estocástica, simulaciones Monte Carlo, análisis de series de tiempo no lineales y programación científica en Python/R/SQL."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Práctica Profesional en Modelación Actuarial y Modelos Estocásticos",
+    "org": "Consorcio Financiero",
+    "area": "Econofísica y finanzas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional en la Gerencia Actuarial y de Inversiones de Consorcio, enfocada en la modelación estocástica de reservas de seguros y rentas vitalicias, proyección probabilística de flujos de capital, análisis de longevidad/mortalidad y optimización de portafolios de inversión bajo marcos regulatorios solvencia II.",
+    "fund": "Bono mensual de práctica profesional, colación/tickets de almuerzo y seguro de práctica",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.consorcio.cl/trabaja-con-nosotros",
+    "src": "https://www.consorcio.cl/",
+    "note": "Altamente recomendada para físicos y matemáticos interesados en ciencias actuariales, teoría de probabilidades avanzadas, ecuaciones diferenciales estocásticas y métodos de optimización numérica en el sector asegurador y de inversiones."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Brain Chile – Programa de Aceleración de Emprendimientos Científico-Tecnológicos",
+    "org": "Centro de Innovación UC Anacleto Angelini, Escuela de Ingeniería UC y Banco Santander",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Programa de aceleración e impulso a emprendimientos de base científico-tecnológica (EBCT) originados en instituciones de educación superior de todo Chile y Latinoamérica. Apoya la maduración de proyectos y prototipos desde el laboratorio hasta etapas de validación comercial y técnica, propiedad intelectual y pitch de inversión.",
+    "fund": "Hasta $32.000.000 CLP en capital no reembolsable (distribuido en etapas de bootcamp, aceleración y final) + Talleres especializados, mentorías técnicas y comerciales, espacios de trabajo y acceso a laboratorios y redes de financiamiento.",
+    "req": "Equipos de al menos 2 personas donde al menos uno sea estudiante regular de pregrado, posgrado, investigador, académico o egresado reciente de cualquier institución de educación superior en Chile. El proyecto debe basarse en ciencia o tecnología aplicada y contar con prueba de concepto validada en laboratorio (TRL 3 o superior).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://brainchile.com/",
+    "src": "https://centrodeinnovacion.uc.cl/brain-chile/",
+    "note": "Convocatoria anual de gran impacto en el ecosistema nacional de EBCT. Sus postulaciones se abren habitualmente entre marzo y mayo de cada año."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Concurso Aplica tu Idea – Fundación Copec-UC",
+    "org": "Fundación Copec-UC (Empresas Copec y Pontificia Universidad Católica de Chile)",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Concurso nacional de I+D aplicada enfocado en estudiantes de educación superior en Chile. Busca detectar ideas innovadoras con base científica o tecnológica para resolver problemáticas relevantes en recursos naturales, energía, agua, sustentabilidad y biotecnología.",
+    "fund": "$500.000 CLP a cada uno de los 10 mejores proyectos preseleccionados (finalistas) + $5.000.000 CLP para el equipo ganador del Demo Day + Talleres de perfeccionamiento en pitch, modelo de negocio y acompañamiento del equipo de expertos de la Fundación Copec-UC.",
+    "req": "Equipos de hasta 5 integrantes de cualquier universidad, instituto profesional o centro de formación técnica reconocido en Chile, con matrícula vigente en carreras de pregrado o programas de posgrado. Se postula inicialmente mediante un video pitch de máximo 3 minutos explicando la propuesta y su base científica.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://fcuc.cl/concursos/aplica-tu-idea/",
+    "src": "https://fcuc.cl/",
+    "note": "Convocatoria anual dirigida a estudiantes, tradicionalmente abierta a mediados de año (julio-agosto). Representa una plataforma formativa ideal para conectar proyectos de pregrado con financiamiento privado e I+D industrial."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Know Hub Ignition – Programa de Validación de Emprendimientos de Base Científica",
+    "org": "Know Hub Chile & ANID",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Programa intensivo de pre-aceleración y 'pre-company building' para iniciativas y tecnologías surgidas en universidades y centros de investigación nacionales. Utiliza la metodología de Customer Discovery (adaptada del programa NSF I-Corps de Estados Unidos) para evaluar la viabilidad de mercado de desarrollos científicos y estructurar nuevas startups de base científica.",
+    "fund": "Entrenamiento intensivo internacional y mentorías especializadas con expertos en transferencia tecnológica + Financiamiento para validación comercial y prototipado rápido (fondos concursables de aceleración para finalistas) + Acompañamiento en levantamiento de capital y vinculación con la industria.",
+    "req": "Equipos de trabajo multidisciplinarios conformados por estudiantes de pregrado, posgrado, investigadores o académicos de universidades y centros de I+D chilenos asociados o abiertos a la convocatoria. Deben poseer resultados de I+D con prueba de concepto o nivel de madurez técnica inicial listos para validación con el mercado.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://knowhub.cl/know-hub-ignition/",
+    "src": "https://knowhub.cl/",
+    "note": "Convocatoria periódica anual orientada a transformar proyectos de ciencia dura (física, química, nanotecnología, biotecnología, ingeniería) en empresas de base científico-tecnológica (EBCT) con proyección internacional."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Coordinador Eléctrico Nacional (CEN) — Prácticas en Modelación y Operación del SEN",
+    "org": "Coordinador Eléctrico Nacional",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago (Pudahuel) y Modalidad Híbrida",
+    "desc": "Prácticas profesionales y memorias de título en la corporación autónoma encargada de coordinar y operar el Sistema Eléctrico Nacional (SEN). Los proyectos abarcan modelación matemática de flujo de potencia, estabilidad dinámica de redes eléctricas de alta tensión, integración de generación renovable variable (solar fotovoltaica y eólica), estudios de inercia sintética y análisis de contingencias con software de simulación especializada.",
+    "fund": "Asignación económica mensual para practicantes + buses de acercamiento y servicio de casino",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.coordinador.cl/trabaja-con-nosotros/",
+    "src": "https://www.coordinador.cl",
+    "note": "Convocatorias estivales e invernales canalizadas por su portal oficial y bolsas universitarias. Se reciben antecedentes también vía seleccion@coordinador.cl."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "HIF Global — Prácticas en e-Fuels, Captura de CO2 e Hidrógeno Verde",
+    "org": "HIF Global (Haru Oni)",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Punta Arenas (Magallanes) y Santiago",
+    "desc": "Pasantías técnicas y profesionales en la planta piloto Haru Oni y proyectos comerciales de combustibles sintéticos carbono-neutrales (e-Combustibles). Trabajo en procesos electroquímicos de electrólisis PEM para generación de hidrógeno verde, captura directa de dióxido de carbono (DAC), reactores de síntesis catalítica de e-Metanol y gasolina sintética, optimización termodinámica de ciclos térmicos y balance másico-energético en condiciones subantárticas.",
+    "fund": "Asignación económica mensual de práctica + elementos de protección personal y apoyo logístico en faena según modalidad",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://hifglobal.com/es",
+    "src": "https://hifglobal.com",
+    "note": "Las vacantes para la planta Haru Oni y proyectos Magallanes se publican en LinkedIn (HIF Global) y mediante convenios universitarios directos."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Centro Sismológico Nacional (CSN) — Prácticas en Sismología, Geodesia y Procesamiento de Señales",
+    "org": "Centro Sismológico Nacional (CSN) · Universidad de Chile",
+    "area": "Geofísica y clima",
+    "scope": "Chile",
+    "city": "Santiago (Beauchef, Región Metropolitana)",
+    "desc": "Prácticas de investigación y desarrollo tecnológico en el organismo técnico oficial de monitoreo sísmico de Chile, dependiente de la FCFM de la Universidad de Chile. Participación en proyectos de procesamiento digital de señales sismológicas en tiempo real, análisis espectral de ondas de volumen y superficiales, modelamiento cinemático de fuentes sísmicas, monitoreo geodésico con estaciones GNSS continuas de alta tasa, algoritmos de detección automática de terremotos y sistemas de alerta temprana sismo-tsunami.",
+    "fund": "Prácticas formativas y de investigación técnica con acceso a estaciones y centros de cómputo de alto rendimiento",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.csn.uchile.cl",
+    "src": "https://www.csn.uchile.cl/red-sismologica/",
+    "note": "Las solicitudes de práctica se gestionan mediante convenio o postulación espontánea enviando CV y carta de motivación a contacto@csn.uchile.cl."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "IDIEM & DICTUC — Ensayos No Destructivos (END), Metrología y Física de Materiales",
+    "org": "IDIEM (U. de Chile) · DICTUC (UC)",
+    "area": "Ensayos No Destructivos (END)",
+    "scope": "Chile",
+    "city": "Santiago (Macul / Beauchef) y Operaciones en Terreno",
+    "desc": "Prácticas profesionales e industriales en los dos centros de investigación y transferencia tecnológica más prestigiosos de Chile. Proyectos en ensayos no destructivos avanzados (ultrasonido phased array, emisión acústica, termografía infrarroja, partículas magnéticas, corrientes de Foucault), metrología industrial y de patrones nacionales (calibración de fuerza, presión, masa y longitud bajo norma ISO/IEC 17025), análisis de fallas por fractomecánica e instrumentación de sensores para integridad estructural de puentes, faenas mineras y centrales de generación.",
+    "fund": "Asignación mensual de práctica según unidad + seguro institucional y capacitación técnica en laboratorios acreditados",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.idiem.cl",
+    "src": "https://www.dictuc.cl",
+    "note": "Postulaciones activas todo el año en sus portales de empleo de Reqlut / Trabajando.cl / HiringRoom y ferias laborales universitarias."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Albemarle Chile — Litio, Hidrometalurgia de Salares y Extracción Directa (EDL)",
+    "org": "Albemarle Chile",
+    "area": "Minería",
+    "scope": "Chile",
+    "city": "Antofagasta (Planta La Negra) y Salar de Atacama",
+    "desc": "Programa corporativo estival de prácticas y memorias en uno de los mayores productores mundiales de litio. Oportunidades en optimización de pozas de evaporación solar en el Salar de Atacama, transporte reactivo y termodinámica de fases salinas multicomponente (Li, Mg, K, B), pruebas piloto de Extracción Directa de Litio (EDL / DLE), control de calidad físico-químico y procesos de conversión química en Planta La Negra para carbonato e hidróxido de litio grado batería.",
+    "fund": "Asignación económica mensual para estudiantes + traslado, alojamiento en campamento y alimentación en turnos según faena (5x2, 4x3 o 7x7)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.albemarle.com/es-es/careers",
+    "src": "https://www.albemarle.com",
+    "note": "El Programa Estival de Prácticas y Memorias se abre típicamente entre septiembre y noviembre a través del portal de reclutamiento Workday de Albemarle."
+  },
+  {
+    "kind": [
+      "prof",
+      "ind"
+    ],
+    "name": "Metrogas & Gasco — Dinámica de Fluidos en Redes de Gas y Transición a Hidrógeno (H2 Blending)",
+    "org": "Metrogas · Empresas Gasco",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago y Oficinas Regionales",
+    "desc": "Prácticas de ingeniería en empresas líderes en distribución y soluciones energéticas a gas natural y GLP. Involucramiento en simulación computacional de flujo compresible en redes de cañerías (CFD), termodinámica de combustión y vaporización, análisis de integridad de ductos mediante ultrasonido y flujo disperso, y proyectos pioneros de inyección y mezcla de hidrógeno verde en redes existentes de gas (H2 Blending), compatibilidad metalúrgica y detección de fugas.",
+    "fund": "Compensación económica mensual + modalidad de trabajo híbrida o presencial con asignación de colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.metrogas.cl",
+    "src": "https://www.gasco.cl",
+    "note": "Convocatorias publicadas en Reqlut, Emplea X Chile y LinkedIn de Metrogas y Empresas Gasco entre octubre y diciembre."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "PLANCKS – Physics League Across Numerous Countries for Kick-ass Students",
+    "org": "International Association of Physics Students (IAPS)",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Sedes rotativas anuales (Europa) / Rondas preliminares remotas",
+    "desc": "Competencia internacional anual de resolución de problemas teóricos de física (incluyendo mecánica cuántica, física de partículas, óptica, relatividad y materia condensada) para equipos de 3 a 4 estudiantes de pregrado. Organizada por la IAPS, reúne a las delegaciones nacionales clasificadas en un simposio de varios días que incluye conferencias magistrales de premios Nobel, workshops científicos y tours por laboratorios de vanguardia.",
+    "fund": "Alojamiento completo, alimentación y actividades culturales/científicas cubiertas durante la final presencial; premios en efectivo y trofeos para los tres mejores equipos del mundo; gastos de traslado frecuentemente cofinanciados por comités nacionales de IAPS o departamentos universitarios.",
+    "req": "Equipos conformados por 3 o 4 estudiantes universitarios de pregrado (o primer año de maestría) en Física o ciencias afines. Clasificación a través de eliminatorias nacionales oficiales de IAPS o mediante la ronda preliminar internacional abierta para países sin comité nacional formal.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.iaps.info/plancks/",
+    "src": "https://plancks.iaps.info/",
+    "note": "El certamen universitario de física teórica por equipos más prestigioso a nivel mundial. Las rondas clasificatorias abren anualmente entre noviembre y febrero, con la gran final celebrándose en mayo en una destacada universidad europea."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "The University Physics Competition (UPC)",
+    "org": "The University Physics Competition (auspiciado por APS y AAS)",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Remoto / Internacional",
+    "desc": "Concurso internacional en línea donde equipos de hasta 3 estudiantes de pregrado cuentan con exactamente 48 horas para resolver uno de dos problemas de física de frontera del mundo real. Los participantes deben construir un modelo físico y computacional, resolverlo numéricamente y redactar un artículo científico formal en inglés que sintetice su análisis.",
+    "fund": "Medallas de Oro (top 1-2%), Plata (top 15-20%) y Bronce (top 50-70%) reconocidas internacionalmente; certificados oficiales emitidos con el respaldo de la American Physical Society (APS) y la American Astronomical Society (AAS); publicación de los trabajos más sobresalientes en el Journal of the University Physics Competition.",
+    "req": "Equipos de hasta 3 estudiantes universitarios de pregrado matriculados en cualquier institución del mundo, acompañados por el patrocinio/registro de un profesor o tutor académico de su universidad.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "http://www.uphysicsc.com/registration.html",
+    "src": "http://www.uphysicsc.com/",
+    "note": "Competencia anual de alto impacto que se celebra durante un fin de semana a principios de noviembre. Oportunidad idónea para que equipos de pregrado ejerciten modelado numérico, física teórica y redacción de artículos con aval de la APS."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "IBM Quantum Challenge & Qiskit Global Summer School",
+    "org": "IBM Quantum / IBM Research",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Remoto / Internacional",
+    "desc": "Desafío intensivo y programa global de formación avanzada en computación cuántica organizado por IBM. Los estudiantes resuelven retos algorítmicos complejos sobre computación cuántica, corrección de errores cuánticos (QEC), simulación de sistemas cuánticos Many-Body y algoritmos de optimización ejecutados directamente en hardware cuántico real y simuladores de IBM.",
+    "fund": "Acceso gratuito al 100% a procesadores cuánticos de última generación en la nube de IBM; credenciales y certificaciones digitales verificables (IBM Quantum Digital Badges vía Credly); mentoría directa con investigadores de IBM Research y vinculación a programas de pasantías e investigación cuántica.",
+    "req": "Abierto a estudiantes universitarios de pregrado y posgrado en Física, Ciencias de la Computación, Matemáticas o Ingeniería. Requiere conocimientos de álgebra lineal básica y familiaridad con programación en Python.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://research.ibm.com/quantum/challenges",
+    "src": "https://www.ibm.com/quantum",
+    "note": "Se desarrolla anualmente con dos grandes convocatorias: el IBM Quantum Challenge (primavera/otoño) y la Qiskit Global Summer School (julio/agosto). Constituye el estándar de iniciación y acreditación práctica en desarrollo de software cuántico con Qiskit."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Altium Designer Student Lab License - Diseño de PCBs y Electrónica",
+    "org": "Altium LLC",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia profesional completa de Altium Designer otorgada a estudiantes de ingeniería y ciencias. Proporciona herramientas avanzadas de captura de esquemáticos, ruteo interactivo de circuitos impresos (PCB) de múltiples capas, simulación de circuitos SPICE integrada, visualización 3D en tiempo real con integración ECAD/MCAD, y gestión colaborativa de proyectos en la nube mediante la plataforma Altium 365.",
+    "fund": "Licencia estudiantil 100% gratuita por 6 meses con renovación continua durante todo el periodo de estudios universitarios. Incluye acceso sin costo a cursos de certificación de Altium Education y almacenamiento colaborativo en la nube en Altium 365.",
+    "req": "Estar matriculado como estudiante de pregrado o posgrado en una institución de educación superior y registrarse con el correo electrónico universitario institucional (@usm.cl).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.altium.com/education/student-licenses",
+    "src": "https://www.altium.com/education",
+    "note": "Software estándar en la industria aeroespacial, robótica y electrónica de instrumentación científica. Indispensable para proyectos de hardware, tesis y desarrollo de placas electrónicas personalizadas en laboratorios de física aplicada."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "NI LabVIEW Student Edition & Multisim Academic Access",
+    "org": "National Instruments (NI / Emerson)",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Acceso estudiantil al entorno insignia de programación gráfica NI LabVIEW y al simulador de circuitos SPICE NI Multisim. Permite el diseño de sistemas de instrumentación virtual, automatización de bancos de pruebas, adquisición de datos (DAQ), procesamiento digital de señales experimentales y control de instrumentos de medición en laboratorios de física e ingeniería.",
+    "fund": "Acceso gratuito y licencias educativas para estudiantes y cursos universitarios, incluyendo suites de instrumentación virtual, librerías de análisis matemático de señales y simulación de circuitos analógicos y digitales.",
+    "req": "Estudiantes regulares con cuenta creada utilizando el correo institucional (@usm.cl). En algunos módulos se valida mediante el acuerdo de licenciamiento de campus o código de activación académica provisto por la universidad o docentes.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.ni.com/es-cl/support/downloads/software-products/download.labview-student-software-suite.html",
+    "src": "https://www.ni.com/academic",
+    "note": "Estándar global en laboratorios de investigación científica y física experimental para adquisición de señales de alta precisión y control de sensores, osciloscopios, generadores y criostatos mediante interfaces GPIB, USB y Ethernet."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "OriginPro Learning Edition - Análisis Gráfico y Ajuste de Curvas para Estudiantes",
+    "org": "OriginLab Corporation",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia de OriginPro para estudiantes, el paquete líder de análisis de datos científicos, ajuste de curvas no lineal (peak analysis / curve fitting), procesamiento de señales y generación de gráficos 2D y 3D con estándar de publicación editorial. Incluye integración con Python y R, herramientas estadísticas avanzadas y algoritmos de deconvolución espectral.",
+    "fund": "Licencia de OriginPro 100% gratuita por 6 meses (Learning Edition) con renovación periódica disponible durante los estudios universitarios para estudiantes con correo institucional.",
+    "req": "Estudiante activo con cuenta de correo institucional universitario (@usm.cl). La verificación es inmediata mediante correo de validación al dominio institucional.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.originlab.com/index.aspx?go=Products/OriginProStudent",
+    "src": "https://www.originlab.com/",
+    "note": "Herramienta esencial para la redacción de informes de laboratorio, tesis y papers en física, química y ciencia de materiales. Ampliamente utilizada para el tratamiento de datos de difracción de rayos X (XRD), espectroscopía Raman, FTIR y fotoluminiscencia."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Deepnote Education Plan — Notebooks Colaborativos de Python y Ciencia de Datos en la Nube",
+    "org": "Deepnote",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entorno colaborativo en la nube para Jupyter notebooks en Python, R y SQL con ejecución en hardware dedicado. El plan educativo ofrece de forma gratuita para estudiantes y docentes el plan Team/Pro, que incluye máquinas virtuales con hasta 16 GB de RAM y 4 vCPUs, proyectos colaborativos ilimitados en tiempo real, integración nativa con GitHub, GitLab, Google Drive y almacenes S3, soporte de autocompletado inteligente con IA y visualizaciones interactivas listas para publicar análisis y modelos de física computacional o ciencia de datos.",
+    "fund": "Plan Team/Pro 100% gratuito (valorado en $20-30 USD/mes por usuario), máquinas virtuales cloud con hasta 16 GB RAM y 4 vCPUs, horas de computación aumentadas y proyectos colaborativos ilimitados.",
+    "req": "Correo institucional universitario activo (@usm.cl) o acreditación de condición de estudiante regular/docente.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://deepnote.com/education",
+    "src": "https://deepnote.com/education",
+    "note": "Activación inmediata o en pocos días registrándose con el correo institucional @usm.cl o completando el formulario de solicitud académica. Ideal para asignaturas de métodos computacionales, física computacional, machine learning y proyectos de investigación en equipo."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "AWS Educate — Formación Cloud y Créditos de Computación para Estudiantes",
+    "org": "Amazon Web Services (AWS)",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Programa global de formación y experimentación en la nube de Amazon Web Services para estudiantes sin requerir tarjeta de crédito. Proporciona acceso a rutas de aprendizaje especializadas (computación en la nube, machine learning, DevOps, análisis de datos masivos), insignias digitales verificables (AWS Badges), acceso a laboratorios prácticos en consolas reales de AWS Sandbox para desplegar instancias EC2, almacenamiento S3 y bases de datos RDS, además de acceso a la bolsa de trabajo global AWS Educate Job Board.",
+    "fund": "Acceso 100% gratuito a laboratorios prácticos guiados con créditos y entornos sandbox en AWS sin necesidad de registrar tarjeta de crédito, más cursos oficiales, insignias de certificación y bolsa laboral de empleabilidad tech.",
+    "req": "Ser estudiante de educación superior mayor de 13 años con correo institucional universitario (@usm.cl). No requiere ingresar método de pago ni tarjeta bancaria.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://aws.amazon.com/education/awseducate/",
+    "src": "https://aws.amazon.com/education/awseducate/",
+    "note": "Registro directo sin costo. Complementa la formación de estudiantes que requieren aprender computación distribuida, procesamiento de datos de alta escala y arquitecturas de servidores en la nube sin incurrir en cobros accidentales."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "MongoDB Atlas for Students — Créditos Cloud y Certificación Oficial Gratuita",
+    "org": "MongoDB",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Paquete de beneficios del programa MongoDB for Academia para estudiantes universitarios. Incluye $50 USD en créditos para despliegue de clusters dedicados y sin expiración en MongoDB Atlas (la plataforma de base de datos multicloud líder NoSQL orientada a documentos), acceso irrestricto a todos los cursos avanzados en MongoDB University, y un voucher de examen 100% bonificado para rendir la certificación profesional oficial MongoDB Certified Associate Developer o DBA (valorada en $150 USD).",
+    "fund": "$50 USD en créditos para MongoDB Atlas + 1 voucher 100% gratuito para certificación oficial MongoDB Certified Associate ($150 USD de valor comercial) + acceso a MongoDB University y herramientas premium.",
+    "req": "Correo institucional universitario activo (@usm.cl) o cuenta verificada en el GitHub Student Developer Pack.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.mongodb.com/students",
+    "src": "https://www.mongodb.com/academia/students",
+    "note": "Los créditos y el código de certificación se obtienen directamente a través del portal de estudiantes de MongoDB o canjeándolo mediante el GitHub Student Developer Pack. Muy útil para desarrollo web, almacenamiento de series temporales de sensores y aplicaciones de backend."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Lenovo Educación Chile - Descuento Estudiantil en Laptops y Tecnología",
+    "org": "Lenovo Chile",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Tienda educativa oficial de Lenovo en Chile con precios rebajados exclusivos en computadores portátiles ThinkPad, IdeaPad, Legion y Yoga, además de accesorios y monitores.",
+    "fund": "Hasta 20% a 30% de descuento frente al precio de lista retail, con envío a todo Chile y garantía oficial",
+    "req": "Ser estudiante o académico regular con correo universitario institucional (@usm.cl) validado vía plataforma educativa o SheerID",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.lenovo.com/cl/es/d/deals/estudiantes/",
+    "src": "https://www.lenovo.com/cl/es/",
+    "note": "Recomendado para estudiantes de ingeniería y ciencias que necesitan renovar laptops de alto rendimiento para cálculo numérico, programación y simulación."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Adobe Creative Cloud para Estudiantes y Profesores",
+    "org": "Adobe Systems",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Acceso preferencial para estudiantes a la suite completa de Adobe Creative Cloud con más de 20 aplicaciones profesionales, incluyendo Photoshop, Illustrator, Premiere Pro y Acrobat Pro.",
+    "fund": "Más de 60% de descuento sobre la tarifa estándar individual en suscripción mensual o anual",
+    "req": "Estudiante activo de educación superior demostrable con dirección de correo universitario (@usm.cl) o credencial/certificado",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.adobe.com/cl/creativecloud/buy/students.html",
+    "src": "https://www.adobe.com/cl/",
+    "note": "Esencial para diseño de figuras para publicaciones científicas, posters de congresos, edición audiovisual y gestión avanzada de documentos PDF."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "ISIC Chile - Tarjeta Internacional de Identidad Estudiantil",
+    "org": "ISIC Chile / ISIC Association",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Acreditación internacional única reconocida por la UNESCO que entrega miles de beneficios y descuentos directos en Chile y el extranjero en marcas de tecnología, librerías, aerolíneas, buses y cursos.",
+    "fund": "Descuentos de 10% a 40% en marcas de hardware asociadas (Samsung, HP), viajes, turismo y plataformas educativas",
+    "req": "Ser alumno regular de pregrado o postgrado con certificado de alumno regular vigente o correo institucional (@usm.cl)",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://isic.cl/",
+    "src": "https://isic.cl/",
+    "note": "Muy conveniente para estudiantes que asisten a conferencias en el extranjero, pasantías internacionales o buscan convenios en equipamiento tecnológico."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Pasantías y Prácticas Profesionales en Ingeniería Satelital y Operaciones Espaciales",
+    "org": "Centro Espacial Nacional (CEN) / FACH (Cerrillos)",
+    "area": "Aeroespacial & Satélites",
+    "scope": "Chile",
+    "city": "Santiago (Cerrillos) / Región Metropolitana",
+    "desc": "Pasantías y prácticas profesionales en el epicentro del Sistema Nacional Satelital (SNSat) en el CEN Los Cerrillos. Los estudiantes de ingeniería y física participan en integración y testeo de microsatélites (SNSat-1/SNSat-2) en salas limpias, telemetría y seguimiento en estaciones terrenas, óptica espacial y procesamiento masivo de datos geoespaciales con supercomputación e IA.",
+    "fund": "Asignación mensual de práctica según modalidad institucional FACH / Servicio Civil + equipamiento de laboratorio de alta tecnología espacial.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.fach.mil.cl",
+    "src": "https://www.fach.mil.cl",
+    "note": "Postulaciones canalizadas a través de convenios universitarios de vinculación (USM, UCH, USACH) o convocatorias a profesionales y practicantes civiles vía sne@fach.cl y portal del Estado."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Pasantías de Investigación y Memorias de Título en CubeSats y Cargas Útiles (Programa SUCHAI)",
+    "org": "Laboratorio SUCHAI / SPEL (FCFM U. de Chile)",
+    "area": "Aeroespacial & Cargas Útiles",
+    "scope": "Chile",
+    "city": "Santiago (Beauchef) / Híbrido",
+    "desc": "Proyectos de memoria de título, pasantías y prácticas de investigación en el Space and Planetary Exploration Laboratory (SPEL). Enfocado en el desarrollo de nanosatélites CubeSat (SUCHAI-2, 3, 4 y PlantSat), sistemas embebidos de vuelo en tiempo real, física de la ionósfera, sensores para radiación cósmica, comunicaciones ópticas láser y experimentos de astrobiología orbital.",
+    "fund": "Financiamiento para memoristas mediante proyectos basales ANID, Fondecyt y Fondef asociados al laboratorio; acceso a laboratorios e instrumental de calibración espacial.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "abierta",
+    "apply": "https://spel.cl",
+    "src": "https://spel.cl",
+    "note": "Abierto a estudiantes avanzados de ingeniería física, eléctrica, mecánica, electrónica y computación de universidades chilenas interesados en misiones aeroespaciales."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Prácticas de Ingeniería en Robótica Móvil Autónoma y Visión por Computador",
+    "org": "Zippedi Inc.",
+    "area": "Robótica & Automatización",
+    "scope": "Chile",
+    "city": "Santiago / Las Condes (Híbrido)",
+    "desc": "Prácticas profesionales e inserción técnica en la scale-up chilena pionera en robótica móvil autónoma y visión artificial para retail a escala internacional (EE.UU., Chile, Colombia). Los estudiantes trabajan en algoritmos de SLAM, navegación autónoma en entornos dinámicos, segmentación y reconocimiento de imágenes con Deep Learning (PyTorch/OpenCV), firmware embebido y pipelines en la nube.",
+    "fund": "Compensación económica mensual competitiva de práctica (~$300.000 - $450.000 CLP/mes) + modalidad híbrida y mentoría con expertos de la industria.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.zippedi.com",
+    "src": "https://www.zippedi.com",
+    "note": "Reclutamiento activo a través de FirstJob y LinkedIn. Excelente vitrina para perfiles con sólida base en física, matemática, electrónica o computación que dominen Python/C++."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Pasantías y Prácticas de R&D en Deep Tech, Algoritmia y Molecular Food Science (Giuseppe AI)",
+    "org": "The Not Company (NotCo)",
+    "area": "Deep Tech & Inteligencia Artificial",
+    "scope": "Chile",
+    "city": "Santiago (Macul) / Híbrido",
+    "desc": "Programa de pasantías e internados en el equipo de I+D y Deep Tech creador del motor de inteligencia artificial 'Giuseppe'. Los practicantes participan en modelación algorítmica de propiedades fisicoquímicas moleculares, optimización combinatoria de recetas vegetales, pipelines de machine learning e integración experimental entre simulaciones numéricas y laboratorio analítico.",
+    "fund": "Bono mensual de práctica profesional + seguro complementario, colación y beneficios corporativos NotCo.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://notco.com",
+    "src": "https://notco.com",
+    "note": "Convocatorias semestrales para internados (3 a 6 meses). Altamente recomendado para perfiles de física y matemáticas aplicadas con dominio de Python y ciencia de datos."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Know Hub Ignition: Pre-Company Building y Aceleración de Emprendimientos Científico-Tecnológicos",
+    "org": "Know Hub Chile",
+    "area": "Propiedad Intelectual & Transferencia Tecnológica",
+    "scope": "Chile",
+    "city": "Santiago / Arica a Punta Arenas (Híbrido)",
+    "desc": "Programa líder de aceleración y validación comercial para transformar investigaciones universitarias y desarrollos de I+D (Deep Tech, biotecnología, robótica, sensores y nuevos materiales) en Empresas de Base Científico-Tecnológica (EBCT). Ofrece 8 semanas de entrenamiento intensivo en Customer Discovery, empaquetamiento de propiedad intelectual, modelos de negocio y acceso a Demo Day para financiamiento de prueba de concepto.",
+    "fund": "Programa 100% becado sin costo para los equipos seleccionados; hasta $15.000.000 CLP en financiamiento de prueba de concepto para ganadores del Demo Day + mentorías especializadas.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://knowhub.cl/know-hub-ignition/",
+    "src": "https://knowhub.cl",
+    "note": "Convocatoria anual (apertura habitual entre mayo y julio). Especialmente diseñado para estudiantes de pre y postgrado e investigadores de la red de universidades socias (incluyendo USM, UCH, U. de Talca, etc.)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Huawei Seeds for the Future & Programa de Prácticas Profesionales Telecom, Cloud & Digital Power",
+    "org": "Huawei Chile",
+    "area": "Semiconductores & Telecomunicaciones",
+    "scope": "Chile",
+    "city": "Santiago / Modalidad Híbrida",
+    "desc": "Programa emblemático de formación y desarrollo de talentos en telecomunicaciones, hardware y energía digital. Combina cursos avanzados en redes 5G/6G, computación en la nube, IA aplicada y sistemas de potencia digital (Digital Power). Incluye la competencia internacional Tech4Good con opciones de premios internacionales y acceso preferencial a prácticas profesionales remuneradas en Huawei Chile.",
+    "fund": "Beca 100% gratuita para el programa formativo internacional + estipendio mensual remunerado en prácticas profesionales corporativas.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.seedsforthefuture.com",
+    "src": "https://www.huawei.com/cl/",
+    "note": "Convocatorias abiertas cada año (generalmente entre mayo y julio para Seeds for the Future, y semestralmente para prácticas profesionales en FirstJob y LinkedIn)."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "NLHPC — Laboratorio Nacional de Computación de Alto Rendimiento (Supercómputo Guacolda-Leftraru)",
+    "org": "NLHPC · Centro de Modelamiento Matemático (CMM) / Universidad de Chile",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago / Remoto",
+    "desc": "Prácticas profesionales y pasantías técnicas en administración y soporte del supercomputador más potente de Chile (Guacolda-Leftraru). Tareas en optimización de código científico paralelo (MPI, OpenMP, CUDA/GPU), administración de clusters HPC Linux, contenedores científicos (Singularity/Docker) y paralelización de simulaciones de física computacional, astrofísica y clima.",
+    "fund": "Práctica profesional remunerada / asignación económica institucional NLHPC",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.nlhpc.cl",
+    "src": "https://www.nlhpc.cl",
+    "note": "Recepción continua de solicitudes para estudiantes de física, ingeniería y computación con interés en computación de alto rendimiento (HPC)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Instituto Milenio de Física Subatómica en la Frontera de Altas Energías (SAPHIR)",
+    "org": "Instituto Milenio SAPHIR (UNAB · UC · UTFSM · UdeC · ULS)",
+    "area": "Física de partículas y nuclear",
+    "scope": "Chile",
+    "city": "Santiago / Valparaíso",
+    "desc": "Pasantías de investigación y desarrollo de memorias de pregrado en física experimental y teórica de partículas y física nuclear. Líneas activas en análisis de datos del experimento ATLAS del Gran Colisionador de Hadrones (LHC/CERN), fenomenología más allá del Modelo Estándar, física de neutrinos, materia oscura, e instrumentación avanzada y detectores de radiación en laboratorios asociados (incluyendo UTFSM Valparaíso y UC San Joaquín).",
+    "fund": "Becas de pasantía y memorias de pregrado financiadas por fondos Milenio ANID (~$250.000 a $400.000 CLP/mes según dedicación)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://saphir.cl",
+    "src": "https://saphir.cl",
+    "note": "Oportunidades abiertas a lo largo del año académico; vínculo directo con el CERN y colaboraciones internacionales de física de altas energías."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Servicio de Radioterapia y Física Médica — Clínica Alemana & Red de Salud UC CHRISTUS",
+    "org": "Clínica Alemana de Santiago · Red de Salud UC CHRISTUS",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional clínica en unidades de radioterapia oncológica avanzada y física médica hospitalaria. Formación en aseguramiento de calidad (QA) y dosimetría de aceleradores lineales (Varian / Elekta), sistemas de planificación de tratamiento 3D-CRT, IMRT, VMAT y radiocirugía estereotáctica (SRS/SBRT), además de aplicaciones en medicina nuclear y blindajes radiológicos.",
+    "fund": "Asignación económica mensual según convenio de práctica clínica institucional + beneficio de almuerzo",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.alemana.cl/profesionales-de-la-salud/docencia-e-investigacion",
+    "src": "https://www.ucchristus.cl",
+    "note": "Orientado a estudiantes de Licenciatura en Física o Ingeniería Civil Física. Se recomienda postular con anticipación al inicio del semestre de práctica a través de las direcciones de docencia clínica."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Laboratorio de Biofísica Molecular y Neurobiología Celular — CINV / BNI",
+    "org": "Centro Interdisciplinario de Neurociencia de Valparaíso (CINV) · Biomedical Neuroscience Institute (BNI)",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Valparaíso / Santiago",
+    "desc": "Pasantías de investigación experimental y computacional en la frontera de la física y la biología celular: modelamiento físico-matemático de canales iónicos, termodinámica de membranas biológicas, electrofisiología celular (patch clamp), simulaciones de dinámica molecular (GROMACS/NAMD) y microscopía óptica de fluorescencia y superresolución.",
+    "fund": "Estipendio de pasantía de pregrado con cargo a proyectos de investigación ANID Basal/Milenio",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cinv.uv.cl",
+    "src": "https://bni.cl",
+    "note": "Excelente opción regional en Valparaíso para estudiantes de la UTFSM y UV. Contactar a los investigadores principales según afinidad temática en biofísica teórica o experimental."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Astroingeniería y Ciencia de Datos Masivos — Fundación Data Observatory (DO)",
+    "org": "Data Observatory Foundation · ALMA · AURA · ANID",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago / Remoto",
+    "desc": "Prácticas profesionales en ingesta, curaduría y explotación de grandes volúmenes de datos astronómicos y de observación de la Tierra. Desarrollo de modelos de machine learning para detección de anomalías y curvas de luz en astronomía de dominio temporal (preparación para el Vera C. Rubin Observatory / LSST), pipelines distribuidos en AWS y plataformas de acceso abierto para la comunidad científica.",
+    "fund": "Práctica profesional remunerada (~$250.000 a $350.000 CLP/mes) + créditos e infraestructura cloud",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://dataobservatory.net",
+    "src": "https://dataobservatory.net",
+    "note": "Modalidad híbrida o 100% remota disponible. Altamente recomendado para perfiles con dominio de Python, computación científica y astronomía computacional."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Instituto Milenio de Investigación en Óptica (MIRO) — Óptica Cuántica & Metrología",
+    "org": "Instituto Milenio MIRO (UdeC · UChile · USACH · PUC) · CEFOP",
+    "area": "Cuántica",
+    "scope": "Chile",
+    "city": "Concepción / Santiago",
+    "desc": "Pasantías de iniciación científica y memorias de título en ópticas no lineales, información y computación cuántica, generación de fotones entrelazados, distribución cuántica de claves criptográficas (QKD), pinzas ópticas y metrología láser de ultraprecisión. Vinculación estrecha con desarrollos tecnológicos y spin-offs nacionales en fotónica cuántica.",
+    "fund": "Beca de pasantía y apoyo a memorias de pregrado financiada por Iniciativa Científica Milenio (~$250.000 a $350.000 CLP/mes)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miro.cl",
+    "src": "https://miro.cl",
+    "note": "Postulaciones directas coordinadas con los directores de línea e investigadores del centro en Concepción o Santiago."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Itaú Chile — Mesa de Dinero, Trading & Riesgo Financiero Cuantitativo",
+    "org": "Banco Itaú Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Híbrido)",
+    "desc": "Prácticas profesionales y memorias de título en las mesas de dinero (Money Market, FX, Renta Fija y Derivados) y gerencias de Riesgo de Mercado y Balance. Enfoque en modelamiento matemático de curvas de tasas, pricing estocástico de instrumentos derivados, stress testing de portafolios y automatización algorítmica con Python y SQL.",
+    "fund": "Remuneración mensual de práctica de mercado (~$350.000 - $500.000 CLP/mes) + tarjeta/ticket de colación y seguro complementario institucional.",
+    "req": "Estudiantes avanzados o memoristas de Ingeniería Civil Física, Matemática o afines. Dominio de cálculo estocástico, programación en Python/R, álgebra lineal aplicada y manejo de datos financieros.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://itau.trabajando.cl/",
+    "src": "https://www.itau.cl",
+    "note": "Itaú busca activamente perfiles con formación rigurosa en física y matemáticas por su capacidad analítica para descomponer riesgos de mercado no lineales y modelar dinámicas estocásticas."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Santander Corporate & Investment Banking (SCIB) — Quant Research & Model Validation",
+    "org": "Banco Santander Chile · SCIB",
+    "area": "Econofísica y finanzas",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Híbrido)",
+    "desc": "Prácticas de verano y posiciones de analista junior en la división de banca mayorista y de inversión de Santander. Integración en equipos de ingeniería financiera, validación de modelos cuantitativos de pricing, análisis de riesgo de contraparte (XVA) y desarrollo de herramientas de predicción macrofinanciera para tesorería.",
+    "fund": "Asignación mensual de práctica competitiva (~$400.000 - $550.000 CLP/mes) + tickets de alimentación, seguro corporativo y modalidad de trabajo híbrida.",
+    "req": "Estudiantes de últimos semestres de Ingeniería Civil Física, Matemática o Computación. Sólida base en física matemática, métodos numéricos, series de tiempo, Python/C++ e inglés intermedio/avanzado.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://santander.trabajando.cl/",
+    "src": "https://www.santander.cl/acerca-de-santander/trabaja-con-nosotros",
+    "note": "Convocatorias regulares de verano (diciembre-febrero) y llamados semestrales para memoristas en validación interna de modelos de riesgo financiero."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "McKinsey, BCG & Bain (MBB) Santiago — Advanced Analytics & Quantum/AI Data Science",
+    "org": "McKinsey QuantumBlack / BCG X / Bain Advanced Analytics",
+    "area": "Complejidad y datos",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Vitacura / Híbrido)",
+    "desc": "Pasantías de verano e inserción como Data Scientist / Advanced Analytics Analyst en los brazos de analítica avanzada e inteligencia artificial de las firmas de consultoría estratégica líderes mundiales en Santiago. Resolución de problemas de optimización combinatoria a gran escala, simulación de sistemas complejos y modelamiento predictivo/IA para minería, energía, logística y finanzas.",
+    "fund": "Remuneración de práctica premium (~$650.000 - $900.000 CLP/mes) + equipamiento tech de última generación y mentoría directa con líderes globales de consultoría.",
+    "req": "Estudiantes de 4º o 5º año o recién titulados de Ingeniería Civil Física o disciplinas cuantitativas. Destacado rendimiento analítico, dominio de Python/SQL/Git, pensamiento estructurado de resolución de problemas e inglés fluido.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mckinsey.com/careers",
+    "src": "https://careers.bcg.com/",
+    "note": "El perfil de física es altamente codiciado por MBB debido al modelamiento de primeros principios y abstracción matemática aplicada a la optimización de operaciones complejas."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Cursor Pro / AI Coding — Editor de Código Inteligente para Estudiantes e Investigadores",
+    "org": "Anysphere / Cursor",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entorno de desarrollo integrado asistido por modelos de lenguaje de vanguardia (Claude 3.5 Sonnet, GPT-4o) con comprensión profunda de repositorios completos. Permite autocompletado contextual rápido, generación de código para simulaciones numéricas, refactorización de scripts en Python/C++/Rust y depuración de modelos matemáticos complejos.",
+    "fund": "Plan gratuito con acceso generoso mensual + créditos y tarifas preferenciales para cuentas institucionales universitarias.",
+    "req": "Registro con correo universitario activo (@usm.cl u homólogo institucional).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cursor.com/",
+    "src": "https://www.cursor.com",
+    "note": "Herramienta imprescindible para programar algoritmos numéricos, computación cuántica y análisis de datos a una velocidad significativamente mayor sin perder el control de la sintaxis."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Altium Designer — Licencia Estudiantil Gratuita para Diseño Electrónico y PCB",
+    "org": "Altium Education",
+    "area": "Deep Tech y Hardware",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia educacional gratuita de 6 meses (renovable mientras dure la carrera) del estándar de la industria mundial para diseño de circuitos impresos (PCB) y sistemas electrónicos embebidos. Incluye captura esquemática profesional, enrutamiento de alta velocidad para señales de alta frecuencia, simulación SPICE, análisis de integridad de señal y modelamiento 3D MCAD/ECAD.",
+    "fund": "Licencia comercial valorada en más de $3.000 USD/año totalmente gratuita para estudiantes de ingeniería.",
+    "req": "Ser estudiante regular de educación superior y verificar condición mediante correo institucional @usm.cl o certificado de alumno regular.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.altium.com/education/student-licenses",
+    "src": "https://www.altium.com",
+    "note": "Crucial para proyectos de instrumentación física, desarrollo de sensores, hardware de laboratorio, robótica y memorias en física experimental o electrónica aplicada."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Deepnote Education Plan & Perplexity Pro para Investigación Científica",
+    "org": "Deepnote / Perplexity AI",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entornos de vanguardia para investigación computacional y ciencia de datos. Deepnote provee notebooks Jupyter colaborativos en la nube con GPUs y CPUs sin configuración local, control de versiones interactivo y paneles compartidos para equipos científicos. Se complementa con los programas educativos de Perplexity AI para búsqueda y síntesis de literatura científica indexada con citas bibliográficas verificables.",
+    "fund": "Plan Deepnote Education/Team 100% gratuito (valor comercial $20 USD/mes/usuario) + acceso académico a herramientas de búsqueda con IA.",
+    "req": "Crear y validar cuenta con correo institucional @usm.cl.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://deepnote.com/education",
+    "src": "https://deepnote.com",
+    "note": "Plataforma ideal para laboratorios de simulación numérica, econofísica, astrofísica y proyectos de titulación en grupo sin fricciones de configuración de librerías."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Acústica y Control de Ruido / Vibraciones",
+    "org": "Gerard Ingeniería Acústica SpA",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional enfocada en medición, modelación y control de ruido y vibraciones ambientales e industriales, monitoreo acústico y ensayos en terreno.",
+    "fund": "Asignación mensual de práctica y movilización",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.gerard.cl/contacto/",
+    "src": "https://www.gerard.cl/",
+    "note": "Idónea para estudiantes de Licenciatura en Física o Ingeniería con interés en acústica aplicada, dinámica estructural y procesamiento de señales."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Control de Ruido y Análisis de Vibraciones",
+    "org": "Silentium SpA",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Desarrollo de proyectos de ingeniería acústica industrial, diseño de soluciones para aislamiento de vibraciones en equipos electromecánicos y modelación acústica.",
+    "fund": "Asignación económica para movilización y colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://silentium.cl/contacto/",
+    "src": "https://silentium.cl/",
+    "note": "Excelente para formación en física aplicada, propagación de ondas mecánicas y simulación en ingeniería acústica."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Práctica Profesional en Mantenimiento Predictivo y Análisis de Vibraciones",
+    "org": "SKF Chile",
+    "area": "Industria y manufactura",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Participación en el área de Condition Monitoring Services: diagnóstico de maquinaria rotatoria, adquisición y procesamiento espectral de señales de vibraciones mecánicas y análisis predictivo para faenas mineras e industriales.",
+    "fund": "Asignación mensual de práctica y seguro de accidentes",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.skf.com/cl/career",
+    "src": "https://www.skf.com/cl",
+    "note": "Gran oportunidad para aplicar física matemática (transformada de Fourier, armónicos, dinámica clásica) a la confiabilidad y diagnóstico de maquinaria industrial crítica."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "CEFOP / MIRO UdeC — Prácticas en Óptica Cuántica, Fotónica e Información Cuántica",
+    "org": "Centro de Óptica y Fotónica (CEFOP) · Instituto Milenio MIRO · Universidad de Concepción",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Concepción (Región del Biobío) y Valparaíso / Santiago",
+    "desc": "Pasantías de investigación y prácticas profesionales en laboratorios experimentales y teóricos de óptica cuántica, fotónica integrada, metrología óptica y comunicaciones cuánticas en fibra y espacio libre. Los practicantes participan en montajes optoelectrónicos con láseres de pulsos ultracortos, alineación de cavidades ópticas, caracterización de detectores de fotón único y protocolos de distribución cuántica de llaves (QKD) junto a investigadores de la Universidad de Concepción y la red del Instituto Milenio de Investigación en Óptica.",
+    "fund": "Apoyo y asignación a través de proyectos basales y fondos Milenio según disponibilidad del laboratorio anfitrión",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miroptics.cl/contacto/",
+    "src": "https://miroptics.cl",
+    "note": "Recepción continua de solicitudes para prácticas y memorias de pregrado en física e ingeniería. Se recomienda contactar directamente a investigadores o enviar carta de interés y CV a contacto@miroptics.cl."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "GTD Teleductos — Prácticas en Ingeniería de Redes de Fibra Óptica, DWDM y Cables Submarinos",
+    "org": "Grupo GTD (GTD Teleductos)",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana) y Regiones",
+    "desc": "Prácticas profesionales en la gerencia de ingeniería y operaciones de telecomunicaciones ópticas de Grupo GTD. Participación en el diseño, despliegue, caracterización y monitoreo de redes troncales de fibra óptica monomodo, sistemas de multiplexación por división de longitud de onda densa (DWDM/ROADM), reflectometría óptica en el dominio del tiempo (OTDR), análisis de dispersión cromática (CD) y por modo de polarización (PMD), así como supervisión técnica de estaciones terminales del cable submarino Prat.",
+    "fund": "Asignación económica mensual de práctica + beneficio de almuerzo / vales de colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://gtd.trabajando.cl/",
+    "src": "https://www.gtd.cl",
+    "note": "Convocatorias regulares de prácticas de verano e invierno publicadas en Trabajando.com y LinkedIn, además de recepción continua de postulaciones a través del portal de selección de Grupo GTD."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Entel — Prácticas en Ingeniería de Redes Ópticas, Transporte y Transmisión DWDM",
+    "org": "Entel Chile",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana)",
+    "desc": "Prácticas profesionales en la división de redes troncales y transporte óptico de Entel Chile. Los practicantes integran equipos de ingeniería de transmisión de alta capacidad (100G/400G+), participando en cálculos de balance de potencia óptica (optical link budget), comisionamiento y monitoreo de canales ópticos DWDM/OTN, supervisión de rutas de fibra óptica terrestre y submarina, detección y localización de anomalías ópticas, e integración con redes de transporte IP y antenas 5G.",
+    "fund": "Asignación económica mensual para practicantes + seguro complementario y modalidad híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://entel.trabajando.cl/",
+    "src": "https://www.entel.cl",
+    "note": "Programa corporativo de prácticas profesionales y talentos jóvenes de Entel, con convocatorias periódicas y recepción continua de antecedentes en su portal de empleo."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "CEDENNA — Pasantías y Memorias en Nanociencia, Nanomateriales y Nanotecnología",
+    "org": "CEDENNA (Centro para el Desarrollo de la Nanociencia y la Nanotecnología)",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana)",
+    "desc": "Pasantías de investigación y memorias de título en el principal centro científico multidisciplinario de Chile dedicado al estudio y aplicación de nanomateriales. Participación en líneas de investigación sobre síntesis y funcionalización de nanopartículas, materiales magnéticos y espintrónica, nanoseguridad y toxicología, sensores y dispositivos moleculares, bionanotecnología y caracterización estructural mediante microscopía electrónica avanzada (SEM, TEM y AFM).",
+    "fund": "Apoyo formativo y acceso a laboratorios e instrumental de caracterización nanotecnológica de punta; asignación según disponibilidad en proyectos de investigación asociados.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cedenna.cl",
+    "src": "https://cedenna.cl",
+    "note": "Convocatorias permanentes para estudiantes de física, química, ingeniería física y carreras afines. Contacto e información a través de su sitio web oficial o vía contacto@cedenna.cl."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Molycop Chile — Prácticas Profesionales en Metalurgia Física y Medios de Molienda",
+    "org": "Molycop Chile",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Talcahuano (Biobío) / Mejillones (Antofagasta)",
+    "desc": "Prácticas profesionales e industriales en el fabricante líder a nivel mundial de medios de molienda y aceros forjados de alta resistencia para la gran minería. Los estudiantes colaboran en caracterización microestructural de aleaciones de acero, evaluación de transformaciones de fase y tratamientos térmicos (temple, revenido), ensayos mecánicos de dureza e impacto, análisis de fractomecánica y estudios de desgaste abrasivo e impacto dinámico.",
+    "fund": "Asignación económica mensual para practicantes + elementos de protección personal (EPP) y servicio de alimentación en casino de planta.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.molycop.com",
+    "src": "https://www.molycop.com",
+    "note": "Recepción de antecedentes y vacantes publicadas de forma continua y estival a través de LinkedIn corporativo, portal web de Molycop y ferias laborales universitarias."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Aceros AZA — Prácticas en Metalurgia, Ensayos de Calidad y Economía Circular",
+    "org": "Aceros AZA",
+    "area": "Materiales y nanotecnología",
+    "scope": "Chile",
+    "city": "Santiago (Renca y Colina, Región Metropolitana)",
+    "desc": "Prácticas técnicas y de ingeniería en la principal acería recicladora y productora de acero verde en Chile. Trabajo en laboratorios de calidad y metalurgia de procesos siderúrgicos: control químico mediante espectrometría óptica de emisión, ensayos de propiedades mecánicas (tracción, flexión e impacto), microscopía óptica para análisis de inclusiones y microestructuras, y optimización de escorias y parámetros térmicos en horno de arco eléctrico (HAE).",
+    "fund": "Compensación económica mensual de práctica + buses de acercamiento institucionales y servicio de colación en casino.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.aza.cl",
+    "src": "https://www.aza.cl",
+    "note": "Procesos de selección y prácticas operativas de verano e invierno canalizadas a través de Trabajando.cl / Laborum, sección Trabaja con Nosotros en aza.cl y LinkedIn."
   }
 ]

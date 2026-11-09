@@ -1,0 +1,110 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Itaú Chile — Mesa de Dinero, Trading & Riesgo Financiero Cuantitativo",
+    "org": "Banco Itaú Chile",
+    "area": "Econofísica y finanzas",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Híbrido)",
+    "desc": "Prácticas profesionales y memorias de título en las mesas de dinero (Money Market, FX, Renta Fija y Derivados) y gerencias de Riesgo de Mercado y Balance. Enfoque en modelamiento matemático de curvas de tasas, pricing estocástico de instrumentos derivados, stress testing de portafolios y automatización algorítmica con Python y SQL.",
+    "fund": "Remuneración mensual de práctica de mercado (~$350.000 - $500.000 CLP/mes) + tarjeta/ticket de colación y seguro complementario institucional.",
+    "req": "Estudiantes avanzados o memoristas de Ingeniería Civil Física, Matemática o afines. Dominio de cálculo estocástico, programación en Python/R, álgebra lineal aplicada y manejo de datos financieros.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://itau.trabajando.cl/",
+    "src": "https://www.itau.cl",
+    "note": "Itaú busca activamente perfiles con formación rigurosa en física y matemáticas por su capacidad analítica para descomponer riesgos de mercado no lineales y modelar dinámicas estocásticas."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Santander Corporate & Investment Banking (SCIB) — Quant Research & Model Validation",
+    "org": "Banco Santander Chile · SCIB",
+    "area": "Econofísica y finanzas",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Híbrido)",
+    "desc": "Prácticas de verano y posiciones de analista junior en la división de banca mayorista y de inversión de Santander. Integración en equipos de ingeniería financiera, validación de modelos cuantitativos de pricing, análisis de riesgo de contraparte (XVA) y desarrollo de herramientas de predicción macrofinanciera para tesorería.",
+    "fund": "Asignación mensual de práctica competitiva (~$400.000 - $550.000 CLP/mes) + tickets de alimentación, seguro corporativo y modalidad de trabajo híbrida.",
+    "req": "Estudiantes de últimos semestres de Ingeniería Civil Física, Matemática o Computación. Sólida base en física matemática, métodos numéricos, series de tiempo, Python/C++ e inglés intermedio/avanzado.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://santander.trabajando.cl/",
+    "src": "https://www.santander.cl/acerca-de-santander/trabaja-con-nosotros",
+    "note": "Convocatorias regulares de verano (diciembre-febrero) y llamados semestrales para memoristas en validación interna de modelos de riesgo financiero."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "McKinsey, BCG & Bain (MBB) Santiago — Advanced Analytics & Quantum/AI Data Science",
+    "org": "McKinsey QuantumBlack / BCG X / Bain Advanced Analytics",
+    "area": "Complejidad y datos",
+    "scope": "Nacional",
+    "city": "Santiago (Las Condes / Vitacura / Híbrido)",
+    "desc": "Pasantías de verano e inserción como Data Scientist / Advanced Analytics Analyst en los brazos de analítica avanzada e inteligencia artificial de las firmas de consultoría estratégica líderes mundiales en Santiago. Resolución de problemas de optimización combinatoria a gran escala, simulación de sistemas complejos y modelamiento predictivo/IA para minería, energía, logística y finanzas.",
+    "fund": "Remuneración de práctica premium (~$650.000 - $900.000 CLP/mes) + equipamiento tech de última generación y mentoría directa con líderes globales de consultoría.",
+    "req": "Estudiantes de 4º o 5º año o recién titulados de Ingeniería Civil Física o disciplinas cuantitativas. Destacado rendimiento analítico, dominio de Python/SQL/Git, pensamiento estructurado de resolución de problemas e inglés fluido.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.mckinsey.com/careers",
+    "src": "https://careers.bcg.com/",
+    "note": "El perfil de física es altamente codiciado por MBB debido al modelamiento de primeros principios y abstracción matemática aplicada a la optimización de operaciones complejas."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Cursor Pro / AI Coding — Editor de Código Inteligente para Estudiantes e Investigadores",
+    "org": "Anysphere / Cursor",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entorno de desarrollo integrado asistido por modelos de lenguaje de vanguardia (Claude 3.5 Sonnet, GPT-4o) con comprensión profunda de repositorios completos. Permite autocompletado contextual rápido, generación de código para simulaciones numéricas, refactorización de scripts en Python/C++/Rust y depuración de modelos matemáticos complejos.",
+    "fund": "Plan gratuito con acceso generoso mensual + créditos y tarifas preferenciales para cuentas institucionales universitarias.",
+    "req": "Registro con correo universitario activo (@usm.cl u homólogo institucional).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.cursor.com/",
+    "src": "https://www.cursor.com",
+    "note": "Herramienta imprescindible para programar algoritmos numéricos, computación cuántica y análisis de datos a una velocidad significativamente mayor sin perder el control de la sintaxis."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Altium Designer — Licencia Estudiantil Gratuita para Diseño Electrónico y PCB",
+    "org": "Altium Education",
+    "area": "Deep Tech y Hardware",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia educacional gratuita de 6 meses (renovable mientras dure la carrera) del estándar de la industria mundial para diseño de circuitos impresos (PCB) y sistemas electrónicos embebidos. Incluye captura esquemática profesional, enrutamiento de alta velocidad para señales de alta frecuencia, simulación SPICE, análisis de integridad de señal y modelamiento 3D MCAD/ECAD.",
+    "fund": "Licencia comercial valorada en más de $3.000 USD/año totalmente gratuita para estudiantes de ingeniería.",
+    "req": "Ser estudiante regular de educación superior y verificar condición mediante correo institucional @usm.cl o certificado de alumno regular.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.altium.com/education/student-licenses",
+    "src": "https://www.altium.com",
+    "note": "Crucial para proyectos de instrumentación física, desarrollo de sensores, hardware de laboratorio, robótica y memorias en física experimental o electrónica aplicada."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Deepnote Education Plan & Perplexity Pro para Investigación Científica",
+    "org": "Deepnote / Perplexity AI",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entornos de vanguardia para investigación computacional y ciencia de datos. Deepnote provee notebooks Jupyter colaborativos en la nube con GPUs y CPUs sin configuración local, control de versiones interactivo y paneles compartidos para equipos científicos. Se complementa con los programas educativos de Perplexity AI para búsqueda y síntesis de literatura científica indexada con citas bibliográficas verificables.",
+    "fund": "Plan Deepnote Education/Team 100% gratuito (valor comercial $20 USD/mes/usuario) + acceso académico a herramientas de búsqueda con IA.",
+    "req": "Crear y validar cuenta con correo institucional @usm.cl.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://deepnote.com/education",
+    "src": "https://deepnote.com",
+    "note": "Plataforma ideal para laboratorios de simulación numérica, econofísica, astrofísica y proyectos de titulación en grupo sin fricciones de configuración de librerías."
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Pasantías y Prácticas Profesionales en Ingeniería Satelital y Operaciones Espaciales",
+    "org": "Centro Espacial Nacional (CEN) / FACH (Cerrillos)",
+    "area": "Aeroespacial & Satélites",
+    "scope": "Chile",
+    "city": "Santiago (Cerrillos) / Región Metropolitana",
+    "desc": "Pasantías y prácticas profesionales en el epicentro del Sistema Nacional Satelital (SNSat) en el CEN Los Cerrillos. Los estudiantes de ingeniería y física participan en integración y testeo de microsatélites (SNSat-1/SNSat-2) en salas limpias, telemetría y seguimiento en estaciones terrenas, óptica espacial y procesamiento masivo de datos geoespaciales con supercomputación e IA.",
+    "fund": "Asignación mensual de práctica según modalidad institucional FACH / Servicio Civil + equipamiento de laboratorio de alta tecnología espacial.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.fach.mil.cl",
+    "src": "https://www.fach.mil.cl",
+    "note": "Postulaciones canalizadas a través de convenios universitarios de vinculación (USM, UCH, USACH) o convocatorias a profesionales y practicantes civiles vía sne@fach.cl y portal del Estado."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Pasantías de Investigación y Memorias de Título en CubeSats y Cargas Útiles (Programa SUCHAI)",
+    "org": "Laboratorio SUCHAI / SPEL (FCFM U. de Chile)",
+    "area": "Aeroespacial & Cargas Útiles",
+    "scope": "Chile",
+    "city": "Santiago (Beauchef) / Híbrido",
+    "desc": "Proyectos de memoria de título, pasantías y prácticas de investigación en el Space and Planetary Exploration Laboratory (SPEL). Enfocado en el desarrollo de nanosatélites CubeSat (SUCHAI-2, 3, 4 y PlantSat), sistemas embebidos de vuelo en tiempo real, física de la ionósfera, sensores para radiación cósmica, comunicaciones ópticas láser y experimentos de astrobiología orbital.",
+    "fund": "Financiamiento para memoristas mediante proyectos basales ANID, Fondecyt y Fondef asociados al laboratorio; acceso a laboratorios e instrumental de calibración espacial.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "abierta",
+    "apply": "https://spel.cl",
+    "src": "https://spel.cl",
+    "note": "Abierto a estudiantes avanzados de ingeniería física, eléctrica, mecánica, electrónica y computación de universidades chilenas interesados en misiones aeroespaciales."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Prácticas de Ingeniería en Robótica Móvil Autónoma y Visión por Computador",
+    "org": "Zippedi Inc.",
+    "area": "Robótica & Automatización",
+    "scope": "Chile",
+    "city": "Santiago / Las Condes (Híbrido)",
+    "desc": "Prácticas profesionales e inserción técnica en la scale-up chilena pionera en robótica móvil autónoma y visión artificial para retail a escala internacional (EE.UU., Chile, Colombia). Los estudiantes trabajan en algoritmos de SLAM, navegación autónoma en entornos dinámicos, segmentación y reconocimiento de imágenes con Deep Learning (PyTorch/OpenCV), firmware embebido y pipelines en la nube.",
+    "fund": "Compensación económica mensual competitiva de práctica (~$300.000 - $450.000 CLP/mes) + modalidad híbrida y mentoría con expertos de la industria.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.zippedi.com",
+    "src": "https://www.zippedi.com",
+    "note": "Reclutamiento activo a través de FirstJob y LinkedIn. Excelente vitrina para perfiles con sólida base en física, matemática, electrónica o computación que dominen Python/C++."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Pasantías y Prácticas de R&D en Deep Tech, Algoritmia y Molecular Food Science (Giuseppe AI)",
+    "org": "The Not Company (NotCo)",
+    "area": "Deep Tech & Inteligencia Artificial",
+    "scope": "Chile",
+    "city": "Santiago (Macul) / Híbrido",
+    "desc": "Programa de pasantías e internados en el equipo de I+D y Deep Tech creador del motor de inteligencia artificial 'Giuseppe'. Los practicantes participan en modelación algorítmica de propiedades fisicoquímicas moleculares, optimización combinatoria de recetas vegetales, pipelines de machine learning e integración experimental entre simulaciones numéricas y laboratorio analítico.",
+    "fund": "Bono mensual de práctica profesional + seguro complementario, colación y beneficios corporativos NotCo.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://notco.com",
+    "src": "https://notco.com",
+    "note": "Convocatorias semestrales para internados (3 a 6 meses). Altamente recomendado para perfiles de física y matemáticas aplicadas con dominio de Python y ciencia de datos."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Know Hub Ignition: Pre-Company Building y Aceleración de Emprendimientos Científico-Tecnológicos",
+    "org": "Know Hub Chile",
+    "area": "Propiedad Intelectual & Transferencia Tecnológica",
+    "scope": "Chile",
+    "city": "Santiago / Arica a Punta Arenas (Híbrido)",
+    "desc": "Programa líder de aceleración y validación comercial para transformar investigaciones universitarias y desarrollos de I+D (Deep Tech, biotecnología, robótica, sensores y nuevos materiales) en Empresas de Base Científico-Tecnológica (EBCT). Ofrece 8 semanas de entrenamiento intensivo en Customer Discovery, empaquetamiento de propiedad intelectual, modelos de negocio y acceso a Demo Day para financiamiento de prueba de concepto.",
+    "fund": "Programa 100% becado sin costo para los equipos seleccionados; hasta $15.000.000 CLP en financiamiento de prueba de concepto para ganadores del Demo Day + mentorías especializadas.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://knowhub.cl/know-hub-ignition/",
+    "src": "https://knowhub.cl",
+    "note": "Convocatoria anual (apertura habitual entre mayo y julio). Especialmente diseñado para estudiantes de pre y postgrado e investigadores de la red de universidades socias (incluyendo USM, UCH, U. de Talca, etc.)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Huawei Seeds for the Future & Programa de Prácticas Profesionales Telecom, Cloud & Digital Power",
+    "org": "Huawei Chile",
+    "area": "Semiconductores & Telecomunicaciones",
+    "scope": "Chile",
+    "city": "Santiago / Modalidad Híbrida",
+    "desc": "Programa emblemático de formación y desarrollo de talentos en telecomunicaciones, hardware y energía digital. Combina cursos avanzados en redes 5G/6G, computación en la nube, IA aplicada y sistemas de potencia digital (Digital Power). Incluye la competencia internacional Tech4Good con opciones de premios internacionales y acceso preferencial a prácticas profesionales remuneradas en Huawei Chile.",
+    "fund": "Beca 100% gratuita para el programa formativo internacional + estipendio mensual remunerado en prácticas profesionales corporativas.",
+    "req": "No informados",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.seedsforthefuture.com",
+    "src": "https://www.huawei.com/cl/",
+    "note": "Convocatorias abiertas cada año (generalmente entre mayo y julio para Seeds for the Future, y semestralmente para prácticas profesionales en FirstJob y LinkedIn)."
+  }
+]

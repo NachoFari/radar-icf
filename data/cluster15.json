@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Santa Fe Institute (SFI) — Undergraduate Complexity Research (UCR) Fellowship",
+    "org": "Santa Fe Institute (SFI)",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Santa Fe, Nuevo México, EE. UU.",
+    "desc": "Programa residencial de investigación de verano de 10 semanas en el Santa Fe Institute dedicado a la ciencia de sistemas complejos. Los estudiantes desarrollan proyectos individuales de investigación bajo la mentoría directa de científicos del SFI en temas como física estadística interdisciplinaria, teoría de redes complejas, dinámica no lineal, teoría de la información y modelos basados en agentes. Incluye seminarios teóricos, talleres de modelación y presentación pública de resultados.",
+    "fund": "Estipendio semanal de manutención (~USD $600 por semana), alojamiento completo en residencias de St. John's College, plan de alimentación diario y pasajes aéreos de ida y vuelta a Santa Fe cubiertos. Se patrocina visa J-1 para estudiantes internacionales.",
+    "req": "Estudiantes de pregrado matriculados en física, matemáticas, ciencias de la computación o áreas cuantitativas afines en cualquier universidad del mundo que continúen sus estudios tras el verano. Abierto explícitamente a postulantes internacionales sin distinción de nacionalidad. Requiere expediente académico oficial, CV, 2 cartas de recomendación y ensayo de motivación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+    "src": "https://www.santafe.edu",
+    "note": "Convocatoria anual de excelencia con apertura regular entre octubre y enero. Destaca por financiar íntegramente a estudiantes internacionales sin financiamiento condicionado a ciudadanía estadounidense."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "UCLA IPAM — Research in Industrial Projects for Students (RIPS-LA)",
+    "org": "Institute for Pure and Applied Mathematics (IPAM) · UCLA",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Los Ángeles, California, EE. UU.",
+    "desc": "Pasantía intensiva de investigación de 9 semanas en el Instituto de Matemáticas Puras y Aplicadas (IPAM) de la Universidad de California, Los Ángeles. Equipos interdisciplinarios de 4 estudiantes de física, matemáticas y computación abordan problemas de optimización, ciencia de datos, aprendizaje automático y modelado matemático avanzado encargados por la industria y laboratorios nacionales (Google, Lawrence Livermore, Meta, Amazon, HRL).",
+    "fund": "Estipendio de investigación de USD $4.000 a $4.500, alojamiento en el campus de UCLA, asignación para comidas y pasajes aéreos de ida y vuelta a Los Ángeles. IPAM gestiona el formulario DS-2019 para la visa J-1 de estudiantes internacionales.",
+    "req": "Estudiantes de pregrado activos en matemáticas, física, estadística, computación o áreas científicas afines en cualquier institución de educación superior del mundo. Abierto a estudiantes internacionales. Requiere expediente académico, CV, 2 cartas de recomendación y buen dominio del idioma inglés.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2025/",
+    "src": "https://www.ipam.ucla.edu",
+    "note": "Apertura habitual de postulaciones hacia noviembre con cierre en febrero. Reconocido por su respaldo formal y visado J-1 para estudiantes de universidades internacionales."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Carnegie Observatories — CASSI Summer Student Program (Pasadena)",
+    "org": "The Carnegie Observatories · Carnegie Institution for Science",
+    "area": "Complejidad y datos",
+    "scope": "Internacional",
+    "city": "Pasadena, California, EE. UU.",
+    "desc": "Pasantía de investigación científica estival de 10 semanas en la sede central de The Carnegie Observatories en Pasadena, California. Los estudiantes realizan investigación guiada con astrónomos y astrofísicos del staff de Carnegie en ciencia de datos astronómicos, física de galaxias, cosmología observacional, simulaciones numéricas y análisis de datos de los telescopios Magallanes en Las Campanas (Chile).",
+    "fund": "Estipendio competitivo de aproximadamente USD $7.000 para el periodo de 10 semanas, subsidio/gestión de alojamiento local en Pasadena y apoyo para gastos de traslado aéreo de ida y vuelta. Abierto a estudiantes internacionales sin requerir ciudadanía estadounidense.",
+    "req": "Estudiantes de pregrado en física, astronomía, matemáticas, ingeniería o disciplinas computacionales afines matriculados en universidades de cualquier país que continúen estudios tras el verano. Requiere postulación online, CV, expediente de notas, ensayo de objetivos de investigación y 2 cartas de recomendación.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://obs.carnegiescience.edu/cassi",
+    "src": "https://carnegiescience.edu",
+    "note": "Apertura periódica anual entre noviembre y enero/febrero. Ofrece contacto directo con la instrumentación y astronomía de vanguardia operada en Chile."
+  }
+]

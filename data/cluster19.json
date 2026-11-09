@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Brain Chile – Programa de Aceleración de Emprendimientos Científico-Tecnológicos",
+    "org": "Centro de Innovación UC Anacleto Angelini, Escuela de Ingeniería UC y Banco Santander",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Programa de aceleración e impulso a emprendimientos de base científico-tecnológica (EBCT) originados en instituciones de educación superior de todo Chile y Latinoamérica. Apoya la maduración de proyectos y prototipos desde el laboratorio hasta etapas de validación comercial y técnica, propiedad intelectual y pitch de inversión.",
+    "fund": "Hasta $32.000.000 CLP en capital no reembolsable (distribuido en etapas de bootcamp, aceleración y final) + Talleres especializados, mentorías técnicas y comerciales, espacios de trabajo y acceso a laboratorios y redes de financiamiento.",
+    "req": "Equipos de al menos 2 personas donde al menos uno sea estudiante regular de pregrado, posgrado, investigador, académico o egresado reciente de cualquier institución de educación superior en Chile. El proyecto debe basarse en ciencia o tecnología aplicada y contar con prueba de concepto validada en laboratorio (TRL 3 o superior).",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://brainchile.com/",
+    "src": "https://centrodeinnovacion.uc.cl/brain-chile/",
+    "note": "Convocatoria anual de gran impacto en el ecosistema nacional de EBCT. Sus postulaciones se abren habitualmente entre marzo y mayo de cada año."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Concurso Aplica tu Idea – Fundación Copec-UC",
+    "org": "Fundación Copec-UC (Empresas Copec y Pontificia Universidad Católica de Chile)",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Concurso nacional de I+D aplicada enfocado en estudiantes de educación superior en Chile. Busca detectar ideas innovadoras con base científica o tecnológica para resolver problemáticas relevantes en recursos naturales, energía, agua, sustentabilidad y biotecnología.",
+    "fund": "$500.000 CLP a cada uno de los 10 mejores proyectos preseleccionados (finalistas) + $5.000.000 CLP para el equipo ganador del Demo Day + Talleres de perfeccionamiento en pitch, modelo de negocio y acompañamiento del equipo de expertos de la Fundación Copec-UC.",
+    "req": "Equipos de hasta 5 integrantes de cualquier universidad, instituto profesional o centro de formación técnica reconocido en Chile, con matrícula vigente en carreras de pregrado o programas de posgrado. Se postula inicialmente mediante un video pitch de máximo 3 minutos explicando la propuesta y su base científica.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://fcuc.cl/concursos/aplica-tu-idea/",
+    "src": "https://fcuc.cl/",
+    "note": "Convocatoria anual dirigida a estudiantes, tradicionalmente abierta a mediados de año (julio-agosto). Representa una plataforma formativa ideal para conectar proyectos de pregrado con financiamiento privado e I+D industrial."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "Know Hub Ignition – Programa de Validación de Emprendimientos de Base Científica",
+    "org": "Know Hub Chile & ANID",
+    "area": "Becas privadas",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Programa intensivo de pre-aceleración y 'pre-company building' para iniciativas y tecnologías surgidas en universidades y centros de investigación nacionales. Utiliza la metodología de Customer Discovery (adaptada del programa NSF I-Corps de Estados Unidos) para evaluar la viabilidad de mercado de desarrollos científicos y estructurar nuevas startups de base científica.",
+    "fund": "Entrenamiento intensivo internacional y mentorías especializadas con expertos en transferencia tecnológica + Financiamiento para validación comercial y prototipado rápido (fondos concursables de aceleración para finalistas) + Acompañamiento en levantamiento de capital y vinculación con la industria.",
+    "req": "Equipos de trabajo multidisciplinarios conformados por estudiantes de pregrado, posgrado, investigadores o académicos de universidades y centros de I+D chilenos asociados o abiertos a la convocatoria. Deben poseer resultados de I+D con prueba de concepto o nivel de madurez técnica inicial listos para validación con el mercado.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://knowhub.cl/know-hub-ignition/",
+    "src": "https://knowhub.cl/",
+    "note": "Convocatoria periódica anual orientada a transformar proyectos de ciencia dura (física, química, nanotecnología, biotecnología, ingeniería) en empresas de base científico-tecnológica (EBCT) con proyección internacional."
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "DESY Summer Student Programme",
+    "org": "Deutsches Elektronen-Synchrotron (DESY) & Helmholtz Association",
+    "area": "Física de partículas, sincrotrón y aceleradores",
+    "scope": "Internacional",
+    "city": "Hamburgo y Zeuthen, Alemania",
+    "desc": "Estadía de investigación científica de verano (7 a 8 semanas entre julio y septiembre) en física de partículas, astropartículas, física de fotones (fuentes de luz sincrotrón PETRA III, FLASH, European XFEL) y computación científica. Los estudiantes se integran a grupos de investigación de frontera y participan en conferencias diarias dictadas por especialistas.",
+    "fund": "Estipendio de subsistencia (~€1.200/mes o ~€28,50/día) + Alojamiento individual gratuito en las residencias (DESY Hostel) en el campus + Reembolso parcial de costos de viaje internacional.",
+    "req": "Estudiantes universitarios que hayan completado al menos 3 años de estudios (3° a 5° año de pregrado) en Física, Ciencias Naturales o Ingeniería, sin haber culminado un máster. Nivel fluido de inglés y nociones de programación.",
+    "deadline": "2027-01-31",
+    "status": "reabre",
+    "apply": "https://www.desy.de/summerstudents",
+    "src": "https://summerstudents.desy.de/",
+    "note": "Convocatoria anual que abre a principios de diciembre y cierra a fines de enero para la estadía de verano siguiente. Uno de los programas de aceleradores y partículas de mayor prestigio en Europa."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "UTRIP – University of Tokyo Research Internship Program",
+    "org": "Graduate School of Science, The University of Tokyo",
+    "area": "Física, astrofísica y ciencias exactas",
+    "scope": "Internacional",
+    "city": "Tokio, Japón",
+    "desc": "Pasantía intensiva de investigación de 6 semanas en los laboratorios de vanguardia de la Escuela de Ciencias de la Universidad de Tokio (departamentos de Física, Astronomía, Química, Ciencias de la Tierra y Planetarias). Ofrece tutoría científica directa con líderes de grupo y seminarios académicos de nivel de posgrado.",
+    "fund": "Alojamiento universitario gratuito gestionado y cubierto al 100% durante las 6 semanas + Asignación/viático financiero para costos de vida y traslado (~¥100.000 a ¥160.000 JPY o beca FUTI para pasajes aéreos y gastos diarios).",
+    "req": "Estudiantes de pregrado matriculados en universidades fuera de Japón en carreras de Física o ciencias exactas afines, con al menos 1 año universitario completo aprobado (prioridad para estudiantes en penúltimo año). Nivel de inglés certificado (TOEFL, IELTS o carta institucional).",
+    "deadline": "2026-12-25",
+    "status": "reabre",
+    "apply": "https://www.s.u-tokyo.ac.jp/en/utrip/",
+    "src": "https://www.s.u-tokyo.ac.jp/en/utrip/apply-now/",
+    "note": "Abre postulaciones anualmente a mediados de noviembre y cierra en diciembre. Es un punto de entrada estratégico para estudiantes latinoamericanos interesados en posgrados en Tokio (becas MEXT/GSS)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "NIMS Internship Program (Tsukuba)",
+    "org": "National Institute for Materials Science (NIMS)",
+    "area": "Física de la materia condensada, materiales y nanotecnología",
+    "scope": "Internacional",
+    "city": "Tsukuba, Japón",
+    "desc": "Pasantía de investigación práctica de hasta 90 días en el instituto nacional de ciencia de materiales más avanzado de Japón. Permite trabajar en nanotecnología, física del estado sólido, superconductividad, materiales cuánticos y caracterización con instrumentación de escala atómica.",
+    "fund": "Estipendio diario de subsistencia (~¥2.560 JPY por día) + Alojamiento oficial gestionado y cubierto al 100% por NIMS (en Ninomiya House o similar) durante toda la duración de la estadía.",
+    "req": "Estudiantes regulares de pregrado (3° a 5° año) o posgrado en Física, Química, Ingeniería de Materiales, Electrónica o disciplinas afines. Requiere contactar a un investigador anfitrión en el directorio NIMS SAMURAI y recibir su aceptación previa para tramitar la postulación.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.nims.go.jp/eng/hr-development/internship.html",
+    "src": "https://samurai.nims.go.jp/",
+    "note": "Modalidad de postulación continua por acuerdo con investigador anfitrión o en convocatorias periódicas de primavera/otoño. La solicitud formal la procesa el investigador patrocinante ante la oficina internacional de NIMS."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "SOKENDAI / KEK Summer Student Program",
+    "org": "High Energy Accelerator Research Organization (KEK) & SOKENDAI",
+    "area": "Física nuclear, partículas, aceleradores y sincrotrón",
+    "scope": "Internacional",
+    "city": "Tsukuba y Tokai (J-PARC), Japón",
+    "desc": "Programa de investigación de verano de 8 semanas en las instalaciones de KEK (colisionador SuperKEKB, detector Belle II, Photon Factory) y J-PARC. Los estudiantes realizan un proyecto de investigación experimental guiado por científicos de planta y asisten a conferencias de física de aceleradores y partículas.",
+    "fund": "Pasajes aéreos internacionales de ida y vuelta cubiertos al 100% + Alojamiento gratuito en las residencias del campus (Tsukuba o Tokai) + Estipendio diario de viático (~¥1.500 JPY/día) + Traslado terrestre aeropuerto-campus.",
+    "req": "Estudiantes universitarios cursando la segunda mitad del pregrado (3° a 5° año) o inicio de máster en Física, Ingeniería Eléctrica, Informática o ciencias afines. Conocimientos de mecánica clásica, cuántica y electromagnetismo.",
+    "deadline": "2027-02-27",
+    "status": "reabre",
+    "apply": "https://www.kek.jp/en/education/sokendai/ssp/",
+    "src": "https://www.kek.jp/en/",
+    "note": "Convocatoria anual con apertura en diciembre/enero y cierre a fines de febrero. Uno de los pocos programas globales con financiamiento de pasajes aéreos intercontinentales completos para pregrado."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Caltech SURF – Summer Undergraduate Research Fellowships",
+    "org": "California Institute of Technology (Caltech)",
+    "area": "Física teórica y experimental, ingeniería cuántica, astrofísica",
+    "scope": "Internacional",
+    "city": "Pasadena, California, EE. UU.",
+    "desc": "Histórico programa de 10 semanas de investigación estival en el campus principal de Caltech. Diseñado para que estudiantes de pregrado colaboren estrechamente con académicos pioneros en física, matemáticas aplicadas o ingeniería, culminando con la presentación de resultados en el prestigioso SURF Seminar Day.",
+    "fund": "Beca de manutención completa de .110 a .354 USD para las 10 semanas de investigación. Soporte institucional para la gestión del visado de intercambio J-1 o F-1.",
+    "req": "Estudiantes de pregrado con al menos un año universitario cursado (preferentemente 3° o 4° año) y rendimiento académico destacado (GPA equivalente a 2.5/4.0 o superior, idealmente 5.0+ chileno). Requiere haber contactado previamente a un profesor de Caltech y contar con su compromiso de patrocinio.",
+    "deadline": "2027-02-22",
+    "status": "reabre",
+    "apply": "https://sfp.caltech.edu/undergraduate-research/programs/surf",
+    "src": "https://sfp.caltech.edu/",
+    "note": "Para postulantes internacionales no ciudadanos estadounidenses sólo están habilitados los proyectos dentro del campus académico de Caltech (no en JPL por normativas federales ITAR). Apertura de plataforma anual en noviembre."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Perimeter PSI Start – Undergraduate Summer Program & Research Internship",
+    "org": "Perimeter Institute for Theoretical Physics",
+    "area": "Física teórica, cosmología, gravedad cuántica e información cuántica",
+    "scope": "Internacional",
+    "city": "Waterloo, Ontario, Canadá",
+    "desc": "Iniciativa internacional para estudiantes destacados de pregrado en física teórica. Consta de una escuela de verano de vanguardia en física teórica y una pasantía de investigación presencial y remunerada de al menos 12 semanas (mayo a agosto) bajo la tutela directa de investigadores del Perimeter Institute.",
+    "fund": "Financiamiento 100% integral: Beca salarial de investigación remunerada durante las 12 semanas + Pasajes aéreos internacionales de ida y vuelta + Alojamiento residencial gestionado y cubierto por el instituto + Crédito de alimentación.",
+    "req": "Estudiantes de pregrado con proyección hacia estudios de posgrado en física teórica. Se requieren cursos universitarios aprobados en mecánica clásica y mecánica cuántica. Envío de expediente académico, CV, carta de motivación de hasta 2 páginas y 2 a 3 cartas de recomendación.",
+    "deadline": "2027-01-17",
+    "status": "reabre",
+    "apply": "https://perimeterinstitute.ca/undergraduate-summer-programs",
+    "src": "https://perimeterinstitute.ca/undergraduate-summer-programs-how-apply",
+    "note": "Perimeter Institute es una institución de vanguardia en física fundamental a nivel global. Las postulaciones abren a mediados de diciembre y cierran a mediados de enero."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "PSI Summer Student Programme",
+    "org": "Paul Scherrer Institut (PSI) & ETH Domain",
+    "area": "Física de sincrotrón, láseres de electrones libres, neutrones y materiales",
+    "scope": "Internacional",
+    "city": "Villigen, Suiza",
+    "desc": "Programa de 8 a 12 semanas (julio a septiembre) en el Paul Scherrer Institut, el centro de investigación multidisciplinario más grande de Suiza. Los estudiantes participan en proyectos en las grandes instalaciones experimentales del centro (fuente de luz sincrotrón SLS, láser de rayos X SwissFEL, fuente de espalación de neutrones SINQ y muones SμS) junto a conferencias científicas diarias.",
+    "fund": "Estipendio mensual suizo para costear gastos de manutención y estadía en Suiza (~CHF 1.500 a CHF 2.000/mes) + Disponibilidad de alojamiento subsidiado en la residencia de huéspedes de PSI (PSI Guesthouse).",
+    "req": "Estudiantes universitarios que hayan completado al menos 3 años de estudios (3° a 5° año de pregrado o inicio de máster) en Física, Ingeniería, Química, Computación o Ciencias de Materiales. Buen manejo de inglés y nociones de programación científica.",
+    "deadline": "2027-02-28",
+    "status": "reabre",
+    "apply": "https://www.psi.ch/en/ssp",
+    "src": "https://www.psi.ch/en",
+    "note": "El PSI es parte del ETH Domain (junto a ETH Zurich y EPFL). La convocatoria abre anualmente en el invierno europeo (enero-febrero) con cupos muy codiciados."
+  }
+]

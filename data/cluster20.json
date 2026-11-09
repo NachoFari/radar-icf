@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "PLANCKS – Physics League Across Numerous Countries for Kick-ass Students",
+    "org": "International Association of Physics Students (IAPS)",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Sedes rotativas anuales (Europa) / Rondas preliminares remotas",
+    "desc": "Competencia internacional anual de resolución de problemas teóricos de física (incluyendo mecánica cuántica, física de partículas, óptica, relatividad y materia condensada) para equipos de 3 a 4 estudiantes de pregrado. Organizada por la IAPS, reúne a las delegaciones nacionales clasificadas en un simposio de varios días que incluye conferencias magistrales de premios Nobel, workshops científicos y tours por laboratorios de vanguardia.",
+    "fund": "Alojamiento completo, alimentación y actividades culturales/científicas cubiertas durante la final presencial; premios en efectivo y trofeos para los tres mejores equipos del mundo; gastos de traslado frecuentemente cofinanciados por comités nacionales de IAPS o departamentos universitarios.",
+    "req": "Equipos conformados por 3 o 4 estudiantes universitarios de pregrado (o primer año de maestría) en Física o ciencias afines. Clasificación a través de eliminatorias nacionales oficiales de IAPS o mediante la ronda preliminar internacional abierta para países sin comité nacional formal.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://www.iaps.info/plancks/",
+    "src": "https://plancks.iaps.info/",
+    "note": "El certamen universitario de física teórica por equipos más prestigioso a nivel mundial. Las rondas clasificatorias abren anualmente entre noviembre y febrero, con la gran final celebrándose en mayo en una destacada universidad europea."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "The University Physics Competition (UPC)",
+    "org": "The University Physics Competition (auspiciado por APS y AAS)",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Remoto / Internacional",
+    "desc": "Concurso internacional en línea donde equipos de hasta 3 estudiantes de pregrado cuentan con exactamente 48 horas para resolver uno de dos problemas de física de frontera del mundo real. Los participantes deben construir un modelo físico y computacional, resolverlo numéricamente y redactar un artículo científico formal en inglés que sintetice su análisis.",
+    "fund": "Medallas de Oro (top 1-2%), Plata (top 15-20%) y Bronce (top 50-70%) reconocidas internacionalmente; certificados oficiales emitidos con el respaldo de la American Physical Society (APS) y la American Astronomical Society (AAS); publicación de los trabajos más sobresalientes en el Journal of the University Physics Competition.",
+    "req": "Equipos de hasta 3 estudiantes universitarios de pregrado matriculados en cualquier institución del mundo, acompañados por el patrocinio/registro de un profesor o tutor académico de su universidad.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "http://www.uphysicsc.com/registration.html",
+    "src": "http://www.uphysicsc.com/",
+    "note": "Competencia anual de alto impacto que se celebra durante un fin de semana a principios de noviembre. Oportunidad idónea para que equipos de pregrado ejerciten modelado numérico, física teórica y redacción de artículos con aval de la APS."
+  },
+  {
+    "kind": [
+      "beca"
+    ],
+    "name": "IBM Quantum Challenge & Qiskit Global Summer School",
+    "org": "IBM Quantum / IBM Research",
+    "area": "Cuántica",
+    "scope": "Internacional",
+    "city": "Remoto / Internacional",
+    "desc": "Desafío intensivo y programa global de formación avanzada en computación cuántica organizado por IBM. Los estudiantes resuelven retos algorítmicos complejos sobre computación cuántica, corrección de errores cuánticos (QEC), simulación de sistemas cuánticos Many-Body y algoritmos de optimización ejecutados directamente en hardware cuántico real y simuladores de IBM.",
+    "fund": "Acceso gratuito al 100% a procesadores cuánticos de última generación en la nube de IBM; credenciales y certificaciones digitales verificables (IBM Quantum Digital Badges vía Credly); mentoría directa con investigadores de IBM Research y vinculación a programas de pasantías e investigación cuántica.",
+    "req": "Abierto a estudiantes universitarios de pregrado y posgrado en Física, Ciencias de la Computación, Matemáticas o Ingeniería. Requiere conocimientos de álgebra lineal básica y familiaridad con programación en Python.",
+    "deadline": null,
+    "status": "reabre",
+    "apply": "https://research.ibm.com/quantum/challenges",
+    "src": "https://www.ibm.com/quantum",
+    "note": "Se desarrolla anualmente con dos grandes convocatorias: el IBM Quantum Challenge (primavera/otoño) y la Qiskit Global Summer School (julio/agosto). Constituye el estándar de iniciación y acreditación práctica en desarrollo de software cuántico con Qiskit."
+  }
+]

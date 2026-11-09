@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Altium Designer Student Lab License - Diseño de PCBs y Electrónica",
+    "org": "Altium LLC",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia profesional completa de Altium Designer otorgada a estudiantes de ingeniería y ciencias. Proporciona herramientas avanzadas de captura de esquemáticos, ruteo interactivo de circuitos impresos (PCB) de múltiples capas, simulación de circuitos SPICE integrada, visualización 3D en tiempo real con integración ECAD/MCAD, y gestión colaborativa de proyectos en la nube mediante la plataforma Altium 365.",
+    "fund": "Licencia estudiantil 100% gratuita por 6 meses con renovación continua durante todo el periodo de estudios universitarios. Incluye acceso sin costo a cursos de certificación de Altium Education y almacenamiento colaborativo en la nube en Altium 365.",
+    "req": "Estar matriculado como estudiante de pregrado o posgrado en una institución de educación superior y registrarse con el correo electrónico universitario institucional (@usm.cl).",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.altium.com/education/student-licenses",
+    "src": "https://www.altium.com/education",
+    "note": "Software estándar en la industria aeroespacial, robótica y electrónica de instrumentación científica. Indispensable para proyectos de hardware, tesis y desarrollo de placas electrónicas personalizadas en laboratorios de física aplicada."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "NI LabVIEW Student Edition & Multisim Academic Access",
+    "org": "National Instruments (NI / Emerson)",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Acceso estudiantil al entorno insignia de programación gráfica NI LabVIEW y al simulador de circuitos SPICE NI Multisim. Permite el diseño de sistemas de instrumentación virtual, automatización de bancos de pruebas, adquisición de datos (DAQ), procesamiento digital de señales experimentales y control de instrumentos de medición en laboratorios de física e ingeniería.",
+    "fund": "Acceso gratuito y licencias educativas para estudiantes y cursos universitarios, incluyendo suites de instrumentación virtual, librerías de análisis matemático de señales y simulación de circuitos analógicos y digitales.",
+    "req": "Estudiantes regulares con cuenta creada utilizando el correo institucional (@usm.cl). En algunos módulos se valida mediante el acuerdo de licenciamiento de campus o código de activación académica provisto por la universidad o docentes.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.ni.com/es-cl/support/downloads/software-products/download.labview-student-software-suite.html",
+    "src": "https://www.ni.com/academic",
+    "note": "Estándar global en laboratorios de investigación científica y física experimental para adquisición de señales de alta precisión y control de sensores, osciloscopios, generadores y criostatos mediante interfaces GPIB, USB y Ethernet."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "OriginPro Learning Edition - Análisis Gráfico y Ajuste de Curvas para Estudiantes",
+    "org": "OriginLab Corporation",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Licencia de OriginPro para estudiantes, el paquete líder de análisis de datos científicos, ajuste de curvas no lineal (peak analysis / curve fitting), procesamiento de señales y generación de gráficos 2D y 3D con estándar de publicación editorial. Incluye integración con Python y R, herramientas estadísticas avanzadas y algoritmos de deconvolución espectral.",
+    "fund": "Licencia de OriginPro 100% gratuita por 6 meses (Learning Edition) con renovación periódica disponible durante los estudios universitarios para estudiantes con correo institucional.",
+    "req": "Estudiante activo con cuenta de correo institucional universitario (@usm.cl). La verificación es inmediata mediante correo de validación al dominio institucional.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.originlab.com/index.aspx?go=Products/OriginProStudent",
+    "src": "https://www.originlab.com/",
+    "note": "Herramienta esencial para la redacción de informes de laboratorio, tesis y papers en física, química y ciencia de materiales. Ampliamente utilizada para el tratamiento de datos de difracción de rayos X (XRD), espectroscopía Raman, FTIR y fotoluminiscencia."
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Enel Green Power Chile — Prácticas en Ingeniería Renovable, Parques Solares, Eólicos y Sistemas BESS",
+    "org": "Enel Green Power Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana) y plantas en regiones (Antofagasta, Atacama, Biobío)",
+    "desc": "Prácticas profesionales y memorias de título en una de las principales compañías generadoras de energía renovable en Chile. Los proyectos contemplan análisis de rendimiento y modelación de recurso solar y eólico, evaluación técnica y monitoreo del desempeño de sistemas de almacenamiento de energía en baterías (BESS), análisis de datos operativos SCADA, optimización de inyección a la red del SEN, mitigación de vertimientos (curtailment) y cumplimiento de exigencias técnicas de la Norma Técnica de Seguridad y Calidad de Servicio.",
+    "fund": "Asignación económica mensual para practicantes + seguro complementario y beneficios corporativos Enel",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.enel.cl/es/conoce-enel/trabaja-con-nosotros.html",
+    "src": "https://www.enelgreenpower.com/countries/americas/chile",
+    "note": "Postulaciones abiertas de forma continua a través del portal global de empleo de Enel y LinkedIn (Enel Group). Convocatorias para prácticas de verano e invierno."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "ENGIE Chile — Prácticas en Transición Energética, Almacenamiento BESS e Hidrógeno Verde",
+    "org": "ENGIE Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago y Región de Antofagasta (Tocopilla, Mejillones)",
+    "desc": "Pasantías formativas y memorias de titulación enfocadas en el plan de descarbonización y desarrollo de soluciones energéticas sostenibles de ENGIE. Participación en el dimensionamiento y operación técnica de sistemas de almacenamiento BESS a gran escala (como BESS Coya y BESS Tamaya), estudios de degradación electroquímica y estado de carga de celdas de litio, integración de parques eólicos y solares al Sistema Eléctrico Nacional, e iniciativas pioneras de generación y uso de hidrógeno verde industrial.",
+    "fund": "Asignación económica mensual de práctica + seguro contra accidentes y asignación de colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://jobs.engie.com/search/?q=&locationsearch=Chile",
+    "src": "https://www.engie.cl",
+    "note": "Vacantes publicadas de manera periódica en el portal global de carreras de ENGIE y bolsas de trabajo universitarias chilenas. Se reciben postulaciones en modalidad híbrida y terreno."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Statkraft Chile — Prácticas en Generación Renovable, Hidroelectricidad y Almacenamiento Energético",
+    "org": "Statkraft Chile",
+    "area": "Energía y plasmas",
+    "scope": "Chile",
+    "city": "Santiago y proyectos en regiones (O'Higgins, Maule, Los Lagos)",
+    "desc": "Prácticas profesionales en la empresa estatal noruega líder en generación hidroeléctrica y energías renovables en Europa, con sólida presencia en Chile. Oportunidades en evaluación de recurso energético (Energy Yield Assessment - EYA), supervisión y control de plantas híbridas solar-eólica-BESS, modelamiento predictivo de despacho y vertimiento, telemetría y análisis de datos de generación eléctrica, y soporte técnico a la gestión comercial de contratos de suministro de energía limpia (PPA).",
+    "fund": "Compensación económica mensual para estudiantes en práctica + beneficios de bienestar Statkraft",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.statkraft.cl/carreras/",
+    "src": "https://www.statkraft.cl",
+    "note": "Postulaciones activas a través del portal de talento de Statkraft y convocatorias universitarias institucionales (convenios USM, UCh, PUC)."
+  }
+]

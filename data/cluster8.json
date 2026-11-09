@@ -1,0 +1,58 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "CEFOP / MIRO UdeC — Prácticas en Óptica Cuántica, Fotónica e Información Cuántica",
+    "org": "Centro de Óptica y Fotónica (CEFOP) · Instituto Milenio MIRO · Universidad de Concepción",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Concepción (Región del Biobío) y Valparaíso / Santiago",
+    "desc": "Pasantías de investigación y prácticas profesionales en laboratorios experimentales y teóricos de óptica cuántica, fotónica integrada, metrología óptica y comunicaciones cuánticas en fibra y espacio libre. Los practicantes participan en montajes optoelectrónicos con láseres de pulsos ultracortos, alineación de cavidades ópticas, caracterización de detectores de fotón único y protocolos de distribución cuántica de llaves (QKD) junto a investigadores de la Universidad de Concepción y la red del Instituto Milenio de Investigación en Óptica.",
+    "fund": "Apoyo y asignación a través de proyectos basales y fondos Milenio según disponibilidad del laboratorio anfitrión",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miroptics.cl/contacto/",
+    "src": "https://miroptics.cl",
+    "note": "Recepción continua de solicitudes para prácticas y memorias de pregrado en física e ingeniería. Se recomienda contactar directamente a investigadores o enviar carta de interés y CV a contacto@miroptics.cl."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "GTD Teleductos — Prácticas en Ingeniería de Redes de Fibra Óptica, DWDM y Cables Submarinos",
+    "org": "Grupo GTD (GTD Teleductos)",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana) y Regiones",
+    "desc": "Prácticas profesionales en la gerencia de ingeniería y operaciones de telecomunicaciones ópticas de Grupo GTD. Participación en el diseño, despliegue, caracterización y monitoreo de redes troncales de fibra óptica monomodo, sistemas de multiplexación por división de longitud de onda densa (DWDM/ROADM), reflectometría óptica en el dominio del tiempo (OTDR), análisis de dispersión cromática (CD) y por modo de polarización (PMD), así como supervisión técnica de estaciones terminales del cable submarino Prat.",
+    "fund": "Asignación económica mensual de práctica + beneficio de almuerzo / vales de colación",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://gtd.trabajando.cl/",
+    "src": "https://www.gtd.cl",
+    "note": "Convocatorias regulares de prácticas de verano e invierno publicadas en Trabajando.com y LinkedIn, además de recepción continua de postulaciones a través del portal de selección de Grupo GTD."
+  },
+  {
+    "kind": [
+      "ind",
+      "prof"
+    ],
+    "name": "Entel — Prácticas en Ingeniería de Redes Ópticas, Transporte y Transmisión DWDM",
+    "org": "Entel Chile",
+    "area": "Óptica y fotónica",
+    "scope": "Chile",
+    "city": "Santiago (Región Metropolitana)",
+    "desc": "Prácticas profesionales en la división de redes troncales y transporte óptico de Entel Chile. Los practicantes integran equipos de ingeniería de transmisión de alta capacidad (100G/400G+), participando en cálculos de balance de potencia óptica (optical link budget), comisionamiento y monitoreo de canales ópticos DWDM/OTN, supervisión de rutas de fibra óptica terrestre y submarina, detección y localización de anomalías ópticas, e integración con redes de transporte IP y antenas 5G.",
+    "fund": "Asignación económica mensual para practicantes + seguro complementario y modalidad híbrida",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://entel.trabajando.cl/",
+    "src": "https://www.entel.cl",
+    "note": "Programa corporativo de prácticas profesionales y talentos jóvenes de Entel, con convocatorias periódicas y recepción continua de antecedentes en su portal de empleo."
+  }
+]

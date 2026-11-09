@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Deepnote Education Plan — Notebooks Colaborativos de Python y Ciencia de Datos en la Nube",
+    "org": "Deepnote",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Entorno colaborativo en la nube para Jupyter notebooks en Python, R y SQL con ejecución en hardware dedicado. El plan educativo ofrece de forma gratuita para estudiantes y docentes el plan Team/Pro, que incluye máquinas virtuales con hasta 16 GB de RAM y 4 vCPUs, proyectos colaborativos ilimitados en tiempo real, integración nativa con GitHub, GitLab, Google Drive y almacenes S3, soporte de autocompletado inteligente con IA y visualizaciones interactivas listas para publicar análisis y modelos de física computacional o ciencia de datos.",
+    "fund": "Plan Team/Pro 100% gratuito (valorado en $20-30 USD/mes por usuario), máquinas virtuales cloud con hasta 16 GB RAM y 4 vCPUs, horas de computación aumentadas y proyectos colaborativos ilimitados.",
+    "req": "Correo institucional universitario activo (@usm.cl) o acreditación de condición de estudiante regular/docente.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://deepnote.com/education",
+    "src": "https://deepnote.com/education",
+    "note": "Activación inmediata o en pocos días registrándose con el correo institucional @usm.cl o completando el formulario de solicitud académica. Ideal para asignaturas de métodos computacionales, física computacional, machine learning y proyectos de investigación en equipo."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "AWS Educate — Formación Cloud y Créditos de Computación para Estudiantes",
+    "org": "Amazon Web Services (AWS)",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Programa global de formación y experimentación en la nube de Amazon Web Services para estudiantes sin requerir tarjeta de crédito. Proporciona acceso a rutas de aprendizaje especializadas (computación en la nube, machine learning, DevOps, análisis de datos masivos), insignias digitales verificables (AWS Badges), acceso a laboratorios prácticos en consolas reales de AWS Sandbox para desplegar instancias EC2, almacenamiento S3 y bases de datos RDS, además de acceso a la bolsa de trabajo global AWS Educate Job Board.",
+    "fund": "Acceso 100% gratuito a laboratorios prácticos guiados con créditos y entornos sandbox en AWS sin necesidad de registrar tarjeta de crédito, más cursos oficiales, insignias de certificación y bolsa laboral de empleabilidad tech.",
+    "req": "Ser estudiante de educación superior mayor de 13 años con correo institucional universitario (@usm.cl). No requiere ingresar método de pago ni tarjeta bancaria.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://aws.amazon.com/education/awseducate/",
+    "src": "https://aws.amazon.com/education/awseducate/",
+    "note": "Registro directo sin costo. Complementa la formación de estudiantes que requieren aprender computación distribuida, procesamiento de datos de alta escala y arquitecturas de servidores en la nube sin incurrir en cobros accidentales."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "MongoDB Atlas for Students — Créditos Cloud y Certificación Oficial Gratuita",
+    "org": "MongoDB",
+    "area": "Software & Cloud",
+    "scope": "Internacional",
+    "city": "Online / Global",
+    "desc": "Paquete de beneficios del programa MongoDB for Academia para estudiantes universitarios. Incluye $50 USD en créditos para despliegue de clusters dedicados y sin expiración en MongoDB Atlas (la plataforma de base de datos multicloud líder NoSQL orientada a documentos), acceso irrestricto a todos los cursos avanzados en MongoDB University, y un voucher de examen 100% bonificado para rendir la certificación profesional oficial MongoDB Certified Associate Developer o DBA (valorada en $150 USD).",
+    "fund": "$50 USD en créditos para MongoDB Atlas + 1 voucher 100% gratuito para certificación oficial MongoDB Certified Associate ($150 USD de valor comercial) + acceso a MongoDB University y herramientas premium.",
+    "req": "Correo institucional universitario activo (@usm.cl) o cuenta verificada en el GitHub Student Developer Pack.",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.mongodb.com/students",
+    "src": "https://www.mongodb.com/academia/students",
+    "note": "Los créditos y el código de certificación se obtienen directamente a través del portal de estudiantes de MongoDB o canjeándolo mediante el GitHub Student Developer Pack. Muy útil para desarrollo web, almacenamiento de series temporales de sensores y aplicaciones de backend."
+  }
+]

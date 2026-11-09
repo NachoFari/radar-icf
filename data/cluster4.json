@@ -1,0 +1,113 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "NLHPC — Laboratorio Nacional de Computación de Alto Rendimiento (Supercómputo Guacolda-Leftraru)",
+    "org": "NLHPC · Centro de Modelamiento Matemático (CMM) / Universidad de Chile",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago / Remoto",
+    "desc": "Prácticas profesionales y pasantías técnicas en administración y soporte del supercomputador más potente de Chile (Guacolda-Leftraru). Tareas en optimización de código científico paralelo (MPI, OpenMP, CUDA/GPU), administración de clusters HPC Linux, contenedores científicos (Singularity/Docker) y paralelización de simulaciones de física computacional, astrofísica y clima.",
+    "fund": "Práctica profesional remunerada / asignación económica institucional NLHPC",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.nlhpc.cl",
+    "src": "https://www.nlhpc.cl",
+    "note": "Recepción continua de solicitudes para estudiantes de física, ingeniería y computación con interés en computación de alto rendimiento (HPC)."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Instituto Milenio de Física Subatómica en la Frontera de Altas Energías (SAPHIR)",
+    "org": "Instituto Milenio SAPHIR (UNAB · UC · UTFSM · UdeC · ULS)",
+    "area": "Física de partículas y nuclear",
+    "scope": "Chile",
+    "city": "Santiago / Valparaíso",
+    "desc": "Pasantías de investigación y desarrollo de memorias de pregrado en física experimental y teórica de partículas y física nuclear. Líneas activas en análisis de datos del experimento ATLAS del Gran Colisionador de Hadrones (LHC/CERN), fenomenología más allá del Modelo Estándar, física de neutrinos, materia oscura, e instrumentación avanzada y detectores de radiación en laboratorios asociados (incluyendo UTFSM Valparaíso y UC San Joaquín).",
+    "fund": "Becas de pasantía y memorias de pregrado financiadas por fondos Milenio ANID (~$250.000 a $400.000 CLP/mes según dedicación)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://saphir.cl",
+    "src": "https://saphir.cl",
+    "note": "Oportunidades abiertas a lo largo del año académico; vínculo directo con el CERN y colaboraciones internacionales de física de altas energías."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Servicio de Radioterapia y Física Médica — Clínica Alemana & Red de Salud UC CHRISTUS",
+    "org": "Clínica Alemana de Santiago · Red de Salud UC CHRISTUS",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago",
+    "desc": "Práctica profesional clínica en unidades de radioterapia oncológica avanzada y física médica hospitalaria. Formación en aseguramiento de calidad (QA) y dosimetría de aceleradores lineales (Varian / Elekta), sistemas de planificación de tratamiento 3D-CRT, IMRT, VMAT y radiocirugía estereotáctica (SRS/SBRT), además de aplicaciones en medicina nuclear y blindajes radiológicos.",
+    "fund": "Asignación económica mensual según convenio de práctica clínica institucional + beneficio de almuerzo",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.alemana.cl/profesionales-de-la-salud/docencia-e-investigacion",
+    "src": "https://www.ucchristus.cl",
+    "note": "Orientado a estudiantes de Licenciatura en Física o Ingeniería Civil Física. Se recomienda postular con anticipación al inicio del semestre de práctica a través de las direcciones de docencia clínica."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Laboratorio de Biofísica Molecular y Neurobiología Celular — CINV / BNI",
+    "org": "Centro Interdisciplinario de Neurociencia de Valparaíso (CINV) · Biomedical Neuroscience Institute (BNI)",
+    "area": "Biofísica",
+    "scope": "Chile",
+    "city": "Valparaíso / Santiago",
+    "desc": "Pasantías de investigación experimental y computacional en la frontera de la física y la biología celular: modelamiento físico-matemático de canales iónicos, termodinámica de membranas biológicas, electrofisiología celular (patch clamp), simulaciones de dinámica molecular (GROMACS/NAMD) y microscopía óptica de fluorescencia y superresolución.",
+    "fund": "Estipendio de pasantía de pregrado con cargo a proyectos de investigación ANID Basal/Milenio",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://cinv.uv.cl",
+    "src": "https://bni.cl",
+    "note": "Excelente opción regional en Valparaíso para estudiantes de la UTFSM y UV. Contactar a los investigadores principales según afinidad temática en biofísica teórica o experimental."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Astroingeniería y Ciencia de Datos Masivos — Fundación Data Observatory (DO)",
+    "org": "Data Observatory Foundation · ALMA · AURA · ANID",
+    "area": "Complejidad y datos",
+    "scope": "Chile",
+    "city": "Santiago / Remoto",
+    "desc": "Prácticas profesionales en ingesta, curaduría y explotación de grandes volúmenes de datos astronómicos y de observación de la Tierra. Desarrollo de modelos de machine learning para detección de anomalías y curvas de luz en astronomía de dominio temporal (preparación para el Vera C. Rubin Observatory / LSST), pipelines distribuidos en AWS y plataformas de acceso abierto para la comunidad científica.",
+    "fund": "Práctica profesional remunerada (~$250.000 a $350.000 CLP/mes) + créditos e infraestructura cloud",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://dataobservatory.net",
+    "src": "https://dataobservatory.net",
+    "note": "Modalidad híbrida o 100% remota disponible. Altamente recomendado para perfiles con dominio de Python, computación científica y astronomía computacional."
+  },
+  {
+    "kind": [
+      "beca",
+      "prof"
+    ],
+    "name": "Instituto Milenio de Investigación en Óptica (MIRO) — Óptica Cuántica & Metrología",
+    "org": "Instituto Milenio MIRO (UdeC · UChile · USACH · PUC) · CEFOP",
+    "area": "Cuántica",
+    "scope": "Chile",
+    "city": "Concepción / Santiago",
+    "desc": "Pasantías de iniciación científica y memorias de título en ópticas no lineales, información y computación cuántica, generación de fotones entrelazados, distribución cuántica de claves criptográficas (QKD), pinzas ópticas y metrología láser de ultraprecisión. Vinculación estrecha con desarrollos tecnológicos y spin-offs nacionales en fotónica cuántica.",
+    "fund": "Beca de pasantía y apoyo a memorias de pregrado financiada por Iniciativa Científica Milenio (~$250.000 a $350.000 CLP/mes)",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://miro.cl",
+    "src": "https://miro.cl",
+    "note": "Postulaciones directas coordinadas con los directores de línea e investigadores del centro en Concepción o Santiago."
+  }
+]

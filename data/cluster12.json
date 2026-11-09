@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "PositronPharma Chile — Operación de Ciclotrón y Radiofísica",
+    "org": "PositronPharma Chile",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Providencia)",
+    "desc": "Prácticas profesionales y proyectos de titulación en el principal centro de radiofarmacia y producción de radioisótopos PET de Chile. Participación en la operación y mantenimiento del acelerador de partículas ciclotrón (IBA Cyclone 18 MeV), síntesis automatizada de radiofármacos (F-18 FDG, Ga-68, Lu-177), control de calidad radioquímico, blindaje y protocolos de protección radiológica.",
+    "fund": "Asignación económica mensual para practicantes y seguro contra accidentes escolares/universitarios",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://positronpharma.com/contacto/",
+    "src": "https://positronpharma.com",
+    "note": "Orientado a estudiantes de Licenciatura en Física, Ingeniería Física o afines con interés en física nuclear aplicada, aceleradores de partículas y radiofarmacia hospitalaria e industrial."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Instituto Nacional del Cáncer (INC) — Unidad de Física Médica y Radioterapia",
+    "org": "Instituto Nacional del Cáncer (INC) · Servicio de Salud Metropolitano Norte",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Independencia)",
+    "desc": "Pasantías y prácticas profesionales en la Unidad de Física Médica del centro oncológico público de referencia nacional. Capacitación y trabajo en control de calidad dosimétrico y mecánico de aceleradores lineales, planificación tridimensional de tratamientos de radioterapia externa (3D-CRT, IMRT, VMAT, SRS/SBRT), braquiterapia de alta tasa de dosis (HDR) y protocolos de dosimetría clínica en pacientes oncológicos.",
+    "fund": "Práctica formativa sujeta a convenios asistencial-docentes del sector público de salud",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.incancer.cl/",
+    "src": "https://www.incancer.cl/",
+    "note": "Postulaciones canalizadas a través de convenios docentes-asistenciales universitarios y contacto directo con la Unidad de Física Médica del instituto."
+  },
+  {
+    "kind": [
+      "prof"
+    ],
+    "name": "Clínica IRAM — Dosimetría y Física Médica en Radioterapia Avanzada",
+    "org": "Clínica IRAM (Instituto de Radiomedicina)",
+    "area": "Física médica",
+    "scope": "Chile",
+    "city": "Santiago (Vitacura)",
+    "desc": "Prácticas profesionales en dosimetría clínica y física médica en uno de los centros privados de referencia en radiomedicina de Chile. Integración en el flujo clínico de planificación computacional de tratamientos mediante algoritmos avanzados (RapidPlan), aseguramiento de la calidad (QA) pre-tratamiento con maniquíes y detectores dosimétricos, calibración de haces en aceleradores lineales TrueBeam y Halcyon, y técnicas estereotáxicas (SRS/SBRT).",
+    "fund": "Asignación económica para movilización/colación según convenio institucional",
+    "req": "No informados",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://iram.cl/contacto/",
+    "src": "https://iram.cl/",
+    "note": "Dirigido a estudiantes de Física e Ingeniería Física interesados en física médica hospitalaria, radioterapia de alta precisión y dosimetría computacional."
+  }
+]

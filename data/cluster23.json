@@ -1,0 +1,56 @@
+[
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Lenovo Educación Chile - Descuento Estudiantil en Laptops y Tecnología",
+    "org": "Lenovo Chile",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Tienda educativa oficial de Lenovo en Chile con precios rebajados exclusivos en computadores portátiles ThinkPad, IdeaPad, Legion y Yoga, además de accesorios y monitores.",
+    "fund": "Hasta 20% a 30% de descuento frente al precio de lista retail, con envío a todo Chile y garantía oficial",
+    "req": "Ser estudiante o académico regular con correo universitario institucional (@usm.cl) validado vía plataforma educativa o SheerID",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.lenovo.com/cl/es/d/deals/estudiantes/",
+    "src": "https://www.lenovo.com/cl/es/",
+    "note": "Recomendado para estudiantes de ingeniería y ciencias que necesitan renovar laptops de alto rendimiento para cálculo numérico, programación y simulación."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "Adobe Creative Cloud para Estudiantes y Profesores",
+    "org": "Adobe Systems",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Acceso preferencial para estudiantes a la suite completa de Adobe Creative Cloud con más de 20 aplicaciones profesionales, incluyendo Photoshop, Illustrator, Premiere Pro y Acrobat Pro.",
+    "fund": "Más de 60% de descuento sobre la tarifa estándar individual en suscripción mensual o anual",
+    "req": "Estudiante activo de educación superior demostrable con dirección de correo universitario (@usm.cl) o credencial/certificado",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://www.adobe.com/cl/creativecloud/buy/students.html",
+    "src": "https://www.adobe.com/cl/",
+    "note": "Esencial para diseño de figuras para publicaciones científicas, posters de congresos, edición audiovisual y gestión avanzada de documentos PDF."
+  },
+  {
+    "kind": [
+      "desc"
+    ],
+    "name": "ISIC Chile - Tarjeta Internacional de Identidad Estudiantil",
+    "org": "ISIC Chile / ISIC Association",
+    "area": "Hardware & Lifestyle",
+    "scope": "Chile",
+    "city": "Nacional",
+    "desc": "Acreditación internacional única reconocida por la UNESCO que entrega miles de beneficios y descuentos directos en Chile y el extranjero en marcas de tecnología, librerías, aerolíneas, buses y cursos.",
+    "fund": "Descuentos de 10% a 40% en marcas de hardware asociadas (Samsung, HP), viajes, turismo y plataformas educativas",
+    "req": "Ser alumno regular de pregrado o postgrado con certificado de alumno regular vigente o correo institucional (@usm.cl)",
+    "deadline": null,
+    "status": "permanente",
+    "apply": "https://isic.cl/",
+    "src": "https://isic.cl/",
+    "note": "Muy conveniente para estudiantes que asisten a conferencias en el extranjero, pasantías internacionales o buscan convenios en equipamiento tecnológico."
+  }
+]
